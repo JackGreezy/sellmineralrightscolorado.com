@@ -1,0 +1,63 @@
+{
+ "slug": "durango-co",
+ "title": "Sell Mineral Rights in Durango, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "La Plata",
+ "group": "San Juan CO & Raton",
+ "primaryKeyword": "sell mineral rights durango co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Durango, CO | San Juan Basin CBM",
+ "metaDescription": "Own coalbed methane minerals near Durango, La Plata County? We price San Juan Basin interests off decline data and close directly with owners.",
+ "heroLead": "La Plata County sits over the Colorado side of the San Juan Basin, one of the oldest and most productive coalbed methane fields in the country, and Durango minerals are priced against that long production record.",
+ "intro": [
+  "San Juan Basin coalbed methane behaves differently than the horizontal Niobrara wells owners hear about from the DJ Basin. Fruitland coal wells produce water early, gas production ramps up over months rather than days, and total well life often runs twenty years or more. That long, gentler decline curve is actually good for sellers, because it gives us a longer production history to price against.",
+  "Ownership in the Durango area frequently traces to ranching families who kept minerals when they sold surface acreage decades ago, and many of these interests have been under lease and receiving royalty checks for years, sometimes across multiple operators as wells changed hands."
+ ],
+ "sections": [
+  {
+   "heading": "Why coalbed methane prices differently than shale gas",
+   "paragraphs": [
+    "Fruitland coal wells decline more slowly than a typical horizontal shale well, which means a mature, still-producing San Juan Basin interest can hold value longer than owners expect. We build our offer off actual trailing production from your division order, not a generic assumption based on newer basins."
+   ]
+  },
+  {
+   "heading": "Multiple operator history",
+   "paragraphs": [
+    "San Juan Basin wells have changed hands between several operators over the decades as larger companies sold mature assets to smaller ones. If your check stubs show more than one operator name over the years, that is normal here and does not affect your ownership, though it does mean we verify the current operator of record before finalizing an offer."
+   ]
+  },
+  {
+   "heading": "La Plata County title work",
+   "paragraphs": [
+    "We pull recorded leases, unit agreements, and any assignments on file with the La Plata County Clerk and Recorder to confirm your net revenue interest matches what your check stubs show. Discrepancies happen more often in basins with a long operator history, so this step protects both sides of the transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my well still produce after twenty years?",
+   "answer": "Fruitland coal wells in the San Juan Basin have historically long, slow decline curves compared to shale wells, so long production runs are normal here."
+  },
+  {
+   "question": "My royalty checks come from a different company than they used to. Is that a problem?",
+   "answer": "No, San Juan Basin assets have changed operators multiple times over the decades. We confirm the current operator before pricing."
+  },
+  {
+   "question": "How do you value a slow-declining well versus a fast one?",
+   "answer": "We apply a decline curve fit to your actual trailing production, which for coalbed methane is typically flatter and supports a longer value tail than shale."
+  },
+  {
+   "question": "Do you buy both producing and unleased interests near Durango?",
+   "answer": "Yes, though pricing differs significantly, since producing acreage is underwritten against real revenue and unleased acreage against comparable regional activity."
+  }
+ ],
+ "wordCount": 490,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-durango-co.jpg",
+  "alt": "Sell Mineral Rights in Durango, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

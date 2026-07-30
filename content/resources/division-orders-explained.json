@@ -1,0 +1,72 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained | Colorado Mineral Owners",
+ "metaDescription": "What a division order actually controls, why the decimal matters more than the signature line, and what to check before you sign one in Colorado.",
+ "heroLead": "A division order is the document that tells the operator how to split your check, and most owners sign it without checking the one number that matters.",
+ "intro": [
+  "Every mineral owner in a producing Colorado unit eventually gets a division order in the mail. It looks like paperwork you have to return before payment starts, and that's true, but the form itself is doing more work than the cover letter suggests. It sets your decimal interest in the well or unit, and that decimal is what every future check gets multiplied against. Sign a wrong number and you can spend a year chasing a correction while checks go out at the wrong split.",
+  "In Colorado, division orders show up most often after a new horizontal well spuds in the DJ Basin, when an operator like Civitas or Chevron consolidates a spacing unit and needs to allocate revenue across every tract inside it. Split-estate ownership along the Front Range makes this more complicated than it looks on paper, because the surface owner and the mineral owner are frequently different people, and the division order only tracks the mineral side."
+ ],
+ "sections": [
+  {
+   "heading": "What the division order actually sets",
+   "paragraphs": [
+    "The core of the document is a decimal, sometimes called your net revenue interest. It reflects your share of the well or unit after the operator nets out the royalty burden, any prior conveyances, and the spacing unit's total mineral acreage. A common owner error is assuming the decimal matches the fraction on their original deed. It rarely does once pooling, unitization, and any prior partial sales are factored in.",
+    "The operator's landman calculates this decimal from the county's chain of title, well spacing orders on file with the Colorado Energy and Carbon Management Commission, and any lease or prior conveyance documents in the courthouse record. If that chain has a gap, an unrecorded heirship transfer, or an old severance nobody re-filed, the decimal can be built on the wrong base acreage without anyone catching it until an owner asks."
+   ]
+  },
+  {
+   "heading": "Why the decimal is worth checking before you sign",
+   "paragraphs": [
+    "Compare the decimal against your last deed or your most recent royalty statement, not against memory. If you own an undivided 1/8 mineral interest in a 160-acre tract inside a 640-acre unit, work the math yourself: your interest times your tract's share of the unit times the royalty fraction should land close to what's printed. A discrepancy of even a few thousandths matters over the life of a well.",
+    "Operators are not shortchanging owners on purpose in most cases. Decimals get set from title work performed by someone who has never met you and is working off recorded documents that may be decades old. If your interest passed through probate, a life estate, or a family trust and the recording lagged, the operator's title chain may still show a prior owner. That's the single most common reason a division order decimal is off in Colorado's older split-estate counties."
+   ]
+  },
+  {
+   "heading": "What to do if the numbers don't match",
+   "paragraphs": [
+    "Do not sign a division order you can't reconcile. Call the operator's division order analyst directly, ask for the title opinion or the decimal calculation worksheet behind your number, and compare it line by line against your deed. Most companies hold your funds in suspense rather than pay a disputed decimal, so there is little downside to asking questions before you sign.",
+    "If the gap traces back to a title defect, curing it usually means recording a corrective deed, an affidavit of heirship, or a probate order at the county clerk's office in the county where the minerals sit. That's paperwork most owners handle once and never again, but it's worth doing right the first time since the corrected decimal follows the interest for as long as the well produces."
+   ]
+  },
+  {
+   "heading": "How this connects to selling",
+   "paragraphs": [
+    "A clean, signed division order is one of the first things a buyer's title team asks to see, because it's independent confirmation from the operator of exactly what decimal interest you own and that it's currently being paid. Owners who have never signed one, or who are contesting one, usually see that reflected in a buyer's offer as added uncertainty, since the buyer has to underwrite the same title question you'd otherwise resolve for free through the operator's process.",
+    "If you're weighing a sale against continuing to hold the interest, having your division order file in order shortens diligence considerably. It's one less document a buyer has to chase down, and it gives whoever is pricing the interest a verified decimal to work from instead of estimating one off an old deed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Most operators withhold payment, or hold it in suspense, until a signed division order is on file, though a handful of states cap how long they can withhold without one. Practically, signing it once the decimal checks out is what starts your checks."
+  },
+  {
+   "question": "Can I negotiate the decimal on a division order?",
+   "answer": "No, the decimal isn't a negotiated figure, it's a calculation based on title. If you think it's wrong, you dispute it with supporting title documents rather than negotiate a different number."
+  },
+  {
+   "question": "What if I never signed one and I'm not being paid?",
+   "answer": "Contact the operator's division order department directly, in Colorado that's usually listed on the well's Colorado Energy and Carbon Management Commission filing, and ask what's holding your interest in suspense. It's often a missing heirship document or an address that never got updated."
+  },
+  {
+   "question": "Does a division order transfer my ownership?",
+   "answer": "No. It only sets the payment decimal for a specific well or unit. Ownership transfers by deed, not by division order, and most division orders say so explicitly in the fine print."
+  },
+  {
+   "question": "Should I get a division order reviewed before selling my minerals?",
+   "answer": "It helps. Pulling your current division orders and comparing them against your deed before you talk to a buyer means you already know your verified decimal, which speeds up how quickly an offer can be finalized."
+  }
+ ],
+ "wordCount": 1031,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightscolorado-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

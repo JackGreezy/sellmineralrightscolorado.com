@@ -1,0 +1,87 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Mineral Rights Works | Colorado",
+ "metaDescription": "The step-by-step process for selling Colorado mineral rights, from initial evaluation through title review to a closed, recorded transaction.",
+ "heroLead": "Selling a mineral interest runs through a fixed sequence, and knowing the sequence in advance is what keeps the process from feeling opaque.",
+ "intro": [
+  "There's no showing, no open house, and no ongoing negotiation back and forth over weeks. Once you send us what you have, whether that's a deed, a royalty statement, or just a rough idea of where the interest is located, the process moves through a short set of defined steps: an initial evaluation, a formal offer, title review, and closing. Each step has a clear purpose, and we'll tell you where you are in it at any point.",
+  "In Colorado specifically, two things tend to add time or nuance to this sequence: split-estate ownership, where you hold minerals without the surface, and the county's specific chain of title, since many interests here passed through inheritance across multiple generations. We factor both in from the first conversation rather than surfacing them as surprises later."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: send us what you have",
+   "paragraphs": [
+    "Start with whatever documents you can locate, a deed, a division order, a recent royalty statement, or even just the county and legal description if that's all you have. You don't need a complete file to start this conversation. We'll tell you specifically what else would help once we see what's there.",
+    "If the interest is producing, recent statements give us the clearest read on where the well sits in its production trend. If it's undeveloped, the county and legal description are enough for us to check current permitting activity nearby."
+   ]
+  },
+  {
+   "heading": "Step two: initial evaluation",
+   "paragraphs": [
+    "For producing interests, we look at the actual volume trend across recent statements, oil and gas production month over month, along with your paid decimal, and build a range grounded in that data and current commodity pricing. For undeveloped minerals, we check recent Colorado Energy and Carbon Management Commission permits in your county and how current setback rules affect what's realistically drillable near your tract.",
+    "We'll walk you through how we got to the number, not only hand you a figure. If something in your documents changes the picture, a well you didn't know was recently permitted nearby, for instance, we'll explain how that factors in."
+   ]
+  },
+  {
+   "heading": "Step three: title review",
+   "paragraphs": [
+    "Once you're comfortable with the preliminary number, our title team examines the recorded chain of title in the county where the minerals sit to confirm it supports what you believe you own. This step catches gaps before closing rather than after, which protects both sides.",
+    "If something needs curing, a missing heir, an old severance with unclear language, an unrecorded transfer, we'll explain exactly what it means and what fixing it typically involves. Most title issues in Colorado's older mineral estates are routine and resolvable without derailing the transaction."
+   ]
+  },
+  {
+   "heading": "Step four: closing",
+   "paragraphs": [
+    "Closing involves signing a purchase and sale agreement and a mineral deed conveying your interest, which then gets recorded at the county clerk and recorder's office. Payment is typically arranged once the deed is ready to record, and we'll confirm the exact mechanics with you before that step.",
+    "After closing, we notify the operator of record if the interest is producing, so future division orders and payments route correctly. You'll have a copy of the recorded deed for your own records once the county processes it."
+   ]
+  },
+  {
+   "heading": "What tends to slow the process down",
+   "paragraphs": [
+    "Beyond title curative work, the most common delay is simply gathering scattered documents, especially when an interest has passed between family members over the years without every transfer being formally recorded. Starting that search early, even before a firm offer is in hand, is the single best way to keep the overall timeline short.",
+    "Multiple-heir situations can also add a step, since every owner with a share needs to sign their own conveyance. We can usually coordinate directly with each heir so the process doesn't stall on scheduling alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to have every document before starting?",
+   "answer": "No. Send what you have and we'll identify what else is needed. Most owners start with a partial file."
+  },
+  {
+   "question": "How long does the whole process take?",
+   "answer": "A straightforward transaction with clean title can close in a few weeks. Interests needing title curative work take longer while that's resolved."
+  },
+  {
+   "question": "Am I obligated to sell once I get an evaluation?",
+   "answer": "No. An evaluation is informational, and you can take time, ask questions, or decline at any point before signing a purchase agreement."
+  },
+  {
+   "question": "What happens if a title problem is found?",
+   "answer": "We'll explain what it is and what resolving it typically involves, whether that's a corrective deed, an affidavit of heirship, or another curative step. Most are routine."
+  },
+  {
+   "question": "How am I paid at closing?",
+   "answer": "Payment mechanics, including timing relative to deed recording, are confirmed with you directly before closing so there are no surprises."
+  },
+  {
+   "question": "What if several family members own the interest together?",
+   "answer": "Each owner with a share signs their own conveyance. We can coordinate directly with every heir involved so the process doesn't stall waiting on one person."
+  },
+  {
+   "question": "Can the process stop at any point before closing?",
+   "answer": "Yes, up until you sign the final purchase agreement and deed, you're free to step back at any stage without obligation."
+  }
+ ],
+ "wordCount": 883,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightscolorado-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

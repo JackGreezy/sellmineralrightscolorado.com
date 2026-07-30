@@ -1,0 +1,68 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling a Colorado ORRI (Overriding Royalty Interest)",
+ "metaDescription": "Own an overriding royalty interest tied to a Colorado lease? ORRIs expire with the lease, and we underwrite that risk carefully before quoting a number.",
+ "heroLead": "An ORRI can pay well while the lease is active, but it dies with the lease, and that expiration risk is the single most important thing to understand before you sell one.",
+ "intro": [
+  "An overriding royalty interest, or ORRI, is a royalty carved out of a specific oil and gas lease rather than out of the underlying mineral estate itself. It's commonly created when a landman, geologist, or intermediate party who helped assemble or broker a lease retains a small royalty share as compensation, or when an operator assigns part of its working interest and keeps an override on the assignment. In Colorado's DJ Basin, ORRIs often trace back to the original leasing and assembly period before a pad was drilled.",
+  "The defining feature of an ORRI, and the thing that separates it entirely from a standard royalty interest, is that it exists only as long as the lease it's carved from remains in effect. If that lease terminates, the ORRI terminates with it, regardless of how much mineral remains in the ground."
+ ],
+ "sections": [
+  {
+   "heading": "Why lease term matters more than anything else",
+   "paragraphs": [
+    "Because an ORRI is tied to a specific lease rather than the mineral estate, it has a built-in expiration risk that a standard royalty interest doesn't carry. As long as the well is producing in paying quantities, most oil and gas leases stay held by production and the ORRI keeps paying. But if the well is plugged, the lease terminates, or the underlying working interest changes hands in a way that affects the override's status, your ORRI income can stop even though minerals remain in the ground.",
+    "We factor lease status and the well's remaining productive life heavily into how we underwrite an ORRI, more heavily than we would for a standard royalty interest on the same production, precisely because of that termination risk."
+   ]
+  },
+  {
+   "heading": "How ORRIs get created and what to check",
+   "paragraphs": [
+    "Your ORRI likely traces back to an assignment document, a lease brokerage arrangement, or a working interest transfer where the override was reserved as part of the deal. We pull that assignment to confirm the exact override percentage, which well or unit it applies to, and whether it's tied to a single lease or a defined area of mutual interest covering multiple wells.",
+    "If your override covers multiple wells under a broader agreement rather than one specific lease, that changes the risk profile meaningfully, since termination of any single lease wouldn't end the entire override."
+   ]
+  },
+  {
+   "heading": "Valuing an ORRI against remaining well life",
+   "paragraphs": [
+    "We price a producing ORRI using the same decline-curve approach we'd apply to any royalty interest, but with a shorter effective time horizon reflecting the underlying lease's likely remaining life rather than assuming indefinite duration. A well into its decline tail, closer to the point an operator might plug it as uneconomic, carries more termination risk than a well still in its early productive years, and that shows up directly in the number.",
+    "Send us your check history and, if available, the original assignment document, and we'll build a valuation that reflects both the production curve and the lease-dependency risk specific to overrides."
+   ]
+  },
+  {
+   "heading": "Confirming your override survived subsequent assignments",
+   "paragraphs": [
+    "Working interests in Colorado wells often change hands multiple times over a well's life as operators sell producing assets to one another. An override reserved in an early assignment should carry forward through later transfers, but the paperwork trail can get thin if several sales happened over the years without careful tracking. We verify that your override is still being honored by the current operator before quoting, rather than assuming the original assignment terms automatically carried through cleanly.",
+    "If your check history shows the payor name has changed at some point, that's usually just a sign the working interest sold to a new operator, and your override should have transferred along with it as a burden on the lease."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my ORRI if the well gets plugged?",
+   "answer": "The override typically terminates along with the lease it was carved from, since an ORRI has no life independent of that lease. This is the key risk that separates an ORRI from a standard mineral royalty."
+  },
+  {
+   "question": "How is an ORRI different from a standard royalty interest?",
+   "answer": "A standard royalty interest is carved from the mineral estate itself and can outlive any individual lease. An ORRI is carved from a specific lease and expires when that lease terminates, regardless of remaining minerals in place."
+  },
+  {
+   "question": "Does my ORRI cover just one well or multiple wells?",
+   "answer": "It depends on the original assignment. Some overrides apply to a single lease and well; others cover a defined area of mutual interest spanning multiple wells. We check your assignment document to confirm."
+  },
+  {
+   "question": "Why would an ORRI sell for less than a similar-sized royalty interest?",
+   "answer": "Because of the termination risk tied to the underlying lease. A royalty interest continues regardless of any single lease's status, while an ORRI's value depends on that specific lease staying in effect."
+  }
+ ],
+ "status": "written",
+ "wordCount": 854,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightscolorado-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

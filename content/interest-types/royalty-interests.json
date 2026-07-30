@@ -1,0 +1,79 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Selling Colorado Royalty Interests: What Determines Value",
+ "metaDescription": "Own a Colorado oil and gas royalty interest? We build a real decline curve from your check history before quoting, not a flat multiple of last month's check.",
+ "heroLead": "A royalty interest is the cleanest kind of mineral ownership to value, if you have the check history, and the messiest to value if you don't.",
+ "intro": [
+  "A royalty interest is the right to a proportionate share of oil and gas production revenue, free of the costs of drilling and operating the well, in exchange for having leased the underlying minerals to an operator. Most Colorado mineral owners with active production hold royalty interests rather than an unleased mineral estate, receiving a division order check monthly or quarterly based on their decimal interest in the well or spacing unit.",
+  "Royalty interests are also the most straightforward type of interest for us to value accurately, because the check history itself tells us most of what we need: production volume, decline rate, and how commodity price has moved through your interest's revenue over time."
+ ],
+ "sections": [
+  {
+   "heading": "Building a decline curve from your check stubs",
+   "paragraphs": [
+    "We ask for 12 to 24 months of division order check stubs before quoting a producing royalty interest, because a single month's payment tells us almost nothing about where the well sits on its decline curve. Two royalty interests paying the same amount this month can be worth very different amounts depending on whether one well is six months into a steep early decline and the other is five years into a long, stable tail.",
+    "Colorado horizontal wells, particularly in the DJ Basin, typically show a sharp decline in the first year or two followed by a much flatter, longer tail. Placing your specific interest correctly on that curve is the single biggest driver of an accurate valuation."
+   ]
+  },
+  {
+   "heading": "What else moves the number",
+   "paragraphs": [
+    "Beyond decline, we look at the commodity mix behind your check, since an oil-weighted DJ Basin interest and a gas-weighted Piceance interest respond differently to commodity price swings, and at how many wells share the spacing unit your interest is tied to, since additional wells drilled later on the same unit can extend or reshape the curve you've seen so far.",
+    "We also check whether there's remaining undeveloped acreage under the same lease that hasn't been drilled yet, since that can represent additional upside beyond what your current check history shows."
+   ]
+  },
+  {
+   "heading": "Confirming your decimal interest is correct",
+   "paragraphs": [
+    "The decimal interest shown on your division order statement reflects your net revenue interest after accounting for the lease's royalty rate, any pooling, and your fractional ownership within the tract. Errors happen, particularly after inheritance or partial transfers, so we independently confirm your decimal against the recorded chain of title rather than simply accepting the operator's figure at face value before finalizing a purchase price."
+   ]
+  },
+  {
+   "heading": "Reading a division order statement correctly",
+   "paragraphs": [
+    "A division order statement lists more than the check amount: gross production volume, your decimal interest, deductions for post-production costs like gathering and transportation, and the net price realized after those deductions. We read every line, not only the bottom number, because two owners with identical decimal interests can see different net checks depending on which deductions the operator applies under their specific lease terms.",
+    "If your statement shows unusually high deductions relative to gross value, that's worth understanding before a sale, since it directly affects the net revenue stream we're valuing and may reflect lease language negotiated decades before current market norms."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How many months of check stubs do you actually need?",
+   "answer": "12 to 24 months gives us a reliable decline curve. A single recent check doesn't show whether the well is early in a steep decline or well into a stable tail, which changes the valuation significantly."
+  },
+  {
+   "question": "Why would two interests paying the same amount be worth different prices?",
+   "answer": "Because where each well sits on its decline curve matters more than the current payment amount. A well early in decline still has more value ahead of it than one already deep into its tail production, even if this month's checks match."
+  },
+  {
+   "question": "Does the price of oil and gas change what my interest is worth?",
+   "answer": "Yes, directly. We factor current commodity price exposure into the valuation, and an oil-weighted interest responds differently to price moves than a gas-weighted one."
+  },
+  {
+   "question": "Can additional wells drilled later on my unit increase what I'm offered?",
+   "answer": "Potentially, since undeveloped acreage under the same lease can represent real upside beyond current production. We look at whether the operator has filed for more wells before finalizing a valuation."
+  },
+  {
+   "question": "What if my royalty interest hasn't paid anything in several months?",
+   "answer": "That can happen for reasons unrelated to value, a temporary shut-in, a pipeline issue, or a division order correction in process. We check with the operator to understand the cause before assuming the well has stopped producing for good."
+  },
+  {
+   "question": "How do I know my decimal interest on the division order is correct?",
+   "answer": "We independently verify it against the recorded chain of title at the county clerk's office before finalizing any purchase, since errors do occur, particularly after inheritance or partial ownership transfers."
+  },
+  {
+   "question": "What are post-production deductions and why do they matter?",
+   "answer": "These are costs like gathering, compression, and transportation that some Colorado leases allow the operator to deduct before calculating your royalty. We read your division order statement closely to see how those deductions affect your actual net revenue."
+  }
+ ],
+ "status": "written",
+ "wordCount": 897,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightscolorado-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

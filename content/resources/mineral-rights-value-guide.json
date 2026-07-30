@@ -1,0 +1,80 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Mineral Rights Worth in Colorado?",
+ "metaDescription": "The variables that actually drive Colorado mineral rights value, from decline curves to setback rules, and why a single per-acre figure misleads owners.",
+ "heroLead": "The honest answer to what your minerals are worth is that it depends on a short list of specific variables, not a number you can look up.",
+ "intro": [
+  "Owners searching for mineral rights value in Colorado often land on a per-acre figure quoted from a different county, a different formation, or a different point in a well's production life, and then measure their own offer against it. That comparison rarely holds up, because value in this asset class is driven by a handful of specific, checkable variables rather than a market-wide price. Understanding those variables is more useful than any single number.",
+  "This isn't a formal appraisal, and nothing here should be read as a value promise. It's a breakdown of what actually moves a valuation up or down, so you can evaluate an offer against your own interest's real characteristics."
+ ],
+ "sections": [
+  {
+   "heading": "Production status is the first fork",
+   "paragraphs": [
+    "Producing interests, meaning wells are currently online and paying royalties, are valued off actual cash flow: a decline curve projection, a price deck, and a discount rate applied to the projected stream. Non-producing or undeveloped interests are valued off risk, meaning nearby permitting and drilling activity, since there's no cash flow yet to project.",
+    "These two categories can carry very different values for the same acreage, depending on where a well eventually gets sited relative to your tract, or whether one gets sited at all. An owner two tracts away from an active horizontal well is in a fundamentally different position than one whose tract the well was actually drilled under."
+   ]
+  },
+  {
+   "heading": "Where the well sits in its decline curve",
+   "paragraphs": [
+    "A newer well, especially one still near its early peak production, generally supports a higher value than an older well further into decline, because more of its productive life, and revenue, lies ahead. But newer wells also carry more uncertainty about how the decline will actually play out, so this isn't a simple newer-is-always-worth-more relationship.",
+    "In the DJ Basin specifically, horizontal wells typically show a steep initial decline over the first one to three years before flattening. Where your specific well sits on that curve at the time of valuation is one of the biggest single drivers of the number, more than almost any other factor."
+   ]
+  },
+  {
+   "heading": "Operator activity and formation depth",
+   "paragraphs": [
+    "An active operator with a recent history of permitting and drilling in the area, companies like Civitas, Chevron, or Occidental in parts of the DJ Basin, supports more confidence in future development than an inactive or financially uncertain operator. This matters most for undeveloped acreage, where the entire valuation depends on the likelihood of a well eventually being drilled.",
+    "Formation and depth matter too. Not every zone under a tract is equally productive, and a valuation should reflect which specific formation is being targeted, since a tract with strong Niobrara potential and weak Codell potential isn't valued the same as one strong across both."
+   ]
+  },
+  {
+   "heading": "Colorado-specific factors: setbacks and split estate",
+   "paragraphs": [
+    "Colorado's current setback rules limit how close new wells can be sited to occupied structures and certain other land uses. On undeveloped acreage in areas where those setbacks meaningfully constrain siting options, a buyer's valuation reflects that reduced likelihood of near-term development. This is a real, checkable factor, not a vague discount.",
+    "Split-estate ownership, where you hold minerals without the surface, adds a smaller but real layer, since development depends partly on a surface-use agreement being negotiated with a separate surface owner. None of this means undeveloped or split-estate minerals lack value, only that the range reflects the added uncertainty, and any specific figure should be treated as an estimate tied to current activity, not a fixed promise."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why do two offers for similar acreage differ so much?",
+   "answer": "Usually because the underlying variables differ more than they appear to, decline curve position, operator activity, or setback exposure can all vary significantly even between nearby tracts."
+  },
+  {
+   "question": "Is undeveloped land worth less than producing minerals?",
+   "answer": "Generally yes, since there's no current cash flow to value, but it's not worthless. It's priced off risk and nearby activity, and the range can be wide."
+  },
+  {
+   "question": "Do setback rules actually lower value, or just add uncertainty?",
+   "answer": "Both. Where setbacks meaningfully limit where a well could be sited, that reduces the practical odds of near-term development, which is reflected in a more conservative valuation."
+  },
+  {
+   "question": "Can I get a rough value estimate without a formal appraisal?",
+   "answer": "Yes, a buyer's acquisitions team can typically give a working estimate based on your documents and known activity in the area, though a formal independent appraisal is a separate, more detailed process."
+  },
+  {
+   "question": "Does mineral value change over time even without a sale?",
+   "answer": "Yes, it moves with commodity prices, decline curve progression, and nearby operator activity, which is why an estimate given a year ago may not reflect current conditions."
+  },
+  {
+   "question": "Does the number of net mineral acres alone determine value?",
+   "answer": "No. Acreage is one input, but decline curve position, operator activity, and formation depth typically move the number more than raw acreage count on its own."
+  },
+  {
+   "question": "Why do buyers ask for county and legal description before quoting a range?",
+   "answer": "Because value is checked against real, specific activity in that exact area, permits, offset wells, operator history, rather than a broad regional average that wouldn't reflect your actual tract."
+  }
+ ],
+ "wordCount": 901,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightscolorado-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

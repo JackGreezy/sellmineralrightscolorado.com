@@ -1,0 +1,80 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | Colorado Mineral Rights Buyer",
+ "metaDescription": "We're a mineral and royalty acquisitions group focused on Colorado, evaluating each interest against real production data, title, and county activity.",
+ "heroLead": "We're an acquisitions group focused specifically on Colorado mineral and royalty interests, working case by case rather than off a generic pricing model.",
+ "intro": [
+  "Mineral ownership in Colorado comes with a specific set of complications, split-estate tracts, evolving setback rules, title chains that run through multiple inherited transfers, that a generalist buyer working across every state can miss. We focus our diligence on understanding those specifics for each county and formation we work in, because a well in Weld County's core DJ Basin acreage behaves differently than one in a flank area, and an undeveloped tract in Garfield County carries different considerations than a producing royalty interest along the Front Range.",
+  "We are a buyer and connector in this space, not a licensed appraiser, attorney, or CPA. Where a decision touches on legal title, tax treatment, or a formal valuation, we point owners to their own qualified advisors rather than substitute for one."
+ ],
+ "sections": [
+  {
+   "heading": "How we approach an evaluation",
+   "paragraphs": [
+    "Every interest gets looked at on its own terms. For producing minerals, that means pulling recent royalty statements or division orders and looking at the actual production trend, not only the most recent check. For undeveloped acreage, it means checking current permitting activity with the Colorado Energy and Carbon Management Commission and understanding how setback rules affect what's practically drillable near your tract.",
+    "We also look closely at title, since a large share of Colorado mineral interests passed through inheritance and the recorded chain doesn't always match current ownership cleanly. We work through gaps as a normal part of the process, using curative documents like corrective deeds or affidavits of heirship where needed, rather than treating a messy title history as a dealbreaker."
+   ]
+  },
+  {
+   "heading": "Why we stay focused on Colorado",
+   "paragraphs": [
+    "Colorado's regulatory environment, particularly around setback distances and the split-estate framework that governs how surface and mineral owners interact, has evolved meaningfully in recent years. Understanding those rules well enough to evaluate their practical effect on a specific tract takes ongoing attention, and we'd rather do that well for one state than spread thin across many.",
+    "That focus also means we've spent time understanding how different Colorado plays behave, the DJ Basin's horizontal well decline patterns, the Piceance Basin's gas-weighted production, the San Juan Basin's coalbed methane history, rather than applying a single national template to every interest that comes in."
+   ]
+  },
+  {
+   "heading": "What you can expect from working with us",
+   "paragraphs": [
+    "A straightforward explanation of how we arrived at any number we give you, referencing your specific documents and current activity in your county, not a generic figure pulled from a broader market average. If title questions come up, we'll explain what they are and what resolving them typically involves rather than leaving you guessing.",
+    "You're never obligated to accept an evaluation, and we'd rather you take the time to review it, compare it against your own records, or get a second opinion than feel rushed into a decision about an asset that took generations to accumulate in your family, in many cases."
+   ]
+  },
+  {
+   "heading": "The kind of interests we see most often",
+   "paragraphs": [
+    "A large share of the Colorado owners we talk to inherited a fractional interest from a parent or grandparent who acquired it decades ago, often before the current wave of DJ Basin horizontal development began. Many of these owners have never seen a courthouse title record for the tract and aren't sure whether the interest is even still producing.",
+    "Others come to us holding a small royalty interest that's been paying modest checks for years and want to understand whether selling now, against continuing to collect a declining stream, makes sense for their situation. Both starting points are common, and neither requires you to already understand the mechanics before reaching out."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a licensed appraiser or attorney?",
+   "answer": "No. We're a buyer and connector in the mineral rights space. For a formal appraisal or legal advice on title or tax matters, we'd point you to your own qualified professional."
+  },
+  {
+   "question": "Do you only work in the DJ Basin?",
+   "answer": "No, we evaluate interests across Colorado's producing counties, including the Piceance and San Juan basins, though the DJ Basin does see the most current drilling activity."
+  },
+  {
+   "question": "How do you handle inherited mineral interests with unclear title?",
+   "answer": "We work through the chain of title as a normal part of the process, and can explain what a curative step like a corrective deed or affidavit of heirship would involve for your specific situation."
+  },
+  {
+   "question": "Is getting an evaluation from you free?",
+   "answer": "Yes, providing an initial evaluation doesn't obligate you to sell, and there's no cost to have your interest reviewed."
+  },
+  {
+   "question": "What if I decide not to sell after getting an offer?",
+   "answer": "That's entirely your decision. There's no pressure or penalty for taking time, seeking a second opinion, or deciding to hold the interest instead."
+  },
+  {
+   "question": "How do you keep valuations grounded rather than generic?",
+   "answer": "By tying every number to documents and current activity specific to your interest, recent statements, nearby permits, operator history, rather than applying a broad statewide figure that ignores county and formation differences."
+  },
+  {
+   "question": "Do you work with owners who hold interests across multiple counties?",
+   "answer": "Yes, and we evaluate each county's activity separately, since a tract in the DJ Basin's core acreage and one in a Piceance Basin gas play don't move together and shouldn't be priced as if they did."
+  }
+ ],
+ "wordCount": 909,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightscolorado-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

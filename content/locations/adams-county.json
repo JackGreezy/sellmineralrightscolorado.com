@@ -1,0 +1,73 @@
+{
+ "slug": "adams-county",
+ "title": "Sell Mineral Rights in Adams County, CO",
+ "type": "county",
+ "group": "DJ Basin",
+ "primaryKeyword": "adams county mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Adams County, CO",
+ "metaDescription": "Own DJ Basin minerals in Adams County? See how Wattenberg-adjacent production, urban setbacks, and county records shape what buyers pay before you sell.",
+ "heroLead": "Adams County sits on the northeast flank of Denver's suburban expansion and directly over the northern reach of the Wattenberg Field, which puts a growing share of its mineral acreage inside the collision between horizontal Niobrara development and residential growth.",
+ "intro": [
+  "Adams County minerals get valued differently depending on which side of that collision they sit on. Acreage near Brighton, Commerce City, and the Weld County line has seen active horizontal pads targeting the Niobrara and Codell benches of the DJ Basin, with production runs that show up on a division order the way any Wattenberg well would. Acreage further south and west, closer to built-out Denver suburbs, is more likely to be held by older vertical wells or leases that never got developed once the surface use conflicts hardened.",
+  "We buy and evaluate Adams County mineral and royalty interests county-wide, but we underwrite the two situations differently. A producing interest gets priced off decline curves and recent check stubs. An undeveloped or stale lease gets priced off what's actually permittable given today's setback rules, not what a landman might have quoted in 2014."
+ ],
+ "sections": [
+  {
+   "heading": "Where the county sits in the DJ Basin",
+   "paragraphs": [
+    "The productive core of the Wattenberg Field is centered in Weld County, but Adams County catches the northern and western edges of that same Niobrara-Codell stack. Operators drilling multi-well pads along the Adams-Weld line have extended laterals that cross county boundaries, which means a mineral tract can be pooled into a unit that's mostly in one county and partly in the other. If your family's minerals were assigned by legal description decades ago, it's worth checking whether a modern horizontal unit even lines up with those original boundary lines before assuming a well isn't paying you.",
+    "Closer to Commerce City and the South Platte corridor, the geology is the same but the surface is more built up — refineries, rail, and dense residential subdivisions. Operators still hold leases here, but new permitting has slowed as local governments and the state's Energy and Carbon Management Commission apply tighter scrutiny to pads near homes and schools."
+   ]
+  },
+  {
+   "heading": "Setback rules changed what's developable",
+   "paragraphs": [
+    "Colorado's 2019 overhaul of oil and gas oversight (SB 19-181) shifted the mission of the state regulator from promoting development to protecting public health and safety, and it opened the door for counties and municipalities to layer on their own surface-use and setback rules. Adams County and its cities have used that authority. The practical effect for a mineral owner is that a tract that looked drillable under the old rules may now sit inside a buffer zone that keeps a pad off the surface entirely, even if the minerals themselves are still perfectly capable of producing through a directional well drilled from outside the buffer.",
+    "That distinction — undevelopable surface location versus undevelopable minerals — is one buyers weigh carefully. A tract inside a residential setback zone isn't worthless; it just has to be reached by a longer lateral from a pad sited elsewhere, which changes the timing and the economics but not necessarily the eventual outcome."
+   ]
+  },
+  {
+   "heading": "Split estate and old subdivision severances",
+   "paragraphs": [
+    "A lot of Adams County land was platted for agriculture and ranching long before the suburbs arrived, and mineral rights were commonly severed from the surface in those early transactions — sold, reserved, or willed off separately from the farmland itself. Multiple generations later, a homeowner in a newer Brighton or Commerce City subdivision may have no idea they don't own what's underneath their lot, while a family two counties away holds a fractional mineral interest they've never actively managed.",
+    "If you inherited a fractional interest like that, the first useful step isn't calling a buyer — it's pulling the deed history at the Adams County Clerk and Recorder to confirm your exact decimal share and whether the interest has ever been leased. We do this work as part of every offer we make, but knowing your own numbers first puts you in a stronger position either way."
+   ]
+  },
+  {
+   "heading": "What we look at before making an offer",
+   "paragraphs": [
+    "For producing interests, we pull twelve to twenty-four months of royalty statements where available and build a decline curve off actual volumes rather than a type-curve assumption. For non-producing interests, we check whether the tract falls inside an existing horizontal unit, whether nearby permits have been filed with the state, and what the local setback map does to surface access. Weld County comparables matter here since Adams shares the same formations, but we adjust for the added regulatory friction on the Adams side of the line."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my land need an active well to sell my minerals?",
+   "answer": "No. We buy producing and non-producing interests. Non-producing tracts in the Wattenberg extension zone are priced against nearby permitting activity and decline data from comparable units rather than your own check history, since there isn't one yet."
+  },
+  {
+   "question": "How do Adams County's local setback rules affect value?",
+   "answer": "They mostly affect timing and access, not whether minerals exist. A tract inside a residential buffer can still be produced through a longer lateral drilled from a pad sited outside the buffer; that typically pushes out the development timeline, which we build into any offer."
+  },
+  {
+   "question": "My mineral interest hasn't been leased in years — is it still worth anything?",
+   "answer": "Often yes, especially if it sits near active Wattenberg units. We check current permitting and unit boundaries around your legal description before quoting, rather than assuming a stale lease means no value."
+  },
+  {
+   "question": "Where do I find my ownership documentation?",
+   "answer": "Start with the Adams County Clerk and Recorder's deed and probate records, which show the chain of title and your decimal mineral interest. We can help pull and interpret that record as part of evaluating your interest."
+  }
+ ],
+ "wordCount": 978,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-adams-county-co.jpg",
+  "alt": "Sell Mineral Rights in Adams County, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

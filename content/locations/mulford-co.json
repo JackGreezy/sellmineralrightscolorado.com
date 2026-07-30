@@ -1,0 +1,57 @@
+{
+ "slug": "mulford-co",
+ "title": "Sell Mineral Rights in Mulford, CO",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Garfield",
+ "group": "Piceance",
+ "primaryKeyword": "sell mineral rights mulford co",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Mulford, CO | Piceance Basin Gas",
+ "metaDescription": "Hold minerals near Mulford, CO in the Piceance Basin's Garfield County core? We check Williams Fork gas well history before quoting your interest.",
+ "heroLead": "Mulford sits in Garfield County's Piceance Basin gas country, close to the Mamm Creek and Rulison fields that defined the last two decades of drilling in this part of western Colorado.",
+ "intro": [
+  "Mulford is a small unincorporated area in the Garfield County stretch where Piceance Basin gas development ramped up hard through the 2000s before a sharp slowdown after 2009 as gas prices fell. If your family held ranch or homestead ground here, the minerals likely got leased and possibly drilled during that boom, and understanding where the tied well sits today, whether still producing or long since gone stripper, is the whole game."
+ ],
+ "sections": [
+  {
+   "heading": "Boom-era drilling and the slowdown that followed",
+   "paragraphs": [
+    "Piceance Basin gas drilling in this stretch of Garfield County peaked in the mid-to-late 2000s, with operators like the predecessors to Ursa Resources and other Williams Fork-focused companies drilling dense pad development. When gas prices fell after 2009, a lot of that activity slowed dramatically, leaving many wells to mature into their long decline tail without the follow-up drilling that might have kept per-acre value climbing.",
+    "That history matters for valuation: a well drilled in 2007 has a very different remaining production profile today than a well drilled in 2018, even if both sit in the same formation."
+   ]
+  },
+  {
+   "heading": "What we check before quoting",
+   "paragraphs": [
+    "We pull COGCC production history for the specific well or wells tied to your legal description and confirm current operator of record, since ownership of Piceance assets has changed hands more than once since the 2009 slowdown. From there we build a number based on actual remaining production, not the area's boom-era reputation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Piceance gas drilling still active near Mulford?",
+   "answer": "Much quieter than the mid-2000s peak, though not entirely dormant. We check current COGCC activity for your specific section before quoting."
+  },
+  {
+   "question": "Why did drilling slow down so much after 2009?",
+   "answer": "Falling natural gas prices made continued dense Piceance development less economic for many operators, which slowed new drilling even as existing wells kept producing."
+  },
+  {
+   "question": "Has the operator on my old lease changed?",
+   "answer": "Possibly. Several original Piceance operators have sold or merged their Garfield County assets since the slowdown, and we verify current operator of record before quoting."
+  },
+  {
+   "question": "How do I read a Williams Fork well's decline curve?",
+   "answer": "Broadly, expect a strong first-year output that tapers quickly, then settles into a slower, longer decline. We pull the exact numbers for your well from COGCC rather than relying on a general rule of thumb."
+  }
+ ],
+ "status": "written",
+ "wordCount": 439,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-mulford-co.jpg",
+  "alt": "Sell Mineral Rights in Mulford, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

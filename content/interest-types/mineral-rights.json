@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? Colorado Owner Guide",
+ "metaDescription": "Understand what Colorado mineral rights actually include, how they're severed from the surface, and what determines their value before you sell.",
+ "heroLead": "Mineral rights are the ownership of what's beneath the surface, oil, gas, coal, and other resources, and in Colorado that ownership is frequently split from the land itself in ways that surprise owners.",
+ "intro": [
+  "Mineral rights refer to legal ownership of the oil, gas, coal, and other subsurface resources beneath a parcel of land, separate and distinct from ownership of the surface itself. In Colorado, mineral ownership was severed from the surface estate on an enormous number of tracts, sometimes through federal homestead patents that reserved minerals to the government, sometimes through private deeds where a landowner sold or leased the minerals decades ago while keeping the surface, or vice versa.",
+  "Understanding exactly what your mineral rights include, and don't include, is the starting point for any conversation about selling. A mineral estate can be further divided into royalty interests, working interests, and overriding royalty interests, each of which behaves differently and prices differently, so 'mineral rights' as a category covers more ground than most owners initially realize."
+ ],
+ "sections": [
+  {
+   "heading": "What owning mineral rights actually gives you",
+   "paragraphs": [
+    "Full mineral ownership generally carries the right to explore for and produce oil and gas, the right to lease those minerals to an operator in exchange for a bonus payment and ongoing royalty, and the right to a share of production if a well is drilled, all independent of who owns the land's surface. If you own the minerals but not the surface, in a common Colorado split estate arrangement, you generally don't control what happens above ground, but you retain the economic interest in what's produced below it.",
+    "Most Colorado mineral owners aren't managing active drilling themselves; they've leased the minerals to an operator and receive royalty payments in exchange, which is a passive form of mineral ownership distinct from holding a working interest that carries operating costs and drilling risk."
+   ]
+  },
+  {
+   "heading": "How Colorado minerals became severed from the surface",
+   "paragraphs": [
+    "A large share of Colorado's mineral severances trace back to homestead-era patents, agricultural land sales where the seller reserved minerals, or oil and gas leases and deeds executed decades before horizontal drilling made this acreage commercially interesting. In counties like Weld, where the DJ Basin later became one of the most active plays in the country, minerals that were severed and sold or leased cheaply generations ago are now tied to production worth substantially more.",
+    "That history is exactly why title research matters before any sale: the chain of ownership for a severed mineral interest can run through multiple deeds, estates, and county records offices, and confirming what you actually own is the necessary first step."
+   ]
+  },
+  {
+   "heading": "What determines value",
+   "paragraphs": [
+    "For producing minerals, value is driven primarily by recent royalty check history, projected decline, and commodity price exposure. For non-producing or leased-but-undrilled minerals, value is tied instead to offset development activity and permitting probability in the surrounding township and range. We ask which category your interest falls into first, because the underwriting approach is fundamentally different between the two.",
+    "Location within a basin matters as well: core acreage in an active development area, versus flank acreage where drilling has slowed or never started, can carry very different values even within the same county."
+   ]
+  },
+  {
+   "heading": "The paperwork behind a clean transfer",
+   "paragraphs": [
+    "Selling mineral rights requires a mineral deed that accurately describes exactly what's being conveyed, the legal description of the tract, the depths or formations included if the sale isn't conveying all depths, and any reservations the seller wants to keep. We prepare that deed to match your specific ownership precisely, since vague or overly broad conveyance language can create disputes with the operator's division order desk long after closing.",
+    "Once recorded at the county clerk's office, the new deed becomes part of the public chain of title, which is what any future buyer, or the operator processing your successor's royalty, will rely on to confirm ownership going forward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and royalty interests?",
+   "answer": "Mineral rights are the underlying ownership; a royalty interest is what you retain, or what a buyer acquires, when minerals are leased or sold with the right to a share of production without operating costs. Most Colorado owners hold royalty interests rather than an unleased mineral estate."
+  },
+  {
+   "question": "Do I own the surface if I own the mineral rights?",
+   "answer": "Not necessarily, and often not. Colorado has extensive split estate acreage where the surface and mineral estate were severed and are owned separately, sometimes by parties who have never met."
+  },
+  {
+   "question": "How do I find out exactly what mineral rights I own?",
+   "answer": "Start with your recorded deed at the county clerk and recorder's office, or a division order statement if the interest is leased and producing. We can pull and confirm your chain of title as part of any valuation."
+  },
+  {
+   "question": "Are all Colorado mineral rights worth roughly the same per acre?",
+   "answer": "No. Value varies enormously based on formation, basin position, whether the interest is producing, and recent decline behavior. A blanket per-acre figure rarely reflects your specific tract's real value."
+  }
+ ],
+ "status": "written",
+ "wordCount": 854,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightscolorado-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

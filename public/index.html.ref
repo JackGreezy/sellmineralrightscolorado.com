@@ -1,0 +1,2637 @@
+<!DOCTYPE html><html class="no-ie cc-kuka cc-swisslog css3Dtransform cssTransform cssTransition addEventListener querySelectorAll matchMedia deviceMotion deviceOrientation no-contextMenu classList placeholder localStorage historyAPI serviceWorker viewportUnit remUnit canvas svg webGL cors no-touch async defer geolocation srcset sizes pictureElement no-testAll" lang="en-US" style="--header-height: 97.5938px; --anchorbar-height: 0px; --scrollbar-y-width: 0px;"><!--<![endif]--><head>
+  <title>Warehouse Automation - Products, Systems and Solutions - Swisslog Global</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="From high-bay solutions to robot-based material handling equipment, Swisslog offers a range of technologies for automated warehousing and logistics. ">
+  <meta name="keywords" content="automated warehouse, material handling">
+  <meta name="robots" content="index, follow">
+
+  <link rel="canonical" href="#">
+  <link rel="alternate" hreflang="x-default" href="#">
+  <link rel="alternate" hreflang="de" href="#">
+  <link rel="alternate" hreflang="en" href="#">
+  <link rel="alternate" hreflang="es" href="#">
+  <link rel="alternate" hreflang="fr" href="#">
+  <link rel="alternate" hreflang="zh" href="#">
+  <link rel="alternate" hreflang="da-DK" href="#">
+  <link rel="alternate" hreflang="nl-NL" href="#">
+  <link rel="alternate" hreflang="en-AU" href="#">
+  <link rel="alternate" hreflang="en-MY" href="#">
+  <link rel="alternate" hreflang="en-GB" href="#">
+  <link rel="alternate" hreflang="en-US" href="#">
+  <link rel="alternate" hreflang="fi-FI" href="#">
+  <link rel="alternate" hreflang="fr-FR" href="#">
+  <link rel="alternate" hreflang="de-DE" href="#">
+  <link rel="alternate" hreflang="it-IT" href="#">
+  <link rel="alternate" hreflang="zh-CN" href="#">
+  <link rel="alternate" hreflang="nb-NO" href="#">
+  <link rel="alternate" hreflang="es-ES" href="#">
+  <link rel="alternate" hreflang="sv-SE" href="#">
+  <link rel="alternate" hreflang="th-TH" href="#">
+  <link rel="alternate" hreflang="ar-AE" href="#">
+
+
+
+
+
+    <meta name="viewport" id="viewport-meta" content="width=device-width, initial-scale=1.0">
+    <meta name="content-language" content="en-US">
+  <meta name="language" content="en-US">
+    <!-- facebook -->
+
+
+    <!-- TwitterCards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="SwisslogInspire">
+    <meta name="twitter:creator" content="SwisslogInspire">
+    <meta name="twitter:title" content="Warehouse Automation - Products, Systems and Solutions - Swisslog Global">
+    <meta name="twitter:description" content="From high-bay solutions to robot-based material handling equipment, Swisslog offers a range of technologies for automated warehousing and logistics. ">
+    <meta name="twitter:image" content="/assets-f/img/39daa97fa1e8e1.jpg">
+
+    <!-- OpenGraph -->
+    <meta property="og:url" content="https://www.swisslog.com/en-us/products-systems-solutions">
+    <meta property="og:site_name" content="Swisslog Global">
+  <meta property="og:title" content="Warehouse Automation - Products, Systems and Solutions - Swisslog Global">
+  <meta property="og:image" content="/assets-f/img/39daa97fa1e8e1.jpg">
+    <meta property="og:description" content="From high-bay solutions to robot-based material handling equipment, Swisslog offers a range of technologies for automated warehousing and logistics. ">
+  <meta property="og:type" content="WebPage">
+
+
+
+
+<meta name="VIcurrentDateTime" content="639210348131951615">
+<script type="text/javascript" src="/assets-f/js/8fa42f24aef223.js"></script>
+
+  <link rel="icon" href="#">
+  <link rel="shortcut icon" href="#">
+  <link rel="apple-touch-icon-precomposed" href="#">
+  <link rel="apple-touch-icon" href="#">
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="/assets-f/img/18ea8756e3e6c3.svg">
+  <meta name="msapplication-config" content="/en-us/browserconfig">
+  <link rel="manifest" href="#">
+  <meta name="theme-color" content="#D10007">
+
+  <style>
+    :lang(en-US){ font-family:'Nexa for Swisslog', Calibri, Segoe UI, Helvetica, Arial, Sans-Serif }
+
+  </style>
+  <link rel="stylesheet" href="/assets-f/css/f40cd6f85949a6.css" type="text/css">
+
+    <!-- Google Site Verification -->
+<meta name="google-site-verification" content="eqDP84ikUtn04eG8RyydTpSeDAw4UoNFH8f8ARWzNaI">
+<meta name="google-site-verification" content="0tl9f1AnuK3gsCqlOH0m1QyNdAnK-bIbcCLbjQq0E58">
+<!-- End Google Site Verification -->
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+
+<!-- piwik -->
+<script type="text/plain" data-cookiecategory="functional">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName);var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://p-k.kuka.com/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', 'c003f37b-96a2-4f5a-99e3-dce3aaf46454');
+</script>
+
+<!-- piwik -->
+
+<!-- promptwatch -->
+
+<script>
+(function() {
+  var script = document.createElement('script');
+  script.setAttribute('data-project-id', '09153e89-c884-400d-804e-4b1096ab236a');
+  script.src = 'https://ingest.promptwatch.com/js/client.min.js';
+  document.head.appendChild(script);
+})();
+</script><script data-project-id="09153e89-c884-400d-804e-4b1096ab236a" src="/assets-f/js/b89524357e7656.js"></script>
+
+<!-- promptwatch -->
+  <script>
+    var cookieGdpr = {
+      cookieNotice: "Due to your cookie settings, this content is not available.",
+      consentBtnLabel: "Allow Cookies"
+    };
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+   window.dataLayer.push({
+    'event': 'cms-url',
+    'language': 'en-us',
+    'path': '/swisslog/home/products systems solutions',
+    'id': '78767B4F16664BD097285666D136374A'
+   });
+  </script>
+
+
+
+
+<link rel="stylesheet" href="/assets-f/css/b6068c7e098768.css" fetchpriority="high">
+
+<script defer="" src="/assets-f/js/90d97a53dfbfd5.js" fetchpriority="high"></script>
+
+<script>
+    document.documentElement.classList.add('cc-kuka');  // Do not remove!
+    document.documentElement.classList.add('cc-swisslog');  // cc-kuka, cc-swisslog, cc-healthcare, cc-translogic
+
+    window.addEventListener('load', function () {
+      const cc = initCookieConsent();
+      const options = {
+        autoclear_cookies: true,
+        // autorun: true,                                    // default: true
+      cookie_domain: '',               // Enter base domain
+        // cookie_expiration: 182,                           // default: 182 (days)
+      cookie_name: 'gdpr_settings_sl',                       // default: 'gdpr_settings'
+        // cookie_necessary_only_expiration: 182             // default: disabled
+        // cookie_path: '/',                                 // default: root
+        // cookie_same_site: 'Lax',                          // default: 'Lax'
+        current_lang: 'en-US',                // Required, adapt to fit your needs
+        // hide_from_bots: true,                             // default: true
+        languages: {},                           // Required, do not remove
+        page_scripts: true,                      // Required, do not remove
+
+        // How consent and settings modals are displayed:
+        gui_options: {
+          consent_modal: {
+            layout: 'cloud',                   // box / cloud / bar
+            position: 'bottom center',         // left / right / center + top / middle / bottom
+            transition: 'zoom'               // slide / zoom
+          },
+          settings_modal: {
+            layout: 'box',                     // bar / box
+            // position: 'left',                // left / right
+            transition: 'zoom'                 // slide / zoom
+          }
+        },
+
+      // Dispatch events when user interacts with the consent modal:
+      onAccept: (cookie) => {
+        const acceptEvent = new CustomEvent('cookieConsentAccept', { detail: { cookie, cc: window.cc } });
+        document.dispatchEvent(acceptEvent);
+      },
+      onChange: (cookie, changed_categories) => {
+        const changeEvent = new CustomEvent('cookieConsentChange', { detail: { cookie, changed_categories, cc: window.cc } });
+        document.dispatchEvent(changeEvent);
+      },
+      };
+
+      fetch(`/api/cxxkxxcxnsxnt/swisslog?sc_lang=${options.current_lang}`)
+        .then(response => response.json())
+        .then(data => {
+          options.languages[options.current_lang] = data;
+          cc.run(options);
+                window.cc = cc; // Make cc available after it has executed.
+        })
+        .catch(error => {
+          console.error('Error in fetching Cookie Consent config:', error);
+        });
+    });
+</script>
+
+
+
+<link href="/assets-f/css/06c402e6cc241a.css" type="text/css" rel="stylesheet"><style id="inert-style">
+[inert] {
+  pointer-events: none;
+  cursor: default;
+}
+
+[inert], [inert] * {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+</style></head>
+
+
+<body id="layout-swisslog" class="mod mod-layout   " data-connectors="responsive, toggle">
+
+
+
+
+
+
+  <header class="o-header js-header">
+  <nav class="mod mod-nav m-flyout hidden-print" data-connectors="responsive, toggle">
+
+  <div class="m-flyout__wrapper">
+    <div class="container mod-nav__overlay js-overlay">
+      <div class="icon-close-32 js-hide-menu" data-target="nav"></div>
+      <div class="m-flyout__main-col js-main-col col-12 col-md-6 col-lg-3">
+
+        <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+
+          <li class="m-flyout__item js-first-level js-nav-item" data-menu-id="">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              Home
+
+            </a>
+
+          </li>
+
+          <li class="m-flyout__item js-first-level js-nav-item js-is-parent js-is-active" data-menu-id="78767B4F16664BD097285666D136374A">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              Solutions &amp; Products
+              <span class="icon-arrow-right-24 ps-2"></span>
+            </a>
+
+            <section class="mod-nav__intro m-flyout__item hidden-xs hidden-sm">
+
+              <figure>
+                <picture class="h-ratio h-ratio16-9">
+                  <img data-src="/assets-f/img/568d15bcec0fe9.jpg">
+                </picture>
+              </figure>
+
+              <h4 class="mt-sm-4">Products &amp; systems for automated logistics</h4>
+              <p class="p2 mt-sm-3 mb-sm-0">Discover a wide range of technologies that will boost your automated materials handling performance while reducing costs.</p>
+              <a href="#">
+                <span class="a-btn a-btn--primary a-btn--color-cta">
+                  Learn more
+                </span>
+              </a>
+            </section>
+
+            <div class="m-flyout__column">
+
+              <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+                <li class="mod-nav__back-link js-back-link pt-lg-0">
+                  <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+                    <span class="icon-arrow-left-24 pe-2"></span>
+                    Solutions &amp; Products
+                  </a>
+                </li>
+                <li class="m-flyout__item js-is-active-title">
+                  <a href="#">Overview Solutions &amp; Products</a>
+                </li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Storage &amp; Retrieval ASRS
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Storage &amp; Retrieval ASRS
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Storage &amp; Retrieval ASRS</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    For Small Loads
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          For Small Loads
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Mini Load Storage Systems</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Light Goods Shuttle: CycloneCarrier</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Mobile Robotics: CarryPick</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Cube-based Storage System: AutoStore</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    For Pallets &amp; Heavy Loads
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          For Pallets &amp; Heavy Loads
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Solutions for Pallets &amp; Heavy Loads</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">4-way Pallet Shuttle AgileStore</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Pallet Shuttle PowerStore</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Pallet Stacker Crane Vectura</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Cube-based Storage System: AutoStore</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Automated High Bay Warehouse Pallets</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Shuttle Storage Solutions</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Transport &amp; Conveyors
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Transport &amp; Conveyors
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Transport &amp; Conveyors</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Autonomous mobile robots IntraMove</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Monorail transport system FastMove</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Pallet Conveyor ProMove</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Small Loads Conveyor QuickMove</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Picking &amp; Palletizing
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Picking &amp; Palletizing
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Picking &amp; Palletizing</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Person to Goods Picking Systems: CaddyPick</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Goods to Person Picking System</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Goods to Robot: ItemPiQ</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Mixed Case Palletizing: ACPaQ</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Software
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Software
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Software</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">SynQ Platform</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">SAP EWM</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Products A to Z
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Products A to Z
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Products A to Z</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">AgileStore – 4‑way pallet shuttle</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">ACPaQ – Case palletizing  </a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">AutoStore – Small parts storage &amp; picking</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">CaddyPick – Monorail based picking system</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">CarryPick - Order picking system</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">CycloneCarrier – Small loads shuttle storage system</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">FastMove – Monorail pallet transport system</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">IntraMove – Autonomous mobile robots (AMRs)</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">ItemPiQ – Robot based item picking</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">PowerStore – Pallet shuttle system HBW</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">ProMove – Conveyor system pallets</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">QuickMove – Conveyor system</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">SAP EWM – Ext. WMS platform</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">SynQ software – Intelligent WMS platform</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Vectura – Pallet stacker crane for HBW</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Products for Integrators</a>
+
+</li>
+
+
+                <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+              </ul>
+            </div>
+          </li>
+
+          <li class="m-flyout__item js-first-level js-nav-item js-is-parent" data-menu-id="97C2A8FAB2A84324B30A1D1DEB5D9805">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              Industries
+              <span class="icon-arrow-right-24 ps-2"></span>
+            </a>
+
+            <section class="mod-nav__intro m-flyout__item hidden-xs hidden-sm">
+
+              <figure>
+                <picture class="h-ratio h-ratio16-9">
+                  <img data-src="/assets-f/img/42c773d51d5631.jpg">
+                </picture>
+              </figure>
+
+              <h4 class="mt-sm-4">Logistics automation for your industry </h4>
+              <p class="p2 mt-sm-3 mb-sm-0">Solutions and consulting: Swisslog has decades of experience providing logistics &amp; warehouse automation for the key industries.</p>
+              <a href="#">
+                <span class="a-btn a-btn--primary a-btn--color-cta">
+                  Learn more
+                </span>
+              </a>
+            </section>
+
+            <div class="m-flyout__column">
+
+              <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+                <li class="mod-nav__back-link js-back-link pt-lg-0">
+                  <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+                    <span class="icon-arrow-left-24 pe-2"></span>
+                    Industries
+                  </a>
+                </li>
+                <li class="m-flyout__item">
+                  <a href="#">Overview Industry Solutions</a>
+                </li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Food and Beverage</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Grocery Distribution</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Fashion and Apparel</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">General Merchandise</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">More industry expertise</a>
+
+</li>
+
+
+                <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+              </ul>
+            </div>
+          </li>
+
+          <li class="m-flyout__item js-first-level js-nav-item js-is-parent" data-menu-id="85105DE812B8420E9171F8CA4FE3F0D4">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              Service
+              <span class="icon-arrow-right-24 ps-2"></span>
+            </a>
+
+            <section class="mod-nav__intro m-flyout__item hidden-xs hidden-sm">
+
+              <figure>
+                <picture class="h-ratio h-ratio16-9">
+                  <img data-src="/assets-f/img/f21ee36106d85e.jpg">
+                </picture>
+              </figure>
+
+              <h4 class="mt-sm-4">Our Customer Service Portfolio</h4>
+              <p class="p2 mt-sm-3 mb-sm-0">Imagine if you had the formula for 100% uptime. We strive to give you complete confidence, ensuring you get the right solutions and the best services.</p>
+              <a href="#">
+                <span class="a-btn a-btn--primary a-btn--color-cta">
+                  Learn more
+                </span>
+              </a>
+            </section>
+
+            <div class="m-flyout__column">
+
+              <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+                <li class="mod-nav__back-link js-back-link pt-lg-0">
+                  <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+                    <span class="icon-arrow-left-24 pe-2"></span>
+                    Service
+                  </a>
+                </li>
+                <li class="m-flyout__item">
+                  <a href="#">Full Customer Service Portfolio</a>
+                </li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Local Service Contacts </a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Technical Support</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Preventive Maintenance
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Preventive Maintenance
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Preventive Maintenance</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Field Service</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">System Operations</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Condition Monitoring</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">System Optimization</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Spare Parts</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">IT Managed Services</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Expansion &amp; Modernization</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Training</a>
+
+</li>
+
+
+                <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+              </ul>
+            </div>
+          </li>
+
+          <li class="m-flyout__item js-first-level js-nav-item js-is-parent" data-menu-id="F5E60609B28C427DA419154A10C280B5">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              References &amp; more
+              <span class="icon-arrow-right-24 ps-2"></span>
+            </a>
+
+            <section class="mod-nav__intro m-flyout__item hidden-xs hidden-sm">
+
+              <figure>
+                <picture class="h-ratio h-ratio16-9">
+                  <img data-src="/assets-f/img/e11c9cac2439fd.jpg">
+                </picture>
+              </figure>
+
+              <h4 class="mt-sm-4">Resources &amp; downloads</h4>
+              <p class="p2 mt-sm-3 mb-sm-0">Browse our library of resources, including webinars, case studies, whitepapers &amp; more. Free exclusive downloads.</p>
+              <a href="#">
+                <span class="a-btn a-btn--primary a-btn--color-cta">
+                  Learn more
+                </span>
+              </a>
+            </section>
+
+            <div class="m-flyout__column">
+
+              <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+                <li class="mod-nav__back-link js-back-link pt-lg-0">
+                  <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+                    <span class="icon-arrow-left-24 pe-2"></span>
+                    References &amp; more
+                  </a>
+                </li>
+                <li class="m-flyout__item">
+                  <a href="#">Downloads Overview</a>
+                </li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Case Studies</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Blog</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Webinars</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">White Papers &amp; E-Books</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Knowledge area</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">FAQ Intralogistics Challenges</a>
+
+</li>
+
+
+                <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+              </ul>
+            </div>
+          </li>
+
+          <li class="m-flyout__item js-first-level js-nav-item js-is-parent" data-menu-id="47A3446C07D44AA18072FDBF8E74ED05">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              Company
+              <span class="icon-arrow-right-24 ps-2"></span>
+            </a>
+
+            <section class="mod-nav__intro m-flyout__item hidden-xs hidden-sm">
+
+              <figure>
+                <picture class="h-ratio h-ratio16-9">
+                  <img data-src="/assets-f/img/55cf062b4d85a6.jpg">
+                </picture>
+              </figure>
+
+              <h4 class="mt-sm-4">Swisslog history, facts &amp; figures</h4>
+              <p class="p2 mt-sm-3 mb-sm-0">Swisslog is a global company with Swiss roots. Learn more about our company's facts, figures, history, management, locations and sustainability.</p>
+              <a href="#">
+                <span class="a-btn a-btn--primary a-btn--color-cta">
+                  Learn more
+                </span>
+              </a>
+            </section>
+
+            <div class="m-flyout__column">
+
+              <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+                <li class="mod-nav__back-link js-back-link pt-lg-0">
+                  <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+                    <span class="icon-arrow-left-24 pe-2"></span>
+                    Company
+                  </a>
+                </li>
+                <li class="m-flyout__item">
+                  <a href="#">About Swisslog Overview</a>
+                </li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    News &amp; Events
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          News &amp; Events
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview News &amp; Events</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Events &amp; Trade Shows</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">News</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Press area</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    What we do
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          What we do
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Our Offering at a Glance</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Your Guide &amp; Partner</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Consulting &amp; Planning</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Leadership team</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Corporate Governance &amp; Sustainability
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Corporate Governance &amp; Sustainability
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Overview Corporate Governance</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Sustainable Technology</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Organization &amp; Behavior</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Sourcing &amp; Supply Chain</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Reports, guidelines, certificates</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Locations</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Contact us</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Service &amp; Spare Parts Helplines</a>
+
+</li>
+
+
+                <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+              </ul>
+            </div>
+          </li>
+
+          <li class="m-flyout__item js-first-level js-nav-item js-is-parent" data-menu-id="80636BA8380E484BB47A47F95A6596B5">
+            <a href="#" class="d-flex d-sm-flex align-items-center justify-content-between hidden-md hidden-lg d-lg-none">
+              Careers
+              <span class="icon-arrow-right-24 ps-2"></span>
+            </a>
+
+            <section class="mod-nav__intro m-flyout__item hidden-xs hidden-sm">
+
+              <figure>
+                <picture class="h-ratio h-ratio16-9">
+                  <img data-src="/assets-f/img/23e8e66c4b7bac.jpg">
+                </picture>
+              </figure>
+
+              <h4 class="mt-sm-4">Careers at Swisslog</h4>
+              <p class="p2 mt-sm-3 mb-sm-0">Shape your future at Swisslog and explore our unique company culture.</p>
+              <a href="#">
+                <span class="a-btn a-btn--primary a-btn--color-cta">
+                  Learn more
+                </span>
+              </a>
+            </section>
+
+            <div class="m-flyout__column">
+
+              <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+                <li class="mod-nav__back-link js-back-link pt-lg-0">
+                  <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+                    <span class="icon-arrow-left-24 pe-2"></span>
+                    Careers
+                  </a>
+                </li>
+                <li class="m-flyout__item">
+                  <a href="#">Careers Overview</a>
+                </li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Vacancies</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Swisslog as an employer
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Swisslog as an employer
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Culture &amp; Values</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Controls job vacancies</a>
+
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Smart Working</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item js-is-parent">
+
+  <a class="d-flex align-items-center justify-content-between " href="#">
+    Students &amp; Graduates
+    <span class="icon-arrow-right-24 ps-2"></span>
+  </a>
+
+  <div class="m-flyout__column">
+    <ul class="m-flyout__list h-styled-scrollbar h-styled-scrollbar--color-cta h-styled-scrollbar--thin js-list js-styled-scrollbar h-styled-scrollbar--noScroll">
+      <li class="mod-nav__back-link js-back-link pt-lg-0">
+        <a href="#" class="mod-nav__back-btn d-flex align-items-center hidden-sm">
+          <span class="icon-arrow-left-24 pe-2"></span>
+          Students &amp; Graduates
+        </a>
+      </li>
+      <li class="m-flyout__item">
+        <a href="#">Students &amp; Graduates</a>
+      </li>
+
+      <template class="sublist-template">
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">Global Trainee Program</a>
+
+</li>
+
+
+      </template>
+
+      <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+    </ul>
+  </div>
+</li>
+
+<li class="m-flyout__item js-nav-item">
+
+  <a href="#">How to apply</a>
+
+</li>
+
+
+                <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+              </ul>
+            </div>
+          </li>
+
+          <div class="h-styled-scrollbar__track">
+  <div class="h-styled-scrollbar__thumb" style="height: 0px;"></div>
+</div>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="o-header__wrapper container">
+
+<a class="mod mod-logo--hasMobile mod-logo" href="#" data-ignore="true">
+  <figure class="mod-logo__wrapper pull-right">
+    <img src="/assets-f/img/0306522a166b0e.png" alt="Swisslog" loading="lazy" height="32" width="300">
+
+
+    <img src="/assets-f/img/18ea8756e3e6c3.svg" alt="Swisslog" loading="lazy" height="100" width="100">
+
+  </figure>
+
+
+</a>
+
+
+    <nav class="mod mod-navdesktop" data-connectors="responsive, toggle">
+
+  <a href="#" data-target="nav" data-target-menu-id="78767B4F16664BD097285666D136374A">
+    Solutions &amp; Products
+  </a>
+
+  <a href="#" data-target="nav" data-target-menu-id="97C2A8FAB2A84324B30A1D1DEB5D9805">
+    Industries
+  </a>
+
+  <a href="#" data-target="nav" data-target-menu-id="85105DE812B8420E9171F8CA4FE3F0D4">
+    Service
+  </a>
+
+  <a href="#" data-target="nav" data-target-menu-id="F5E60609B28C427DA419154A10C280B5">
+    References &amp; more
+  </a>
+
+  <a href="#" data-target="nav" data-target-menu-id="47A3446C07D44AA18072FDBF8E74ED05">
+    Company
+  </a>
+
+  <a href="#" data-target="nav" data-target-menu-id="80636BA8380E484BB47A47F95A6596B5">
+    Careers
+  </a>
+
+</nav>
+
+<nav class="mod mod-nav-meta hidden-print" data-connectors="nav, toggle">
+    <ul class="mod-nav-meta">
+
+        <li class="mod-nav-meta__item">
+      <a href="#" target="" class="mod-nav-meta__item__link" title="Contact us">
+        <span class="icon-chat-talk-24"></span>
+      </a>
+        </li>
+
+
+        <li class="js-toggle-content mod-nav-meta__item" data-target="languageswitch" data-show-overlay="true">
+            <a class="mod-nav-meta__item__link" href="#" title="Language">
+        <span class="icon-globe-24"></span>
+      </a>
+        </li>
+
+
+        <li class="js-toggle-content mod-nav-meta__item" data-target="search" data-show-overlay="true">
+            <a class="mod-nav-meta__item__link" href="#" title="Search">
+        <span class="icon-search-24"></span>
+      </a>
+        </li>
+
+        <li class="js-toggle-content mod-nav-meta__item" data-target="nav" data-show-overlay="true">
+            <a class="mod-nav-meta__item__link" href="#" title="Menu">
+        <span class="icon-menu-24"></span>
+      </a>
+        </li>
+
+    </ul>
+</nav>
+
+
+    <hr class="js-atob-relative o-header__wrapper__atob is-calculated" style="left: 285px; --offset-absolute: 285px; --offset-relative: 285px;">
+  </div>
+
+  <div class="mod mod-anchorbar js-anchorbar hidden-print" data-connectors="anchorbar, responsive">
+  <div class="js-anchorbar-container mod-anchorbar__container o-header__flyout"></div>
+  <script type="text/template" id="anchorbar-template">
+    <div class="mod-anchorbar__scrolloverlay mod-anchorbar__scrolloverlay--left js-scrolloverlay" data-scroll-direction="left"></div>
+    <div class="container">
+      <div class="mod-anchorbar__innerContainer js-innerContainer">
+        <div class="mod-anchorbar__scrollbar js-scrollbar">
+          <ul class="mod-anchorbar__list container nav nav-tabs js-anchorbar-list">
+            [[ for(var i=0, item; i < items.length; i++){
+              item = items[i];
+            ]]
+            <li class="mod-anchorbar__list-item js-anchor-item">
+              <a class="mod-anchorbar__anchor js-anchor caption [[= item.cssClass ]]" href="#">[[= item.title ]]</a>
+            </li>
+            [[ } ]]
+          </ul>
+          <div class="mod-anchorbar__progressbar js-progressbar"></div>
+        </div>
+        <div class="mod-anchorbar__contact">
+          <a href="#" class="a-btn a-btn--color-white js-contact"></a>
+        </div>
+      </div>
+    </div>
+    <div class="mod-anchorbar__scrolloverlay mod-anchorbar__scrolloverlay--right js-scrolloverlay" data-scroll-direction="right"></div>
+  </script>
+</div>
+
+  <div class="mod mod-languageswitch o-header__flyout" data-connectors="toggle">
+  <div class="container o-header__flyout__close">
+    <button class="close__btn" onclick="document.querySelector('.mod-nav-meta .js-toggle-content.is-active').click()">
+      <span class="icon-close-32"></span>
+    </button>
+  </div>
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md">
+        <div class="mod-languageswitch__col">
+          <div class="h4">Global Versions</div>
+          <ul class="js-global-language-select list-unstyled copy mod-languageswitch__list mod-languageswitch__globalList">
+            <li class="mod-languageswitch__list__item " data-country="">
+              <a href="#">
+                <span>German</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item " data-country="">
+              <a href="#">
+                <span>English</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="col-md col-lg-4">
+        <div class="a-select__container mod-languageswitch__col">
+          <div class="h4">Select your location:</div>
+          <select class="js-countryselect js-prevent-select2" name="countries">
+            <option value="Australia" data-country="au">
+              Australia
+            </option>
+            <option value="Austria" data-country="at">
+              Austria
+            </option>
+            <option value="Belgium" data-country="be">
+              Belgium
+            </option>
+            <option value="Canada" data-country="ca">
+              Canada
+            </option>
+            <option value="China" data-country="cn">
+              China
+            </option>
+            <option value="Denmark" data-country="dk">
+              Denmark
+            </option>
+            <option value="Finland" data-country="fi">
+              Finland
+            </option>
+            <option value="France" data-country="fr">
+              France
+            </option>
+            <option value="Germany" data-country="de">
+              Germany
+            </option>
+            <option value="India" data-country="in">
+              India
+            </option>
+            <option value="Ireland" data-country="ie">
+              Ireland
+            </option>
+            <option value="Italy" data-country="it">
+              Italy
+            </option>
+            <option value="Malaysia" data-country="my">
+              Malaysia
+            </option>
+            <option value="Mexico" data-country="mx">
+              Mexico
+            </option>
+            <option value="Netherlands" data-country="nl">
+              Netherlands
+            </option>
+            <option value="New Zealand" data-country="nz">
+              New Zealand
+            </option>
+            <option value="Norway" data-country="no">
+              Norway
+            </option>
+            <option value="Saudi Arabia" data-country="sa">
+              Saudi Arabia
+            </option>
+            <option value="Singapore" data-country="sg">
+              Singapore
+            </option>
+            <option value="Spain" data-country="es">
+              Spain
+            </option>
+            <option value="Sweden" data-country="se">
+              Sweden
+            </option>
+            <option value="Switzerland" data-country="ch">
+              Switzerland
+            </option>
+            <option value="Thailand" data-country="th">
+              Thailand
+            </option>
+            <option value="United Arab Emirates" data-country="ae">
+              United Arab Emirates
+            </option>
+            <option value="United Kingdom" data-country="gb">
+              United Kingdom
+            </option>
+            <option value="United States of America" data-country="us" selected="">
+              United States of America
+            </option>
+          </select>
+          <p class="mod-languageswitch__countryLabel">Location</p>
+        </div>
+      </div>
+      <div class="col-md offset-lg-1">
+        <div class="mod-languageswitch__col">
+          <div class="h4">Select your language:</div>
+          <ul class="js-language-list list-unstyled copy mod-languageswitch__list mod-languageswitch__countryList">
+            <li class="mod-languageswitch__list__item  " data-country="au">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="at">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>German</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="at">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="be">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Dutch</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="be">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>French</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="be">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ca">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="cn">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Chinese</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="cn">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="dk">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Danish</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="dk">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="fi">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Finnish</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="fi">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="fr">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>French</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="fr">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="de">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>German</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="de">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="in">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ie">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="it">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Italian</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="it">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="my">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="mx">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Spanish</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="mx">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="nl">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Dutch</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="nl">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="nz">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="no">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Norwegian Bokmål</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="no">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="sa">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Arabic</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="sa">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="sg">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="es">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Spanish</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="es">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="se">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Swedish</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="se">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ch">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>German</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ch">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ch">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>French</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="th">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Thai</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="th">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ae">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>Arabic</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="ae">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item  " data-country="gb">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+            <li class="mod-languageswitch__list__item country-state-active mod-languageswitch__list__item--active" data-country="us">
+              <a href="#" class="mod-languageswitch__language-link">
+                <span>English</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <hr class="js-atob o-header__flyout__atob is-calculated" style="left: 285px;">
+</div>
+
+  <div class="mod mod-search o-header__flyout hidden-print" data-connectors="toggle">
+  <div class="container o-header__flyout__close">
+    <button class="close__btn" onclick="document.querySelector('.mod-nav-meta .js-toggle-content.is-active').click()">
+      <span class="icon-close-32"></span>
+    </button>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
+        <form action="#" method="get" class="a-inlineForm">
+          <input type="search" name="q" placeholder="Your search term" id="header-search" class="js-searchfield a-inlineForm__input" tabindex="-1">
+          <button type="submit" class="a-inlineForm__btn">
+            <span class="icon-search-32"></span>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <hr class="js-atob o-header__flyout__atob is-calculated" style="left: 285px;">
+</div>
+
+
+  <div class="a-site-overlay js-site-overlay"></div>
+</header>
+
+<div id="browserWarning" class="mod mod-browser-warning" data-ignore="true" hidden="">
+  <div class="container h-tbl">
+    <div class="mod-browser-warning__copy intro h-tbl__cell">
+      <p>You are using <strong>Internet Explorer</strong> and will not be able to use our website properly.<br>Please change to an up-to-date browser for ideal presentation of the website.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  if (document.documentMode) {
+    var element = document.getElementById('browserWarning');
+    element.style.display = 'block';
+  }
+</script>
+
+
+
+
+
+
+
+  <main class="container js-anchorbar-trigger">
+
+
+  <div class="row">
+    <div class="col-sm-12">
+
+
+<section class="mod mod-page-intro mt-0 mt-md-5  skin-page-intro-noText">
+
+  <div class="mod-page-intro__media-object  mod-page-intro__media-object--video">
+    <div class="row">
+
+
+        <div class="col-md-7">
+          <figure class="mod-page-intro__media">
+            <picture class="h-display-block h-ratio h-ratio16-9">
+              <video muted="true" loop="true" playsinline="true" autoplay="true" poster="/assets-f/img/39daa97fa1e8e1.jpg" data-video-lg="/assets-f/media/0f8ed084a960d6.mp4" data-video-sm="/assets-f/media/0f8ed084a960d6.mp4">
+                <!-- source src="" type="video/mp4" -->
+              <source type="video/mp4" src="/assets-f/media/0f8ed084a960d6.mp4"></video>
+            </picture>
+          </figure>
+        </div>
+
+
+      <div class="mod-page-intro__text d-md-flex flex-md-column col-md-5">
+        <section class="mod-subpage-container">
+  <div class="row">
+
+  </div>
+</section>
+
+
+        <div class="d-flex flex-column justify-content-between flex-grow-1">
+          <div>
+            <h1 class="mod-page-intro__headline h1--bold">Automated warehouse systems from a single source</h1>
+
+          </div>
+          <button class="mod-page-intro__text__scrollBtn a-btn a-btn--secondary a-btn--color-primary a-btn--icon js-scroll-into-content" type="button">
+            <span class="icon-chevron-down-24"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+
+
+  </div>
+
+</section>
+<div class="mod mod-text" data-ignore="true">
+
+
+  <div class="row">
+    <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
+
+
+      <div class="copy">
+        <p>From the <a href="#">traditional high bay warehouse</a> to innovative robot-based material handling solutions. Swisslog offers you a wide range of traditional and out of the box technologies for <a href="#">automated warehousing</a> that provide quality, flexibility and efficiency.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<article class="mod mod-text" data-ignore="true">
+
+
+  <div class="row">
+    <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
+
+      <div class="a-mod-headline mod-text__headline">
+        <h2>Modular, flexible and software-driven material handling technologies</h2>
+      </div>
+
+
+      <div class="copy">
+        <p>Every company has different logistics and supply chain requirements. Our automated warehouse solutions are perfectly customized to your needs and guarantee the optimal flow of goods at a low cost per pick.&nbsp;</p>
+<p>It doesn’t matter what you are looking for, we offer the materials handling technology that perfectly meets your needs from receiving to shipping.</p>
+      </div>
+    </div>
+  </div>
+</article>
+<article class="mod mod-teaser--three mod-teaser--grid mod-teaser">
+  <div class="mod-teaser__intro">
+
+
+  </div>
+  <div class="row">
+
+    <div class="col-sm-6 col-md-4">
+
+      <a href="#" class="mod-teaser__box">
+
+  <figure class="mod-teaser__box__figure">
+    <picture class="h-ratio h-ratio16-9">
+
+
+      <img alt="Swisslog automated pallet warehouse solutions" src="/assets-f/img/3156c4cc9ced1b.jpg" loading="lazy" srcset="/assets-f/img/63937722ec4cf7.jpg 767w, /assets-f/img/3156c4cc9ced1b.jpg 1400w" sizes="(min-width: 1px) 93.75vw">
+
+
+    </picture>
+  </figure>
+
+  <div class="mod-teaser__box__content">
+    <div class="a-teaser-headline">
+      <h4 class="content__headline">Automated storage &amp; retrieval systems</h4>
+    </div>
+    <div class="p2 content__text">Explore our best-in-class technology for automated storage &amp; retrieval systems providing warehouse efficiency and flexibility, and ASRS for miniloads, cartons, and pallets.</div>
+  </div>
+</a>
+
+
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+
+      <a href="#" class="mod-teaser__box">
+
+  <figure class="mod-teaser__box__figure">
+    <picture class="h-ratio h-ratio16-9">
+
+
+      <img alt="Fast and realiable transport and conveyor systems " src="/assets-f/img/17cb43696e7865.jpg" loading="lazy" srcset="/assets-f/img/edfb4b7589a43d.jpg 767w, /assets-f/img/17cb43696e7865.jpg 1400w" sizes="(min-width: 1px) 93.75vw">
+
+
+    </picture>
+  </figure>
+
+  <div class="mod-teaser__box__content">
+    <div class="a-teaser-headline">
+      <h4 class="content__headline">Automated transport &amp; conveyor systems</h4>
+    </div>
+    <div class="p2 content__text">Which automated transport system will increase the efficiency and flexibility of your warehouse? Transport systems for small loads and pallets.</div>
+  </div>
+</a>
+
+
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+
+      <a href="#" class="mod-teaser__box">
+
+  <figure class="mod-teaser__box__figure">
+    <picture class="h-ratio h-ratio16-9">
+
+
+      <img alt="AutoStore picking" src="/assets-f/img/c12dd2af8f633e.jpg" loading="lazy" srcset="/assets-f/img/d22e7986228f8b.jpg 767w, /assets-f/img/c12dd2af8f633e.jpg 1400w" sizes="(min-width: 1px) 93.75vw">
+
+
+    </picture>
+  </figure>
+
+  <div class="mod-teaser__box__content">
+    <div class="a-teaser-headline">
+      <h4 class="content__headline">Picking &amp; palletizing solutions </h4>
+    </div>
+    <div class="p2 content__text">Explore the advantages of our picking and palletizing solutions and reduce the operational costs.</div>
+  </div>
+</a>
+
+
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+
+      <a href="#" class="mod-teaser__box">
+
+  <figure class="mod-teaser__box__figure">
+    <picture class="h-ratio h-ratio16-9">
+
+
+
+
+
+    </picture>
+  </figure>
+
+  <div class="mod-teaser__box__content">
+    <div class="a-teaser-headline">
+      <h4 class="content__headline">Flexible and intelligent software solutions</h4>
+    </div>
+    <div class="p2 content__text">Explore Swisslog's agile and future-oriented software solutions that will leverage your warehouse performance. </div>
+  </div>
+</a>
+
+
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+
+      <a href="#" class="mod-teaser__box">
+
+  <figure class="mod-teaser__box__figure">
+    <picture class="h-ratio h-ratio16-9">
+
+
+      <img alt="Leading systems and technologies for logistics center, warehouse and distribution center automation" src="/assets-f/img/37db5bc7c11272.jpg" loading="lazy" srcset="/assets-f/img/568d15bcec0fe9.jpg 767w, /assets-f/img/37db5bc7c11272.jpg 1400w" sizes="(min-width: 1px) 93.75vw">
+
+
+    </picture>
+  </figure>
+
+  <div class="mod-teaser__box__content">
+    <div class="a-teaser-headline">
+      <h4 class="content__headline">All products &amp; solutions from Swisslog</h4>
+    </div>
+    <div class="p2 content__text">All solutions, products &amp; technologies provided by Swisslog and ordered alphabetically by our product names.</div>
+  </div>
+</a>
+
+
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+
+      <a href="#" class="mod-teaser__box">
+
+  <figure class="mod-teaser__box__figure">
+    <picture class="h-ratio h-ratio16-9">
+
+
+
+
+
+    </picture>
+  </figure>
+
+  <div class="mod-teaser__box__content">
+    <div class="a-teaser-headline">
+      <h4 class="content__headline">Become a Swisslog Integration Partner</h4>
+    </div>
+    <div class="p2 content__text">Learn more about our products &amp; systems for warehouse logistics and become a Swisslog partner.</div>
+  </div>
+</a>
+
+
+    </div>
+
+  </div>
+</article>
+
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+<div id="pp-55D78C6B6E59455DA7B489603D7A1737" class="mod mod-popup skin-popup-floating is-visible" data-bdrop-close="true" data-trigger="time" data-trigger-frequency="86400" data-prevent-open-on-mobile="true" tabindex="-1" data-event="/event/data" data-event-data="PopUp: PopUp Floating - KUKA Group Shop - Products systems solutions" role="dialog">
+  <div class="mod-popup__backdrop">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 offset-md-1">
+          <div class="mod-popup__backdrop__content ">
+            <button class="content__close">×</button>
+            <div class="content__floating data-event" data-event="/event/data" data-event-data="PopUp: Popup Floating - Products systems solutions">
+
+  <div class="copy content__floating__text">
+
+    <div class="h3">One Platform, Full Portfolio</div>
+
+    <p>Automation components, industrial robotics, transportation &amp; production systems, AI-powered software &amp; visualization. All in one place.</p>
+  </div>
+
+  <div class="content__floating__link">
+    <a href="https://my.kuka.com/?utm_source=other&amp;utm_medium=referral&amp;utm_campaign=Swisslog_GroupShop&amp;utm_content=pop-up-products" target="_blank" class="a-btn a-btn--primary a-btn--color-primary">Explore the KUKA Shop</a>
+  </div>
+
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+  </main>
+
+
+  <div class="l-footer ">
+
+<div id="contact" class="mod mod-contact" data-ignore="true" data-anchorbar-title="Contact">
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 col-lg-4">
+        <figure class="mod-contact__image">
+          <picture class="h-ratio h-ratio1-1">
+            <img src="/assets-f/img/1463949a85bddb.jpg" alt="Swisslog logistics consultant presenting an automated solution" loading="lazy" width="1596" height="1596">
+          </picture>
+        </figure>
+      </div>
+      <div class="col-md-7 col-lg-8">
+        <div class="mod-contact__info">
+          <div class="mod-contact__info__inner">
+            <div class="h2 inner__name">
+              Consult with our automation specialists
+            </div>
+            <div class="p3 inner__title">
+              Locations around the globe. Consulting &amp; support where you need them. Swisslog experts are here to help you.
+            </div>
+            <hr class="a-line a-line--petrol">
+
+
+
+            <ul class="copy inner__links">
+
+              <li>
+                <span data-href="/en-us/contact/contact-standard?contacts=85F7670950AC403491E54102F5C69483" class="a-btn a-btn--primary a-btn--color-primary a-btn--sm js-masked-link" data-event="/event/data" data-event-data="Contact via mail ">
+                  <span class="icon-mail-32"></span>
+                  <span class="inner__links__text">Contact us</span>
+                </span>
+              </li>
+
+
+
+
+
+
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="mod mod-footer skin-footer-swisslog">
+  <div class="container mod-footer__container">
+
+    <div class="mod-footer__top">
+      <div class="row">
+        <div class="col-lg-6 col-xl-5">
+          <div class="newsletter">
+            Subscribe for news &amp; updates
+          </div>
+        </div>
+        <div class="col-lg-6 col-xl-7">
+          <form action="#" method="get" class="a-inlineForm">
+            <input name="mail" type="text" class="p1 a-inlineForm__input" placeholder="Your email address">
+            <button type="submit" class="a-inlineForm__btn">
+              <span class="icon-chevron-right-24"></span>
+            </button>
+          </form>
+          <div class="mod-footer__top__social">
+
+
+            <ul class="list-unstyled social__list">
+
+              <li>
+                <a href="https://www.linkedin.com/company/swisslog" target="_blank" rel="nofollow">
+
+                </a>
+              </li>
+
+              <li>
+                <a href="https://www.instagram.com/swisslog.logistics.automation/" target="_blank" rel="nofollow">
+                  <img src="/assets-f/img/f97231d4a11c4a.svg" alt="Instagram" loading="lazy" width="32" height="32">
+                </a>
+              </li>
+
+              <li>
+                <a href="https://www.youtube.com/c/SwisslogLogisticsAutomation/?sub_confirmation=1  " target="_blank" rel="nofollow">
+                  <img src="/assets-f/img/177f94d93f6274.svg" alt="YouTube" loading="lazy" width="108" height="46">
+                </a>
+              </li>
+
+              <li>
+                <a href="#" rel="nofollow">
+                  <img src="/assets-f/img/2ad25c5b365e73.svg" alt="Blog" loading="lazy" width="32" height="32">
+                </a>
+              </li>
+
+              <li>
+                <a href="https://www.facebook.com/swisslog.logistics.automation" rel="nofollow">
+                  <img src="/assets-f/img/affd2f9a22298b.svg" alt="Facebook" loading="lazy" width="32" height="32">
+                </a>
+              </li>
+
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="container mod-footer__container">
+    <div class="mod-footer__separator">
+      <hr>
+    </div>
+  </div>
+
+
+  <div class="container mod-footer__container">
+
+    <div class="mod-footer__links">
+
+      <div class="mod-footer__links__col">
+        <strong class="col__headline">Contacts</strong>
+
+        <ul class="list-unstyled col__list">
+
+          <li>
+            <a href="#" target="">Locations</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Contact Us</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Service Helpdesks</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Suppliers</a>
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="mod-footer__links__col">
+        <strong class="col__headline">Products &amp; Solutions</strong>
+
+        <ul class="list-unstyled col__list">
+
+          <li>
+            <a href="#" target="">Pallet Technology</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Light Goods Technology</a>
+          </li>
+
+          <li>
+            <a href="#" target="">AutoStore</a>
+          </li>
+
+          <li>
+            <a href="#" target="">For Integration Partners</a>
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="mod-footer__links__col">
+        <strong class="col__headline">Careers</strong>
+
+        <ul class="list-unstyled col__list">
+
+          <li>
+            <a href="#" target="">Job Vacancies</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Smart Working</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Graduate Trainee Programs</a>
+          </li>
+
+          <li>
+            <a href="#" target="">How to apply</a>
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="mod-footer__links__col">
+        <strong class="col__headline">Company</strong>
+
+        <ul class="list-unstyled col__list">
+
+          <li>
+            <a href="#" target="">What we do</a>
+          </li>
+
+          <li>
+            <a href="#" target="">Facts &amp; history</a>
+          </li>
+
+          <li>
+            <a href="#" target="">News &amp; Events</a>
+          </li>
+
+          <li>
+            <a href="https://swisslogag.my.site.com/s/login/?ec=302&amp;startURL=%2Fs%2F" target="">Customer Portal</a>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+
+
+    <div class="mod-footer__subfooter">
+      <ul class="list-unstyled mod-footer__imprint">
+        <li>
+          <strong>© Swisslog Holding AG 2026</strong>
+        </li>
+        <li>
+          <a href="#" rel="nofollow">Legal Statements</a>
+        </li>
+        <li>
+          <a href="#" rel="nofollow">Privacy &amp; Policies</a>
+        </li>
+
+        <li>
+          <a href="#null" rel="nofollow" data-cc="c-settings">Cookie settings</a>
+        </li>
+
+      </ul>
+
+
+      <div class="mod-footer__logo">
+        <img src="/assets-f/img/b51795dd2c4cd7.png" alt="" loading="lazy">
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="mod mod-fab hidden-print">
+  <button type="button" class="js-mobileTrigger a-btn a-btn--primary a-btn--color-primary a-btn--icon mod-fab__mobileTrigger">
+    <span class="icon-small-menu-16"></span>
+    <span class="icon-close-16"></span>
+  </button>
+
+  <div class="js-mobileWrapper mod-fab__mobileWrapper">
+    <div class="js-sidebar mod-fab__sidebar">
+      <div class="mod-fab__sidebar__mobileIntro">
+        <strong>How can we help you?</strong>
+        <p>Contact us, or share our site.</p>
+      </div>
+
+
+      <button type="button" class="js-btn a-btn a-btn--primary a-btn--color-primary mod-fab__sidebar__btn" title="Contact" data-target="contact" data-event="/event/data" data-event-data="FAB contact">
+        <span class="icon-mail-24"></span>
+        <span class="btn__label">Contact</span>
+      </button>
+
+
+      <a href="#" class="a-btn a-btn--primary a-btn--color-primary mod-fab__sidebar__btn" title="Newsletter" data-event="/event/data" data-event-data="FAB newsletter">
+        <span class="icon-file-24"></span>
+        <span class="btn__label">Newsletter</span>
+      </a>
+
+      <button type="button" class="js-btn a-btn a-btn--primary a-btn--color-primary mod-fab__sidebar__btn" title="Share" data-target="share" data-event="/event/data" data-event-data="FAB share">
+        <span class="icon-share-24"></span>
+        <span class="btn__label">Share</span>
+      </button>
+    </div>
+    <div class="js-content mod-fab__content">
+
+      <div class="js-box mod-fab__content__box" data-name="contact">
+        <div class="box__title">
+          <button type="button" class="js-closeBoxBtn box__title__close box__title__close--mobile">
+            <span class="icon-arrow-left-24"></span>
+          </button>
+          <span class="icon-mail-24"></span>
+          <span>Contact</span>
+          <button type="button" class="js-closeBoxBtn box__title__close box__title__close--desktop">
+            <span class="icon-close-24"></span>
+          </button>
+        </div>
+        <figure class="box__img">
+          <img src="/assets-f/img/80a43d8bbd49a5.jpg" alt="Consult with our automation specialists">
+        </figure>
+        <div class="box__intro">
+          <strong>Consult with our automation specialists</strong>
+          <br>
+          Locations around the globe. Consulting &amp; support where you need them. Swisslog experts are here to help you.
+        </div>
+        <ul class="box__links box__links--compact">
+
+          <li>
+            <span data-href="/en-us/contact/contact-standard?contacts=85F7670950AC403491E54102F5C69483" class="js-masked-link" data-event="/event/data" data-event-data="FAB Contact Mail Consult with our automation specialists">
+              <span class="icon-mail-24"></span>
+              <span>Email</span>
+            </span>
+          </li>
+
+
+        </ul>
+      </div>
+
+      <div class="js-box mod-fab__content__box" data-name="share">
+        <div class="box__title">
+          <button type="button" class="js-closeBoxBtn box__title__close box__title__close--mobile">
+            <span class="icon-arrow-left-24"></span>
+          </button>
+          <span class="icon-share-24"></span>
+          <span>Share this page</span>
+          <button type="button" class="js-closeBoxBtn box__title__close box__title__close--desktop">
+            <span class="icon-close-24"></span>
+          </button>
+        </div>
+        <div class="box__intro">
+          Share this page or email to a friend.
+        </div>
+        <ul class="box__links">
+
+          <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.swisslog.com%2Fen-us%2Fproducts-systems-solutions" data-href="https://www.linkedin.com/shareArticle?mini=true&amp;url=" class="js-shareLink" target="_blank" rel="nofollow noopener" data-event="/event/data" data-event-data="FAB Share LinkedIn">
+              <span class="icon--40"></span>
+              <span>LinkedIn</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.swisslog.com%2Fen-us%2Fproducts-systems-solutions" data-href="https://www.facebook.com/sharer/sharer.php?u=" class="js-shareLink" target="_blank" rel="nofollow noopener" data-event="/event/data" data-event-data="FAB Share Facebook">
+              <span class="icon--40"></span>
+              <span>Facebook</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.swisslog.com%2Fen-us%2Fproducts-systems-solutions" data-href="https://twitter.com/intent/tweet?url=" class="js-shareLink" target="_blank" rel="nofollow noopener" data-event="/event/data" data-event-data="FAB Share Twitter">
+              <span class="icon--40"></span>
+              <span>Twitter</span>
+            </a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+
+
+
+  <script type="text/javascript" src="/assets-f/js/8da0f83e16debe.js" async="" fetchpriority="high"></script>
+
+<script type="text/javascript">
+document.addEventListener('cookieConsentChange', function(e) {
+    console.info('Cookie Consent Changed');
+  window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        'event': "consentUpdate",
+        'consent': e.detail.cc.allowedCategory('marketing') ? 'granted' : 'denied'
+    });
+});
+</script><script type="text/javascript" src="/assets-f/js/d038e8fb98fb78.js"></script>
+<script type="text/javascript">
+  var initESW = function(gslbBaseURL) {
+    embedded_svc.settings.displayHelpButton = true; //Or false
+    embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
+
+    embedded_svc.settings.defaultMinimizedText = 'Use our Live Chat'; //
+    //embedded_svc.settings.disabledMinimizedText = '...'; //(Defaults to Agent Offline)
+
+    //embedded_svc.settings.loadingText = ''; //(Defaults to Loading)
+    //embedded_svc.settings.storageDomain = 'yourdomain.com'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session)
+
+    // Settings for Chat
+    //embedded_svc.settings.directToButtonRouting = function(prechatFormData) {
+      // Dynamically changes the button ID based on what the visitor enters in the pre-chat form.
+      // Returns a valid button ID.
+    //};
+    //embedded_svc.settings.prepopulatedPrechatFields = {}; //Sets the auto-population of pre-chat form fields
+    //embedded_svc.settings.fallbackRouting = []; //An array of button IDs, user IDs, or userId_buttonId
+    //embedded_svc.settings.offlineSupportMinimizedText = '...'; //(Defaults to Contact Us)
+
+    embedded_svc.settings.enabledFeatures = ['LiveAgent'];
+    embedded_svc.settings.entryFeature = 'LiveAgent';
+
+    embedded_svc.init(
+      'https://kuka.my.salesforce.com',
+      'https://my.kuka.com/',
+      gslbBaseURL,
+      '00D58000000OybT',
+      'SwisslogBot_ESD',
+      {
+        baseLiveAgentContentURL: 'https://c.la1-c2-fra.salesforceliveagent.com/content',
+        deploymentId: '5721i000000PJD5',
+        buttonId: '5731i0000008Vu0',
+        baseLiveAgentURL: 'https://d.la1-c2-fra.salesforceliveagent.com/chat',
+        eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I1i000000TNqBEAW_188dd84e7ba',
+        isOfflineSupportEnabled: false
+      }
+    );
+  };
+
+  if (!window.embedded_svc) {
+    var s = document.createElement('script');
+    s.setAttribute('src', 'https://kuka.my.salesforce.com/embeddedservice/5.0/esw.min.js');
+    s.onload = function() {
+      initESW(null);
+    };
+    document.body.appendChild(s);
+  } else {
+    initESW('https://service.force.com');
+  }
+</script><script id="common-script" type="text/javascript" src="/assets-f/js/2c89f0acfa8545.js"></script>
+
+<style type="text/css">
+.embeddedServiceHelpButton {
+  z-index: 2001;
+}
+.embeddedServiceHelpButton .helpButton .uiButton {
+  background-color: #D10007;
+  font-family: "KUKA Bulo", sans-serif;
+}
+.embeddedServiceHelpButton .helpButton .uiButton:focus {
+  outline: 1px solid #D10007;
+}
+.chasitor.chat-content[c-lwcchatpack_lwcchatpack] {
+  background: #D10007;
+}
+embeddedservice-chat-header button.closeButton, embeddedservice-chat-header button.minimizeButton {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+body .embeddedServiceHelpButton .uiButton.helpButtonDisabled {
+display: none !important;
+}
+
+@media screen and (max-width: 767px) {
+  .embeddedServiceHelpButton .helpButton {
+    left: 12px;
+    right: auto;
+  }
+}
+</style>
+
+
+
+<script id="liveagent-esw-script" type="text/javascript" src="/assets-f/js/2a07ffd0f69d40.js"></script><form id="fileUploadForm" enctype="multipart/form-data" method="post" target="fileUploadIframe"><input type="file" id="fileSelector" name="file" style="display: none;"><input name="filename" type="hidden"></form><iframe id="fileUploadIframe" name="fileUploadIframe" title="FileUploadFrame" style="display: none;"></iframe><iframe id="esw_storage_iframe" src="https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.swisslog.com/en-us/products-systems-solutions" title="Live Chat Metadata" style="display: none;"></iframe><script type="text/javascript" src="https://d.la1-c2-fra.salesforceliveagent.com/chat/rest/EmbeddedService/EmbeddedServiceConfig.jsonp?Settings.prefix=EmbeddedService&amp;org_id=00D58000000OybT&amp;EmbeddedServiceConfig.configName=SwisslogBot_ESD&amp;callback=embedded_svc.liveAgentAPI.handleChatSettings&amp;version=48"></script><script id="invite-esw-script" type="text/javascript" src="/assets-f/js/7ce692d54860aa.js"></script><div class="embeddedServiceHelpButton"><div class="helpButton"><button class="uiButton helpButtonDisabled" href="javascript:void(0)" aria-disabled="true"><span class="embeddedServiceIcon" aria-hidden="true" data-icon="" style="display: inline-block;"></span><span class="helpButtonLabel" id="helpButtonSpan" aria-live="polite" aria-atomic="true"><span class="assistiveText">Live chat:</span><span class="message">Agent Offline</span></span></button></div></div><script id="inert-script" type="text/javascript" src="/assets-f/js/91d1e782405821.js"></script><script type="text/javascript" src="https://d.la11-core1.sfdc-yzvdd4.salesforceliveagent.com/chat/rest/EmbeddedService/EmbeddedServiceConfig.jsonp?Settings.prefix=EmbeddedService&amp;org_id=00D58000000OybT&amp;EmbeddedServiceConfig.configName=SwisslogBot_ESD&amp;callback=embedded_svc.liveAgentAPI.handleChatSettings&amp;version=48"></script></body></html>

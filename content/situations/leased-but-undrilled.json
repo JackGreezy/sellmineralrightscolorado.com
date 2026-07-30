@@ -1,0 +1,73 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "metaTitle": "Selling Leased but Undrilled Colorado Mineral Rights",
+ "metaDescription": "Signed a Colorado oil and gas lease and collected the bonus, but no well yet? We quote leased, undrilled minerals against permit activity, not a guess.",
+ "heroLead": "You took the bonus check, signed the lease, and now you're waiting on a well that may or may not show up before the lease term runs out. That waiting has a price, and we quote it.",
+ "intro": [
+  "A leased but undrilled Colorado mineral interest sits in an unusual spot: you've been paid a bonus and signed away drilling rights for a term, but you have no production, no royalty check, and no certainty about when, or whether, a well actually gets drilled on your tract before the lease expires or gets extended. That uncertainty is exactly what we underwrite when we quote these interests.",
+  "We look at the lease terms, the operator's permit activity in your township and range, and how the surrounding section has developed, to put a real number on an interest that has no income history yet but does have a defined, tradeable value tied to development probability."
+ ],
+ "sections": [
+  {
+   "heading": "What actually drives value here",
+   "paragraphs": [
+    "For a leased, undrilled tract, the two things that matter most are how close the operator is to actually drilling and how much lease term is left before the clock resets or the lease lapses. A tract inside an operator's current multi-well pad plan, in a county like Weld with active permitting, is worth materially more than the same acreage in a slower-moving area where the operator has shown no recent activity nearby.",
+    "We pull COGCC permit filings and recent spud activity for your section and the surrounding one-mile radius, which tells us far more about real drilling probability than the lease document alone."
+   ]
+  },
+  {
+   "heading": "Setback rules can push the timeline",
+   "paragraphs": [
+    "Colorado's statewide setback distance from occupied structures, combined with local Weld and Adams County land-use requirements, has slowed or redirected some development, particularly near growing subdivisions on the DJ Basin's suburban edge. If your leased tract sits near an area with active residential growth, that can extend the time before a well actually gets drilled, which is a real factor in what we're willing to pay today versus waiting for production to start.",
+    "We check whether nearby permitting has continued despite these constraints or has genuinely slowed, since the two situations price very differently."
+   ]
+  },
+  {
+   "heading": "Why sell before the well is drilled",
+   "paragraphs": [
+    "Some owners prefer to wait and see if a well gets drilled before considering a sale, reasoning that a producing royalty is worth more than an undrilled lease. That's often true on a per-unit basis, but it comes with real uncertainty: leases can expire without drilling, operators change development plans, and commodity prices shift the whole calculus. Selling now converts that uncertain future into cash today, priced against the actual probability of drilling we see in your area, not a hope.",
+    "This also matters if the lease is nearing the end of its primary term with no drilling activity yet. An expiring lease with no well can leave the mineral owner back where they started, holding an interest with no clear near-term catalyst."
+   ]
+  },
+  {
+   "heading": "Reading the pooling and unitization clause",
+   "paragraphs": [
+    "Most Colorado leases include a pooling clause that lets the operator combine your tract with adjoining parcels into a single spacing unit, which affects how much of your acreage actually ends up under a drilled unit versus sitting outside it. A tract pooled into a favorable unit position, closer to the lateral's toe or heel where recovery tends to be strongest, can be worth more than one pooled at the unit's edge.",
+    "We check the operator's spacing unit filings with the COGCC where available, since that tells us how your specific acreage has been or is likely to be pooled, which is a more reliable signal than the lease document's general pooling language alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My lease still has a few years left with no drilling. What is that worth?",
+   "answer": "It depends heavily on nearby permit and drilling activity. We check COGCC filings for your section and the surrounding area to estimate real drilling probability before quoting a number."
+  },
+  {
+   "question": "Does the setback rule mean my tract won't get drilled?",
+   "answer": "Not necessarily. It can slow or redirect development near growing subdivisions, but plenty of leased acreage in Weld County continues to see active permitting. We check current activity for your specific location."
+  },
+  {
+   "question": "Should I wait until a well is actually drilled to sell?",
+   "answer": "That's a valid strategy if you're comfortable with the uncertainty, since a producing royalty is often worth more per unit than an undrilled lease. Selling now removes that uncertainty and converts it to cash today."
+  },
+  {
+   "question": "What happens if my lease expires without a well being drilled?",
+   "answer": "Typically the lease terminates and the mineral rights revert fully to you, free of the lease, unless there's a renewal or extension clause. Read your lease's habendum clause carefully or ask an attorney to confirm."
+  },
+  {
+   "question": "Can I sell my minerals if the lease has a pending pooling or spacing application?",
+   "answer": "Yes. A pending COGCC filing doesn't prevent a sale; it's actually a useful signal of drilling probability, and we factor an active application directly into how we value the tract."
+  }
+ ],
+ "status": "written",
+ "wordCount": 866,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightscolorado-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

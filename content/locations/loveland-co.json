@@ -1,0 +1,57 @@
+{
+ "slug": "loveland-co",
+ "title": "Sell Mineral Rights in Loveland, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Larimer",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights loveland co",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Loveland, CO | Larimer's DJ Basin Corridor",
+ "metaDescription": "Hold minerals near Loveland, CO? We check the productive DJ Basin corridor along Larimer County's southeast edge before quoting your interest.",
+ "heroLead": "Loveland sits along the productive southeastern corridor of Larimer County, where the same Niobrara and Codell trend that built Weld County's Wattenberg field extends across the county line.",
+ "intro": [
+  "Loveland occupies a middle ground in Larimer County's oil and gas story — closer to real Wattenberg-style development than the foothill communities further west, but still subject to the county's own setback and permitting framework rather than Weld County's. Mineral owners here often hold interests inherited from farmland along the Big Thompson corridor, where irrigation agriculture and, later, oil and gas both shaped the local economy."
+ ],
+ "sections": [
+  {
+   "heading": "How Loveland's geology compares to Weld County core",
+   "paragraphs": [
+    "Wells near Loveland target the same Niobrara benches and Codell sandstone as their Weld County counterparts, and where development has occurred it follows the same multi-well pad pattern with steep early decline into a long stripper tail. The difference is density: this corridor has seen real but somewhat thinner development than the Wattenberg core further east.",
+    "That means it's especially important for us to check the specific well or wells tied to your section rather than assume Loveland-area acreage behaves identically to a Kersey or Longmont interest."
+   ]
+  },
+  {
+   "heading": "Larimer County's regulatory layer",
+   "paragraphs": [
+    "Since SB 19-181 shifted regulatory authority toward local governments in 2019, Larimer County has applied its own setback and review standards to new oil and gas permitting. Existing, already-permitted wells near Loveland generally continue operating under the rules in place when they were drilled, but new development on undrilled acreage faces that current county framework."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Loveland part of the core Wattenberg field?",
+   "answer": "It's on the productive DJ Basin trend but sits in Larimer County under a different regulatory framework than Weld County's core, and development density is generally lighter."
+  },
+  {
+   "question": "How do I check if my Loveland-area section has a producing well?",
+   "answer": "Send us your legal description and we'll check it against current COGCC well and production records."
+  },
+  {
+   "question": "Would selling now versus waiting make a difference?",
+   "answer": "It depends on where the tied well sits on its decline curve and current market conditions. We give you a real number based on actual production so you can decide for yourself."
+  },
+  {
+   "question": "Does Loveland's mix of agricultural and residential land affect drilling here?",
+   "answer": "It can, since newer residential growth along the Big Thompson corridor adds the same kind of local setback scrutiny seen elsewhere in Larimer County, mostly affecting undrilled acreage rather than established wells."
+  }
+ ],
+ "status": "written",
+ "wordCount": 426,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-loveland-co.jpg",
+  "alt": "Sell Mineral Rights in Loveland, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

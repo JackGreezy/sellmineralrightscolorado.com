@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in Colorado",
+ "metaDescription": "How a mineral deed conveys ownership in Colorado, what it needs to contain, and how title transfer at the county clerk actually works.",
+ "heroLead": "A mineral deed is a short document that carries a lot of legal weight, and getting its language right is what stands between a clean transfer and a title dispute years later.",
+ "intro": [
+  "A mineral deed conveys ownership of oil, gas, and mineral rights separately from the surface, and in Colorado's split-estate counties it's often the only document establishing who actually controls what's underground on a given tract. Whether you're receiving an interest through inheritance, correcting a title issue, or selling to a buyer, the deed's language is what a future title examiner relies on, so precision matters more here than in most everyday paperwork.",
+  "Recording happens at the county clerk and recorder's office in the county where the minerals are located. Colorado is a race-notice recording state, meaning the order in which documents are recorded, not only signed, generally determines priority when there's a conflict, which is one reason prompt recording matters."
+ ],
+ "sections": [
+  {
+   "heading": "What a valid mineral deed contains",
+   "paragraphs": [
+    "At minimum, a mineral deed needs the grantor and grantee names, a legal description of the property, usually by section, township, and range or by metes and bounds, the specific interest being conveyed, whether that's all minerals, a fraction, or specific depths or formations, and the grantor's notarized signature. Vague or missing legal descriptions are one of the most common defects title examiners flag.",
+    "Deeds can convey different bundles of rights: a full mineral interest, a royalty interest without the executive right to lease, or a non-participating royalty interest. The deed's language needs to be specific about which of these is being transferred, since generic boilerplate can create ambiguity that surfaces later, often when someone is trying to sell or when a division order is being calculated."
+   ]
+  },
+  {
+   "heading": "Recording at the county clerk",
+   "paragraphs": [
+    "Once signed and notarized, the deed is recorded with the county clerk and recorder in the county where the minerals sit, whether that's Weld, Garfield, La Plata, Rio Blanco, or another Colorado county. Recording fees are modest, but the step itself is what makes the transfer part of the public record and protects the new owner's priority against later claims.",
+    "Delays between signing and recording create risk. If a deed sits unrecorded for months, a subsequent buyer or lender who checks the record in the meantime won't see the transfer, which can complicate priority if a dispute arises. Most transactions record the deed within days of closing for exactly this reason."
+   ]
+  },
+  {
+   "heading": "Correcting an existing deed",
+   "paragraphs": [
+    "Errors in a previously recorded deed, a wrong legal description, a missing heir, an ambiguous interest fraction, are usually fixed with a corrective deed or, in probate situations, an affidavit of heirship or a court order. These documents reference the original deed and correct the specific defect rather than starting the chain of title over.",
+    "This is common enough in Colorado's older mineral estates that it shouldn't be treated as alarming. Interests that passed through several generations of a family, sometimes without a formal probate at each step, often need a curative document before a buyer's title team can close cleanly. It's routine work, though it's worth involving an attorney if the correction is contested by another party."
+   ]
+  },
+  {
+   "heading": "Transfer at closing on a sale",
+   "paragraphs": [
+    "When you sell mineral rights, the deed conveying your interest to the buyer is the final legal step of the transaction, typically recorded once funds have cleared or simultaneously with payment depending on how the closing is structured. Read the legal description and the interest fraction against your own records before signing, since this document is what legally transfers what you own.",
+    "After recording, it's worth confirming the deed shows up in the county's public record, most counties post recorded documents online within a few business days, and notifying the operator of record if the interest is producing so future royalty payments route to the correct party."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a royalty deed?",
+   "answer": "A mineral deed conveys the full mineral estate, including the right to lease. A royalty deed conveys only the right to a share of production revenue, without the executive right to negotiate or sign a lease."
+  },
+  {
+   "question": "Do I need a lawyer to prepare a mineral deed?",
+   "answer": "It's not legally required in Colorado, but given how much weight the deed's language carries, many owners and buyers use an attorney or a title company to prepare it correctly."
+  },
+  {
+   "question": "How long does recording take at the county clerk?",
+   "answer": "Often same-day to a few business days, depending on the county's current volume. Most Colorado counties now offer electronic recording, which speeds this up further."
+  },
+  {
+   "question": "What if my inherited minerals were never formally deeded to me?",
+   "answer": "This is common. A probate order or an affidavit of heirship can establish the transfer, sometimes without a separate mineral deed, and a title examiner can advise on what's needed for your specific situation."
+  },
+  {
+   "question": "Can a mineral deed be reversed after recording?",
+   "answer": "Not unilaterally. Once recorded, undoing a transfer generally requires a new deed conveying the interest back, agreed to by both parties, or a court order in a dispute."
+  }
+ ],
+ "wordCount": 868,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightscolorado-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

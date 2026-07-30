@@ -1,0 +1,78 @@
+{
+ "slug": "piceance-basin",
+ "title": "Piceance Basin Mineral Rights",
+ "type": "basin",
+ "group": "CO",
+ "primaryKeyword": "piceance basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Sell Piceance Basin Mineral Rights | Western CO Gas",
+ "metaDescription": "Own Piceance Basin gas minerals in Garfield, Rio Blanco, or Mesa County? We underwrite tight-gas decline curves and current gas-price exposure before quoting.",
+ "heroLead": "Piceance is a gas basin first, which means your royalty check moves with Henry Hub in a way an oil-weighted Colorado interest never will, and we underwrite it that way.",
+ "intro": [
+  "The Piceance Basin sits under Garfield, Rio Blanco, and Mesa County on Colorado's Western Slope, and it has been developed primarily for tight-gas production out of the Williams Fork and Mesaverde formations, with wells drilled and refractured over decades near Rifle, Parachute, and Meeker. Activity here has run in cycles tied closely to gas prices, unlike the more oil-driven DJ Basin on the Front Range.",
+  "When we evaluate a Piceance interest, we start with the gas price backdrop, because a tight-gas well's economics swing harder with commodity price than an oil well's do, and that swing shows up directly in what your last several royalty checks looked like compared to two or three years ago."
+ ],
+ "sections": [
+  {
+   "heading": "A basin that runs on gas prices, not only decline",
+   "paragraphs": [
+    "Piceance wells decline like most tight-gas completions: a fast initial drop followed by a long, low-rate tail. But because this basin is almost entirely gas, your check size depends heavily on where Henry Hub and regional basis prices sit in a given quarter, on top of the underlying production decline. We look at both curves together, volume and price, before quoting a Piceance interest, rather than assuming a flat price deck.",
+    "Basis differential matters here more than in most Colorado basins. Western Slope gas has historically priced at a discount to Henry Hub depending on pipeline takeaway capacity, and that differential shows up as a line item on your division order statement worth checking closely."
+   ]
+  },
+  {
+   "heading": "Legacy development and refrac activity",
+   "paragraphs": [
+    "Much of the Piceance was developed in dense vertical and directional patterns starting in the 1990s and 2000s, well before the horizontal era reshaped Colorado's Front Range basins. Many of those older wells have since been refractured or recompleted to extend their productive life, which can reset the decline curve on an interest that looked like it was tailing off. If your check history shows a jump a few years after the well's original completion date, that's usually a refrac, not a new well.",
+    "We check operator activity reports and permit history around your section to see whether a refrac program has touched nearby wells, since that materially changes how we forecast the remaining life of a producing interest."
+   ]
+  },
+  {
+   "heading": "Split estate and federal mineral overlap",
+   "paragraphs": [
+    "A meaningful share of Piceance Basin acreage involves federal mineral ownership or leases administered through the BLM, layered against private fee minerals in a checkerboard pattern common across Rio Blanco and Garfield County. Private mineral owners here often hold split estate interests where the surface is ranch or federal land and the minerals were severed generations ago through homestead-era patents.",
+    "We sort out fee versus federal ownership on your specific parcel before quoting, since a private mineral interest surrounded by federal acreage is priced on its own terms, not by what the federal tract next door is doing."
+   ]
+  },
+  {
+   "heading": "Pipeline takeaway and why it moves your check",
+   "paragraphs": [
+    "Even when a Piceance well is producing steadily, the price realized on that gas depends on how much pipeline capacity is available to move it out of the basin toward larger regional markets. Periods of constrained takeaway capacity have historically widened the discount Western Slope gas sells at relative to Henry Hub, which shows up as a lower net price on your check even when raw volumes haven't changed.",
+    "We watch regional pipeline capacity and basis trends as part of underwriting a Piceance royalty, because two owners with identical production can see meaningfully different net revenue depending on which takeaway system their gas moves through."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my Piceance royalty check swing more than my Colorado friend's DJ Basin check?",
+   "answer": "The Piceance is almost entirely a gas play, so your revenue tracks gas prices and regional basis directly. An oil-weighted DJ Basin interest is less exposed to the same swings."
+  },
+  {
+   "question": "My well is decades old. Is it still worth anything?",
+   "answer": "Often yes. Many older Piceance wells have been refractured, which extends productive life well past what the original completion date would suggest. We check for that before assuming an old well is near its end."
+  },
+  {
+   "question": "Are my minerals private or federal?",
+   "answer": "It depends on the parcel. Piceance ownership is a checkerboard of private fee and federal minerals, and we verify which applies to your specific tract using county and BLM records before quoting."
+  },
+  {
+   "question": "Does gas basis differential really affect my check?",
+   "answer": "Yes, meaningfully. Western Slope gas has historically sold at a discount to Henry Hub depending on pipeline capacity, and that differential is usually itemized on your division order statement."
+  },
+  {
+   "question": "How do you factor pipeline takeaway capacity into a Piceance valuation?",
+   "answer": "We look at current regional basis trends and known constraints on Western Slope takeaway pipelines, since periods of limited capacity have historically widened the discount to Henry Hub and lowered net realized price on production."
+  }
+ ],
+ "status": "written",
+ "wordCount": 854,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-piceance-basin-sellmineralrightscolorado-com.jpg",
+  "alt": "Piceance Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

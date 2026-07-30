@@ -1,0 +1,71 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate in Colorado: What Owners Should Know",
+ "metaDescription": "Confused whether you own the surface, the minerals, or both on your Colorado property? We explain split estate and how it affects selling minerals.",
+ "heroLead": "In Colorado, owning the land and owning what's beneath it are frequently two separate legal estates, and knowing which one you actually hold changes everything about a sale.",
+ "intro": [
+  "Colorado real property can be divided into two distinct legal estates: the surface estate, ownership of the land itself, and the mineral estate, ownership of the oil, gas, coal, and other resources beneath it. When both are owned by the same person, the property is unified. When they're owned separately, commonly the result of a homestead-era federal patent, an old private deed that reserved minerals to the seller, or an estate division that split them between heirs, the property is called split estate.",
+  "Split estate is extremely common across Colorado's producing basins, particularly in Weld County's DJ Basin acreage and much of the Western Slope, and many current owners aren't entirely sure which estate they hold until they dig into their deed or a title search."
+ ],
+ "sections": [
+  {
+   "heading": "How to tell which estate you own",
+   "paragraphs": [
+    "The clearest way to confirm is your recorded deed, available at the county clerk and recorder's office. Look for language reserving or excepting minerals, oil, gas, and other substances from the conveyance; if a prior deed in your chain of title reserved minerals to a previous owner, you likely hold only the surface today, and someone else, possibly unknown to you, holds the minerals. The reverse is also common: an owner who holds minerals but sold or never owned the surface.",
+    "If you're receiving royalty checks, you clearly hold at least a mineral or royalty interest. If you're not receiving checks but pay property tax on land in an active drilling area, it's worth confirming whether your deed actually includes the minerals or excepted them decades ago."
+   ]
+  },
+  {
+   "heading": "What split estate means practically",
+   "paragraphs": [
+    "In a split estate arrangement, Colorado law generally gives the mineral estate the dominant right to reasonable use of the surface for exploration and production, subject to statutory setback rules, local land-use requirements, and, increasingly, negotiated surface use agreements between the operator and surface owner. If you own the minerals but not the surface, you typically don't control what happens on top of the ground, drilling pads, access roads, but you retain full economic interest in whatever production occurs beneath it.",
+    "If you own the surface but not the minerals, you may have limited ability to prevent drilling activity on your land, though Colorado's setback rules and local ordinances have added meaningful protections and negotiating leverage for surface owners in recent years."
+   ]
+  },
+  {
+   "heading": "Selling a mineral interest under split estate",
+   "paragraphs": [
+    "A severed mineral interest sells independently of the surface; you don't need the surface owner's involvement or consent to sell minerals you own, and we don't require any contact with the surface owner to complete a purchase. We do confirm the split through title research so the deed we prepare accurately reflects that you're conveying only the mineral estate, not any surface rights you don't hold."
+   ]
+  },
+  {
+   "heading": "Surface use agreements and what they mean for owners",
+   "paragraphs": [
+    "When an operator plans to drill on split estate acreage, Colorado practice generally calls for a surface use agreement negotiated with the surface owner, covering access roads, pad location, and compensation for disturbance, separate entirely from the mineral owner's royalty. If you're a mineral owner and the surface belongs to someone else, you typically aren't a party to that surface agreement and it doesn't affect your royalty interest, though it can affect the timeline for when a well actually gets drilled.",
+    "We check whether a surface use agreement is already in place for tracts near your interest, since a completed agreement is often a signal that drilling is closer than it would be for acreage where surface negotiations haven't started."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my property is split estate?",
+   "answer": "Check your deed for reservation or exception language covering minerals, oil, and gas. A county title search will confirm definitively whether the surface and mineral estates are held together or separately."
+  },
+  {
+   "question": "If I own the surface but not the minerals, can I stop drilling on my land?",
+   "answer": "Generally the mineral estate has dominant rights to reasonable surface use, though Colorado's setback rules and local ordinances provide real protections and negotiating leverage for surface owners today."
+  },
+  {
+   "question": "Do I need the surface owner's permission to sell my mineral rights?",
+   "answer": "No. A severed mineral interest is independent property and can be sold without the surface owner's involvement or consent."
+  },
+  {
+   "question": "I own both the surface and minerals. Does that change how you'd buy my minerals?",
+   "answer": "We'd still only purchase the mineral estate unless you specifically want to sell surface rights too, which is a separate transaction we don't typically handle. The deed will clearly convey only what you intend to sell."
+  },
+  {
+   "question": "Is there a surface use agreement I should ask about before I sell my minerals?",
+   "answer": "It's worth asking whether one exists on your tract, since a completed agreement often signals drilling is closer, which can matter for how we value a non-producing or leased-but-undrilled mineral interest."
+  }
+ ],
+ "status": "written",
+ "wordCount": 864,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightscolorado-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

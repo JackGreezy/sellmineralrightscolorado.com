@@ -1,0 +1,62 @@
+{
+ "slug": "battlement-mesa-co",
+ "title": "Sell Mineral Rights in Battlement Mesa, CO",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Garfield",
+ "group": "Piceance",
+ "primaryKeyword": "sell mineral rights battlement mesa co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Battlement Mesa, CO",
+ "metaDescription": "Battlement Mesa sits in Garfield County's Piceance Basin gas country. See how tight-sands gas economics and gathering deductions affect your mineral interest's value.",
+ "heroLead": "Battlement Mesa sits in Garfield County, deep in stretch of the Piceance Basin, a tight-sands gas play with a very different production profile from the oil-heavy Wattenberg Field on the other side of the state.",
+ "intro": [
+  "This area saw a major gas drilling boom in the mid-2000s as operators like the predecessors to what's now Ovintiv and Terra Energy Partners developed the Williams Fork formation using pad drilling and hydraulic fracturing. Activity slowed considerably after natural gas prices fell later that decade, and it's been more selective since, tracking Henry Hub and regional CIG pricing rather than the oil-price cycles that drive Weld County decisions."
+ ],
+ "sections": [
+  {
+   "heading": "Gas royalty statements read differently than oil",
+   "paragraphs": [
+    "If your family's minerals have produced from a Piceance well, your royalty statement is priced off gas volumes and a regional index price rather than a posted crude oil price, with gathering and processing deductions that can be a larger share of the gross value than on an oil well. Understanding those deductions is part of accurately reading whether a check reflects normal well performance or something else."
+   ]
+  },
+  {
+   "heading": "Tight sands wells decline differently than shale oil",
+   "paragraphs": [
+    "Williams Fork tight-gas wells typically show a steep initial decline followed by a long, low-volume tail that can continue paying for many years, which is a different shape than the very front-loaded decline curve typical of a Weld County horizontal Niobrara oil well. We build offers off the actual production history of your specific well or unit rather than applying a Wattenberg-style curve to a gas well."
+   ]
+  },
+  {
+   "heading": "What we check for a Battlement Mesa tract",
+   "paragraphs": [
+    "We pull current operator-of-record and production filings with the state, review gas price realizations against the regional index, and confirm your decimal interest through the Garfield County Clerk and Recorder. Given the pace of the mid-2000s boom, many owners here haven't had their interest actively reviewed in over a decade, so an updated evaluation can surface real changes in value."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why do my gas royalty checks look different from what I've heard about Weld County oil minerals?",
+   "answer": "Gas wells are priced off volume and a regional index rather than crude oil pricing, with gathering and processing deductions that work differently than an oil well's deductions. The two aren't directly comparable."
+  },
+  {
+   "question": "Is there still active gas development in this part of Garfield County?",
+   "answer": "Activity has slowed considerably from the mid-2000s boom but continues selectively depending on gas prices. We check current permit and production filings against your specific tract."
+  },
+  {
+   "question": "My interest hasn't been reviewed in years — is that a problem?",
+   "answer": "No, that's common for Piceance-area interests given how the pace of development has changed since the boom. An updated evaluation can reflect current activity and pricing accurately."
+  },
+  {
+   "question": "How does gas price volatility affect an offer?",
+   "answer": "We weight recent, multi-month production and pricing trends rather than a single month's number, since gas prices can swing meaningfully from season to season."
+  }
+ ],
+ "wordCount": 511,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-battlement-mesa-co.jpg",
+  "alt": "Sell Mineral Rights in Battlement Mesa, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

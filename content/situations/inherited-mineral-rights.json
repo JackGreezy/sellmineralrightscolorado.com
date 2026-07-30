@@ -1,0 +1,73 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Colorado Mineral Rights: Keep or Sell?",
+ "metaDescription": "Inherited Colorado mineral rights and unsure what they're worth or whether to keep them? We walk heirs through valuation, title, and a clean sale option.",
+ "heroLead": "Inheriting a Colorado mineral interest usually comes with more questions than the estate paperwork answers, starting with what it's actually worth and whether keeping it makes sense.",
+ "intro": [
+  "Heirs to Colorado mineral rights, especially interests tracing back to a grandparent's or great-grandparent's homestead in Weld, Garfield, or La Plata County, often inherit an asset they know almost nothing about: no clear sense of how many acres, which formation, whether the interest is leased, or what a royalty check history actually looks like. Sometimes the first sign of ownership is a division order letter or a check arriving out of nowhere after an estate closes.",
+  "We help heirs sort out exactly what they hold, whether it's producing, non-producing, or leased-but-undrilled, and give a straight valuation so the decision to keep or sell is based on real numbers rather than a guess."
+ ],
+ "sections": [
+  {
+   "heading": "Figuring out what you actually inherited",
+   "paragraphs": [
+    "The first step is usually confirming the interest is legally in your name. If the estate went through probate, there should be a deed or court order transferring the mineral interest to you; if it didn't, or if the property was informally passed down for a generation or two, that chain needs to be cleared up before a sale, and sometimes even before you can collect royalty payments the operator is currently holding in suspense.",
+    "Once title is confirmed, we pull the recorded lease, county production records, and any available division order history to build a full picture: whether wells are currently producing on the tract, which formation they target, and how the interest has performed over recent years."
+   ]
+  },
+  {
+   "heading": "Keep, lease, or sell",
+   "paragraphs": [
+    "Keeping an inherited interest makes sense for some heirs, particularly if the royalty stream is meaningful and stable, or if there's sentimental value in holding onto family land ties. But many heirs end up with a small, split, or non-producing interest that's more administrative burden than income, especially when it's shared with siblings or cousins who each want something different done with it.",
+    "Selling converts an uncertain, sometimes hard-to-value future royalty stream into a known amount today, and it eliminates the ongoing paperwork, tax reporting, and division order corrections that come with an inherited interest, particularly one you didn't ask for and don't have the records to manage confidently."
+   ]
+  },
+  {
+   "heading": "Basis, taxes, and what to ask your CPA",
+   "paragraphs": [
+    "Inherited mineral rights generally receive a stepped-up basis to fair market value as of the date of death, which is different from what the original owner paid or was leased for decades ago. That basis matters directly for any future sale, since it's what capital gain or loss is measured against. Talk to your CPA or tax advisor about how basis and any prior depletion apply to your specific situation before you sell.",
+    "We can provide documentation of the sale price and date to support your tax reporting, but we're a mineral buyer, not a tax professional, so the specifics of your return should go through your own advisor."
+   ]
+  },
+  {
+   "heading": "When siblings inherit together and disagree",
+   "paragraphs": [
+    "It's common for a mineral interest to pass to multiple siblings or cousins jointly, and just as common for them to disagree about what to do with it: one wants to hold for the income, another wants to sell and move on. Each heir generally has the right to sell their own undivided share independently, regardless of what the others decide, so disagreement among co-heirs doesn't have to stall the whole family's options.",
+    "We can work with heirs individually on their own timeline, or coordinate a single closing if the family prefers to sell together, and we're comfortable explaining the process separately to each sibling if that makes the conversation easier."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my inherited mineral rights are producing?",
+   "answer": "We check county production records and, if available, division order history tied to your tract. If there's active production nearby but you've never received a check, the operator may be holding payments in suspense pending title confirmation."
+  },
+  {
+   "question": "Do I need to go through probate before I can sell?",
+   "answer": "If the interest wasn't formally transferred to you through probate or an affidavit of heirship, that typically needs to happen first. We can explain what's required for your specific estate."
+  },
+  {
+   "question": "What's my inherited interest worth compared to what my relative paid?",
+   "answer": "Inherited minerals generally get a stepped-up basis to fair market value at the date of death, unrelated to the original purchase or lease price decades ago. Ask your CPA how that applies to your sale."
+  },
+  {
+   "question": "Should I keep it, lease it, or sell it?",
+   "answer": "It depends on the size of the interest, whether it's producing, and how much administrative burden you're willing to carry, especially if it's shared with siblings. We'll give you a clear valuation either way so the decision is based on real numbers."
+  },
+  {
+   "question": "The check is in my deceased relative's name. What do I do?",
+   "answer": "Contact the operator's division order desk to begin the transfer process and confirm what documentation, typically a death certificate and probate or heirship paperwork, they require before reissuing checks in your name."
+  }
+ ],
+ "status": "written",
+ "wordCount": 873,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightscolorado-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

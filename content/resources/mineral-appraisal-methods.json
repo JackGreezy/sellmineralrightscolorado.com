@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Mineral Rights Are Appraised in Colorado",
+ "metaDescription": "The methods buyers and appraisers actually use to value Colorado mineral rights, from decline-curve analysis to comparable sales, and their limits.",
+ "heroLead": "There's no sticker price for a mineral interest, only a set of methods analysts use to build a range, and knowing which one applies to your interest changes how you should read an offer.",
+ "intro": [
+  "Owners frequently ask for a straight answer to what their minerals are worth, and the honest answer is that it depends heavily on which appraisal method fits the interest and what data is available. A producing well with three years of check stubs gets valued differently than raw undeveloped acreage in a county where drilling hasn't started. Understanding the method behind a number helps you evaluate whether an offer is reasonable, rather than comparing it against a figure you heard secondhand.",
+  "We are not licensed appraisers, and nothing here should be read as a formal appraisal or a promise of value. It's a description of how the analysis generally works, so you can ask better questions when you're evaluating an offer."
+ ],
+ "sections": [
+  {
+   "heading": "Discounted cash flow on producing interests",
+   "paragraphs": [
+    "For a producing royalty or mineral interest, the most common approach projects future production using the well's decline curve, applies a forward price deck for oil and gas, nets out the royalty burden and any severance or ad valorem taxes, and discounts that projected stream back to a present value using a discount rate that reflects the risk involved.",
+    "The decline curve is the piece that varies most by well type. Horizontal wells in the DJ Basin, common across Weld County and parts of Adams and Arapahoe counties, tend to show a steep initial decline in the first one to three years before flattening into a longer, shallower tail. Where a well sits on that curve at the time of appraisal significantly affects the number, which is why two owners in the same unit can get noticeably different offers if their interests were acquired or evaluated at different points in the well's life."
+   ]
+  },
+  {
+   "heading": "Comparable sales for context",
+   "paragraphs": [
+    "Some buyers cross-check discounted cash flow figures against recent comparable transactions in the same county or play, similar to how a home appraisal references recent nearby sales. Mineral comps are harder to pull than real estate comps because many transactions aren't publicly recorded with price detail, but county recorder data on transfer amounts, where available, can offer a rough benchmark.",
+    "Comps are most useful as a sanity check rather than a primary method, since no two mineral interests are truly identical, differences in decimal interest, well count, operator, and formation all move the number in ways a simple per-acre comparison can miss."
+   ]
+  },
+  {
+   "heading": "Valuing undeveloped or non-producing minerals",
+   "paragraphs": [
+    "Without production history, the analysis shifts toward risked value, looking at permitting activity, nearby operator activity, lease terms in the surrounding area, and how far a tract sits from the current edge of active drilling. Acreage inside an operator's near-term development plan is valued differently than acreage in an area with no recent permits.",
+    "Colorado's setback rules are a real factor here. Land where current setback distances meaningfully limit where a well could be sited gets a more conservative valuation than acreage with a clearer path to development, since the practical odds of a well ever being drilled are part of what's being priced."
+   ]
+  },
+  {
+   "heading": "What moves the range up or down",
+   "paragraphs": [
+    "Operator identity matters, an active, well-capitalized operator with a track record of consistent development in the area generally supports a tighter, more confident valuation than an inactive or financially uncertain one. Formation and depth matter too, since not every zone under a given tract is equally productive.",
+    "Split-estate status is a smaller but real factor for undeveloped minerals specifically, since surface access negotiations with a separate surface owner add a layer of uncertainty to whether and when a well gets sited. None of these factors produce a single right number, they narrow a reasonable range, and any specific dollar figure quoted to you should be understood as an estimate tied to current activity, not a guarantee."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a standard price per acre for Colorado minerals?",
+   "answer": "No. Value varies enormously by county, formation, well status, and operator activity. A figure that applies to one tract in Weld County may not apply at all to acreage a few miles away, let alone in a different basin."
+  },
+  {
+   "question": "How much does a well's decline curve affect the appraisal?",
+   "answer": "Substantially. A well early in its decline still has more projected future revenue than an identical well several years further along, even if both are currently paying similar monthly checks."
+  },
+  {
+   "question": "Can undeveloped minerals with no production still be valued?",
+   "answer": "Yes, through a risked approach based on nearby permitting and drilling activity rather than existing cash flow. These valuations carry a wider range of uncertainty than producing interests."
+  },
+  {
+   "question": "Does the operator's identity change the value?",
+   "answer": "It can. An operator with consistent development activity in the area generally supports more confidence in future production than one with limited or uncertain activity nearby."
+  },
+  {
+   "question": "Should I get an independent appraisal before selling?",
+   "answer": "Some owners do, particularly for larger interests, and that's a reasonable step. Talk to a qualified appraiser or your own advisor if you want a formal, independent valuation."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightscolorado-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

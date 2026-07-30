@@ -1,0 +1,63 @@
+{
+ "slug": "derby-co",
+ "title": "Sell Mineral Rights in Derby, CO",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Adams",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights derby co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Derby (Commerce City), CO",
+ "metaDescription": "Own minerals in the Derby area near Commerce City, Adams County? We price DJ Basin interests off real production data and close in weeks.",
+ "heroLead": "Derby, the older unincorporated area folded into Commerce City, sits over ground that has been part of the Denver-Julesburg Basin's oil story since before the Niobrara horizontal boom ever started.",
+ "intro": [
+  "Adams County has a longer oil history than most of the DJ Basin thanks to the refining infrastructure built up around Commerce City, and mineral ownership in the Derby area often reflects that: older leases, some still held by production from vertical wells drilled decades before anyone talked about horizontal Niobrara laterals.",
+  "That layered history means title can be more complicated than a newer Weld County unit. We do the work of tracing older leases and unit designations against current Adams County records so an offer reflects your actual net interest, not a guess."
+ ],
+ "sections": [
+  {
+   "heading": "Older wells, newer units",
+   "paragraphs": [
+    "Some Derby-area minerals are still under decades-old vertical well leases; others have been pooled into newer horizontal units drilled from surface pads outside the immediate neighborhood. We check both possibilities before pricing, because an interest held by an old, low-volume well prices very differently than one inside a fresh multi-well unit."
+   ]
+  },
+  {
+   "heading": "Urban and industrial surface complications",
+   "paragraphs": [
+    "Because this area sits close to refinery and industrial infrastructure, surface access for any new drilling is more constrained than in open Weld County farmland. That generally means slower development timelines for undrilled acreage, which we factor into how we price interests that have not yet seen a well."
+   ]
+  },
+  {
+   "heading": "What documentation speeds things up",
+   "paragraphs": [
+    "A copy of any lease, division order, or check stub you have on file lets us skip several steps in title verification. If you cannot find paperwork, we can pull what is recorded with the Adams County Clerk and Recorder, though that adds a little time to the process."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My family has owned this interest for generations. Is it still active?",
+   "answer": "Often yes, if it is held by production from an existing well. We check the well status and current operator before quoting a price."
+  },
+  {
+   "question": "Does being near industrial land affect the value?",
+   "answer": "It can limit new drilling on undeveloped acreage, which we account for, but it does not affect interests already held by production."
+  },
+  {
+   "question": "Can you buy just my share if my interest is split with relatives?",
+   "answer": "Yes, we routinely buy one co-owner's undivided share without requiring the rest of the family to sell at the same time."
+  },
+  {
+   "question": "How is the price determined if the well is older and slower?",
+   "answer": "We apply a decline curve to trailing production from your check stubs or division order rather than pricing off a new-well assumption."
+  }
+ ],
+ "wordCount": 453,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-derby-co.jpg",
+  "alt": "Sell Mineral Rights in Derby, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

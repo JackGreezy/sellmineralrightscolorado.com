@@ -1,0 +1,53 @@
+{
+ "slug": "la-salle-co",
+ "title": "Sell Mineral Rights in La Salle, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Weld",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights la salle co",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in La Salle, CO | Wattenberg Core",
+ "metaDescription": "Own minerals near La Salle, CO along the South Platte? We check Wattenberg field spacing and production before quoting your interest, no flat guesses.",
+ "heroLead": "La Salle sits in the South Platte River valley just south of Greeley, squarely inside Wattenberg field territory where drilling has run continuously since the horizontal boom began.",
+ "intro": [
+  "La Salle is a small Weld County town whose surrounding sections were largely agricultural — sugar beets, corn, cattle — before Niobrara horizontal development reshaped the local economy. Most mineral owners here either farmed the ground themselves at one point or descend from a family that did, with the rights carved out and kept separate as the land itself was sold or subdivided over the decades."
+ ],
+ "sections": [
+  {
+   "heading": "Production density around town",
+   "paragraphs": [
+    "This stretch of the South Platte valley has seen dense multi-well pad development, often with operators drilling ten or more wells from a single surface location to reach several spacing units at once. If your family's quarter section sits inside one of those units, your royalty check may reflect production from a well pad you've never actually seen, sited a mile or more from your legal description.",
+    "Because pads here often combine acreage from several original tracts, division orders can take time to sort out after a new well comes online. If you've recently gotten a division order letter for the first time in years, that usually means a new well was just completed on your unit."
+   ]
+  },
+  {
+   "heading": "What determines your interest's value",
+   "paragraphs": [
+    "Age and decline stage matter more than almost anything else. A well two years into production still has meaningful remaining value on its decline curve; a well twelve years in has likely settled into stripper production with a much smaller expected remaining payout. We pull the specific well's COGCC production history before quoting so the number reflects where that well actually sits today."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I just got a division order for the first time — what does that mean?",
+   "answer": "It usually means a new well was completed on a unit that includes your acreage. That's a good sign for near-term value since the well is early in its production life."
+  },
+  {
+   "question": "How many wells could be tied to my La Salle interest?",
+   "answer": "Could be one or several, depending on how many spacing units your section falls into and how the operator has developed the pad. We map that out from your legal description."
+  },
+  {
+   "question": "Can I sell just part of my mineral interest?",
+   "answer": "Yes, partial sales are common — some owners sell a portion of the interest tied to one well or unit while keeping the rest. We can structure it either way."
+  }
+ ],
+ "status": "written",
+ "wordCount": 444,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-la-salle-co.jpg",
+  "alt": "Sell Mineral Rights in La Salle, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

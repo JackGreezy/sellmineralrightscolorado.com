@@ -1,0 +1,76 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got a Mailbox Offer for Colorado Mineral Rights? Compare First",
+ "metaDescription": "Received an unsolicited offer for your Colorado mineral rights? We'll run the same decline-curve math independently so you know if it's fair before you sign.",
+ "heroLead": "A letter showed up offering to buy your Colorado minerals, and now the question is whether that number reflects real analysis or just a low anchor hoping you don't check.",
+ "intro": [
+  "Unsolicited mailbox offers for Colorado mineral rights are common, especially in active areas like Weld County, where several buyers send blanket letters to every owner of record in a county without necessarily reviewing individual production history first. Some of these offers are reasonable starting points; others are set deliberately low, betting that an owner without a comparison won't know the difference.",
+  "We'll run the same underwriting on your interest, pulling division order check history or offset activity depending on whether you're producing or not, and give you an independent number to compare against what you received. There's no obligation to sell to us; sometimes the honest answer is that the offer you already have is fair."
+ ],
+ "sections": [
+  {
+   "heading": "What a real analysis looks like versus a blanket letter",
+   "paragraphs": [
+    "A genuine valuation starts with your actual production or lease history, not a flat per-acre number applied across an entire county regardless of which formation, bench, or spacing unit your specific tract sits in. Blanket mailers are often priced off general county activity rather than your well's actual decline curve, which is why two neighbors with different well vintages can receive suspiciously similar offers.",
+    "When you send us your check stubs or lease documents, we build a number specific to your interest: recent decline behavior, offset activity, and where your interest sits relative to core versus flank development. That's a different process than a form letter, and it usually produces a different number."
+   ]
+  },
+  {
+   "heading": "Questions worth asking before you sign anything",
+   "paragraphs": [
+    "Ask the buyer how they arrived at the number specifically for your tract, not only for the general area. Ask whether the offer accounts for your actual decline curve or a generic assumption. And check the deed language carefully; some offers are structured to acquire more than you intend to sell, such as all depths rather than just the currently producing formation, or a term longer than expected.",
+    "We're glad to review a deed or purchase agreement you've already received and flag anything worth asking the other buyer about, even if you end up selling to them and not to us."
+   ]
+  },
+  {
+   "heading": "No pressure, no deadline games",
+   "paragraphs": [
+    "Some unsolicited offers come with an artificial deadline, sign by a certain date or the offer expires, which is a pressure tactic more than a reflection of real market timing. Mineral value doesn't typically change meaningfully in a two-week window barring major news on your specific well. Take the time to get a second number before signing anything."
+   ]
+  },
+  {
+   "heading": "Why offers on the same street can differ",
+   "paragraphs": [
+    "It's not unusual for two neighbors receiving mailbox offers to see different numbers, even on tracts that look similar from the road, because their underlying interests often aren't actually alike: different decimal fractions, different well vintages within the same spacing unit, or one interest tied to a bench that's further into decline than the other. A lower offer to one neighbor doesn't necessarily mean the buyer is treating that owner unfairly.",
+    "That's exactly why we recommend building your own comparison from your specific check history rather than comparing notes with a neighbor and assuming the numbers should match. We're happy to walk through the differences with you if you want to understand why two interests priced differently."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is it normal to get an unsolicited offer for mineral rights?",
+   "answer": "Yes, particularly if you own minerals in an active area like Weld County. Multiple buyers send letters based on county ownership records without necessarily reviewing your specific production history first."
+  },
+  {
+   "question": "How do I know if the offer I received is fair?",
+   "answer": "Send us your check stubs or lease documents and we'll run our own independent valuation based on your actual decline curve or offset activity, so you have a real comparison rather than guessing."
+  },
+  {
+   "question": "The offer has a deadline to sign. Should I feel pressured?",
+   "answer": "Generally no. Mineral value doesn't shift meaningfully in a two-week window absent major news specific to your well. A deadline is usually a pressure tactic, not a reflection of real timing."
+  },
+  {
+   "question": "Is it worth getting a second opinion even if the first offer seems reasonable?",
+   "answer": "Usually yes, since it costs you nothing to compare. Even a fair-seeming offer can leave value on the table if it wasn't built from your specific check history, and a second number confirms whether that's the case."
+  },
+  {
+   "question": "The deed they sent me looks complicated. What should I look for?",
+   "answer": "Check what depths and formations are actually being conveyed, not only the producing zone, and confirm the term matches what you expect. We can review a deed you've already received and flag anything worth questioning."
+  },
+  {
+   "question": "If your number is higher, will you match or beat the letter I already have?",
+   "answer": "We'll give you our honest independent number based on your actual production and offset activity. If it's higher, that's simply what our underwriting supports, not a bidding tactic against the other offer."
+  }
+ ],
+ "status": "written",
+ "wordCount": 872,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightscolorado-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

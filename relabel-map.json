@@ -1,0 +1,581 @@
+{
+  "notes": "Faithful Swisslog relabel for the Colorado tract economics brief. The donor's real dual-level navigation, full-width industrial hero, expertise accordion cadence, horizontal cover-story rail, split editorial panel, utility tiles, Nexa typography, index cards, page-intro geometry, native contact form, and red footer remain the visual system.",
+  "refhost": "swisslog-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "preserve_slick": [
+    ".mod-coverslider__slider"
+  ],
+  "chrome": {
+    "header": {
+      "selector": "header.o-header",
+      "tag": "header",
+      "force_tag": true,
+      "wrap_header": false,
+      "strip_global": [
+        "body > iframe",
+        "body > noscript",
+        "[class*=cookie]",
+        "[id*=cookie]",
+        "[class*=consent]",
+        ".embeddedServiceHelpButton",
+        ".grecaptcha-badge"
+      ],
+      "strip": [
+        ".mod-nav.m-flyout",
+        ".mod-language-switch",
+        ".mod-languageswitch",
+        ".mod-search",
+        ".mod-anchorbar"
+      ],
+      "logo_slot": ".o-header__wrapper .mod-logo",
+      "nav_link_selector": ".o-header__wrapper .mod-navdesktop > a",
+      "html_map": {
+        ".o-header__wrapper .mod-nav-meta": "<div class=\"rr-header-actions\"><a class=\"rr-header-phone\" href=\"tel:+13035551035\">303-555-1035</a><a class=\"rr-header-cta\" href=\"/contact#contact-form\">Request a Colorado Review</a><button class=\"rr-burger\" type=\"button\" aria-label=\"Menu\"><span></span><span></span><span></span></button></div>"
+      },
+      "mobile_menu_slot": ".a-site-overlay.js-site-overlay",
+      "burger_selector": ".rr-burger",
+      "burger_slot": ".o-header__wrapper",
+      "ensure_nav": true,
+      "repair_css": "header.o-header{position:relative!important;z-index:10000!important;display:block!important;min-height:82px!important;background:#fff!important;color:#17171b!important;overflow:visible!important}header.o-header .o-header__wrapper{position:relative!important;display:flex!important;align-items:center!important;box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;min-height:82px!important;margin:0 auto!important;padding:0!important;gap:clamp(18px,2.2vw,40px)!important;overflow:visible!important}header.o-header .mod-logo{display:flex!important;align-items:center!important;flex:0 0 215px!important;min-width:0!important;color:#e30613!important;text-decoration:none!important}header.o-header .rr-wordmark{display:flex!important;flex-direction:column!important;color:inherit!important;line-height:1!important;text-decoration:none!important}header.o-header .rr-wm-1{font-size:15px!important;font-weight:700!important;letter-spacing:.015em!important}header.o-header .rr-wm-2{margin-top:4px!important;font-size:11px!important;font-weight:700!important;letter-spacing:.2em!important}header.o-header .mod-navdesktop{display:flex!important;align-items:stretch!important;flex:1 1 auto!important;min-width:0!important;gap:clamp(15px,1.65vw,28px)!important}header.o-header .mod-navdesktop>a{display:flex!important;align-items:center!important;min-width:0!important;min-height:82px!important;color:#17171b!important;font-size:clamp(12px,.88vw,15px)!important;font-weight:700!important;line-height:1.2!important;text-decoration:none!important;white-space:nowrap!important}header.o-header .mod-nav-meta{display:block!important;flex:0 0 auto!important}header.o-header .rr-header-actions{display:flex!important;align-items:center!important;gap:10px!important}header.o-header .rr-header-phone{display:inline-flex!important;align-items:center!important;min-height:44px!important;padding:0 6px!important;color:#17171b!important;font-size:14px!important;font-weight:700!important;text-decoration:none!important;white-space:nowrap!important}header.o-header .rr-header-cta{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:46px!important;padding:0 18px!important;background:#e30613!important;color:#fff!important;font-size:13px!important;font-weight:700!important;text-decoration:none!important;white-space:nowrap!important}header.o-header .rr-burger{position:relative!important;display:none!important;flex:0 0 44px!important;width:44px!important;height:44px!important;border:0!important;background:#e30613!important}header.o-header .o-header__wrapper__atob{left:215px!important;right:0!important;width:auto!important}body:has(.mod-videostage) header.o-header{position:absolute!important;top:0!important;left:0!important;width:100%!important;background:linear-gradient(180deg,rgba(0,0,0,.72),transparent)!important;color:#fff!important}body:has(.mod-videostage) header.o-header .mod-logo,body:has(.mod-videostage) header.o-header .mod-navdesktop>a,body:has(.mod-videostage) header.o-header .rr-header-phone{color:#fff!important}@media(max-width:1180px){header.o-header .mod-navdesktop>a:nth-child(4),header.o-header .mod-navdesktop>a:nth-child(5){display:none!important}header.o-header .mod-logo{flex-basis:195px!important}header.o-header .rr-header-cta{padding:0 12px!important;font-size:12px!important}}@media(max-width:900px){header.o-header,body:has(.mod-videostage) header.o-header{position:relative!important;background:#fff!important;color:#17171b!important}header.o-header .o-header__wrapper{width:calc(100% - 28px)!important;min-height:72px!important}header.o-header .mod-logo,body:has(.mod-videostage) header.o-header .mod-logo{color:#e30613!important}header.o-header .mod-navdesktop,header.o-header .rr-header-phone,header.o-header .rr-header-cta,header.o-header .o-header__wrapper__atob{display:none!important}header.o-header .mod-nav-meta{margin-left:auto!important}header.o-header .rr-burger{display:block!important}}"
+    },
+    "footer": {
+      "selector": ".mod-footer.skin-footer-swisslog",
+      "tag": "footer",
+      "strip": [
+        ".mod-footer__container:first-child",
+        ".mod-footer__separator",
+        ".mod-footer__logo",
+        ".mod-footer__app-store-badges",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "iframe",
+        "script",
+        "noscript"
+      ],
+      "columns": [
+        {
+          "heading": "Selling in Colorado",
+          "links": [
+            ["Selling Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Colorado Basins", "/basins"]
+          ]
+        },
+        {
+          "heading": "Owner Research",
+          "links": [
+            ["Owner Resources", "/resources"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange Guides", "/exchange-1031"]
+          ]
+        },
+        {
+          "heading": "Colorado Areas",
+          "links": [
+            ["All Colorado Areas", "/locations"],
+            ["Greeley", "/locations/greeley-co"],
+            ["Weld County", "/locations/weld-county"],
+            ["Garfield County", "/locations/garfield-county"]
+          ]
+        },
+        {
+          "heading": "The Tract Brief",
+          "links": [
+            ["About", "/about"],
+            ["How to Sell", "/resources/how-to-sell-mineral-rights"],
+            ["Request a Review", "/contact#contact-form"],
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"]
+          ]
+        }
+      ],
+      "column_selector": ".mod-footer__links__col",
+      "replace_column_siblings": true,
+      "column_heading_selector": ".col__headline",
+      "drop_link_pattern": "Facebook|YouTube|LinkedIn|Instagram|Twitter|Xing|App Store|Google Play|Sitemap|Imprint|Cookie",
+      "tagline_pattern": "Swisslog|All rights reserved|Copyright",
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "inserts": [
+        {
+          "selector": ".mod-footer__subfooter",
+          "position": "prepend",
+          "html": "<a class=\"rr-wordmark\" href=\"/\"><span class=\"rr-wm-1\">SELL MINERAL RIGHTS</span><span class=\"rr-wm-2\">COLORADO</span></a>"
+        }
+      ],
+      "repair_css": "footer.skin-footer-swisslog{display:block!important;position:relative!important;overflow:hidden!important;background:#e30613!important;color:#fff!important}footer.skin-footer-swisslog .mod-footer__links{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:clamp(24px,4vw,64px)!important;box-sizing:border-box!important;width:min(1320px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(52px,7vw,96px) 0!important}footer.skin-footer-swisslog .mod-footer__links__col{display:block!important;min-width:0!important}footer.skin-footer-swisslog .col__headline{display:block!important;margin:0 0 18px!important;color:#fff!important;font-size:15px!important;font-weight:700!important}footer.skin-footer-swisslog .col__list{display:flex!important;flex-direction:column!important;gap:11px!important;margin:0!important;padding:0!important;list-style:none!important}footer.skin-footer-swisslog a{color:#fff!important;text-decoration:none!important}footer.skin-footer-swisslog .mod-footer__subfooter{display:flex!important;align-items:center!important;justify-content:space-between!important;box-sizing:border-box!important;width:min(1320px,calc(100% - 48px))!important;margin:0 auto!important;padding:24px 0 38px!important;border-top:1px solid rgba(255,255,255,.4)!important}footer.skin-footer-swisslog .rr-wordmark{display:flex!important;flex-direction:column!important;color:#fff!important;line-height:1!important}footer.skin-footer-swisslog .rr-wm-1{font-size:17px!important;font-weight:700!important}footer.skin-footer-swisslog .rr-wm-2{margin-top:5px!important;font-size:11px!important;font-weight:700!important;letter-spacing:.22em!important}footer.skin-footer-swisslog .rr-footer-map{grid-column:1/-1!important;width:min(1320px,calc(100% - 48px))!important;margin:0 auto 40px!important;border-top:1px solid rgba(255,255,255,.4)!important;padding-top:32px!important}footer.skin-footer-swisslog .rr-footer-map iframe{display:block!important;width:100%!important;height:320px!important;border:0!important}@media(max-width:850px){footer.skin-footer-swisslog .mod-footer__links{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:520px){footer.skin-footer-swisslog .mod-footer__links{grid-template-columns:1fr!important;width:calc(100% - 32px)!important}footer.skin-footer-swisslog .mod-footer__subfooter{display:block!important;width:calc(100% - 32px)!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "\\bSwisslog\\b",
+      "swisslog\\.com",
+      "\\bKUKA\\b",
+      "SynQ"
+    ],
+    "content": [
+      "warehouse automation",
+      "intralogistics",
+      "automated storage",
+      "automated transport",
+      "picking and palletizing",
+      "food & beverage",
+      "grocery logistics",
+      "fashion & apparel",
+      "general merchandise",
+      "BJ.s Wholesale",
+      "Cardinal Health",
+      "Stemilt Growers",
+      "Master Electronics",
+      "Trinchero",
+      "Medline",
+      "Federal Bureau of Investigation",
+      "H-E-B",
+      "Coop Norway",
+      "The GIANT Company",
+      "AutoStore",
+      "PowerStore",
+      "Vectura",
+      "Dortmund",
+      "Buchs",
+      "Aarau",
+      "Sprecher",
+      "Munck Automation",
+      "FORTE",
+      "Customer success stories",
+      "Careers at"
+    ],
+    "strip_selectors": [
+      "[class*=cookie]",
+      "[id*=cookie]",
+      "[class*=consent]",
+      ".mod-popup",
+      ".embeddedServiceHelpButton",
+      ".grecaptcha-badge"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "clientTimestamp",
+      "Sitecore",
+      "Salesforce",
+      "recaptcha"
+    ],
+    "social_pattern": "linkedin\\.com/company/swisslog|facebook\\.com/swisslog|youtube\\.com/swisslog|instagram\\.com/swisslog"
+  },
+  "buttons": {
+    "class": "a-btn a-btn--primary a-btn--color-primary"
+  },
+  "forms": {
+    "form_class": "js-validate m-form mod mod-form",
+    "input_class": "a-input__field a-input__field--animated",
+    "group_class": "col-12 col-md-6 form-field form-field--textfield"
+  },
+  "pages": {
+    "home": {
+      "signature": [
+        ".mod-videostage",
+        ".mod-focusaccordion",
+        ".mod-coverslider"
+      ],
+      "semantic_title_selector": ".mod-videostage h1",
+      "strip": [
+        ".mod-interactive-illustration",
+        ".mod-popup"
+      ],
+      "sections": [
+        {
+          "selector": ".mod-videostage",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": "h1.box__left__headline",
+              "copy": "home_title"
+            },
+            {
+              "sel": ".box__right",
+              "text": "A direct Colorado mineral review built around the tract schedule, paid decimal, production ledger, decline evidence, lease burdens, basin context, written offer scope, and closing schedule."
+            },
+            {
+              "sel": ".box__left__btns button",
+              "tag": "a",
+              "text": "Request a Colorado Review",
+              "attr": {
+                "href": "/contact#contact-form"
+              }
+            }
+          ]
+        },
+        {
+          "selector": ".mod-focusaccordion",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 4,
+          "heading": "h2",
+          "subheading": ".__none__",
+          "card": ".o-accordion__item",
+          "kill_in_card": [
+            ".content__media"
+          ],
+          "card_fields": {
+            "title": ".o-accordion__item__headline",
+            "title_tag": "a",
+            "sub": ".content__text p",
+            "more": ".content__href",
+            "summary_chars": 205
+          },
+          "extra_images": ".mod-focusaccordion__media > img",
+          "view_all": [
+            "View All Selling Situations",
+            "/situations"
+          ],
+          "view_all_selector": ".mod-focusaccordion__content__allLink a"
+        },
+        {
+          "selector": ".mod-coverslider",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 7,
+          "heading": "h2",
+          "card": ".mod-coverslider__slider__item",
+          "card_fields": {
+            "title": "h3",
+            "sub": ".item__content__text",
+            "more": ".item__content__link",
+            "image": "img",
+            "summary_chars": 190
+          }
+        },
+        {
+          "selector": ".mod-splitcards",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": "h2",
+              "nth": 0,
+              "text": "Name the Interest Before Comparing Price"
+            },
+            {
+              "sel": "h2",
+              "nth": 1,
+              "text": "Colorado Coverage From the Tract Out"
+            },
+            {
+              "sel": "img",
+              "nth": 0,
+              "img": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightscolorado-com.jpg",
+              "alt": "Colorado mineral interest records"
+            },
+            {
+              "sel": "img",
+              "nth": 1,
+              "img": "/ours/basins/mineral-rights-basins-dj-basin-sellmineralrightscolorado-com.jpg",
+              "alt": "Colorado basin and mineral landscape"
+            },
+            {
+              "sel": ".mod-splitcards__content__links a",
+              "nth": 0,
+              "href": "/interest-types"
+            },
+            {
+              "sel": ".mod-splitcards__content__links a span:first-child",
+              "nth": 0,
+              "text": "Compare Interest Types"
+            },
+            {
+              "sel": ".mod-splitcards__content__links a",
+              "nth": 1,
+              "href": "/locations"
+            },
+            {
+              "sel": ".mod-splitcards__content__links a span:first-child",
+              "nth": 1,
+              "text": "Explore Colorado Areas"
+            }
+          ]
+        },
+        {
+          "selector": ".mod-linktiles",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": "h2",
+              "text": "Continue Through the Colorado Evidence Lines"
+            },
+            {
+              "sel": "h3",
+              "nth": 0,
+              "text": "Colorado Basin Context"
+            },
+            {
+              "sel": ".content__text p",
+              "nth": 0,
+              "text": "Connect the tract to the DJ, Niobrara, Piceance, or San Juan record without substituting basin proximity for property evidence."
+            },
+            {
+              "sel": ".mod-linktiles__item__link",
+              "nth": 0,
+              "href": "/basins",
+              "attr": {
+                "target": null
+              }
+            },
+            {
+              "sel": "h3",
+              "nth": 1,
+              "text": "Mineral Investing Briefs"
+            },
+            {
+              "sel": ".content__text p",
+              "nth": 1,
+              "text": "Separate production income, decline, undeveloped inventory, title risk, and concentration before relying on an investment thesis."
+            },
+            {
+              "sel": ".mod-linktiles__item__link",
+              "nth": 1,
+              "href": "/investing",
+              "attr": {
+                "target": null
+              }
+            },
+            {
+              "sel": "h3",
+              "nth": 2,
+              "text": "1031 Exchange Planning"
+            },
+            {
+              "sel": ".content__text p",
+              "nth": 2,
+              "text": "Put intermediary and independent tax guidance on the schedule before a mineral sale closes or proceeds are received."
+            },
+            {
+              "sel": ".mod-linktiles__item__link",
+              "nth": 2,
+              "href": "/exchange-1031",
+              "attr": {
+                "target": null
+              }
+            }
+          ]
+        },
+        {
+          "selector": ".mod-linktiles",
+          "action": "clone-band",
+          "clone_of": ".mod-linktiles",
+          "insert_after": ".mod-linktiles",
+          "copy": "about-contact",
+          "inner": "relabel",
+          "ops": [
+            {
+              "sel": "h2",
+              "text": "Put the Tract on the Colorado Review Schedule"
+            },
+            {
+              "sel": "h3",
+              "nth": 0,
+              "text": "About the Tract Brief"
+            },
+            {
+              "sel": ".content__text p",
+              "nth": 0,
+              "text": "See how ownership, production, inventory, offer scope, professional roles, and closing are kept on visible evidence lines."
+            },
+            {
+              "sel": ".mod-linktiles__item__link",
+              "nth": 0,
+              "href": "/about",
+              "attr": {
+                "target": null
+              }
+            },
+            {
+              "sel": "h3",
+              "nth": 1,
+              "text": "Request a Colorado Review"
+            },
+            {
+              "sel": ".content__text p",
+              "nth": 1,
+              "text": "Share the county, interest type, producing status, available statements, and the decision that needs a clearer answer."
+            },
+            {
+              "sel": ".mod-linktiles__item__link",
+              "nth": 1,
+              "href": "/contact#contact-form",
+              "attr": {
+                "target": null
+              }
+            },
+            {
+              "sel": "h3",
+              "nth": 2,
+              "text": "Call the Colorado Desk"
+            },
+            {
+              "sel": ".content__text p",
+              "nth": 2,
+              "text": "Discuss the tract schedule, paid decimal, recent royalty evidence, title question, written offer, or closing sequence."
+            },
+            {
+              "sel": ".mod-linktiles__item__link",
+              "nth": 2,
+              "href": "tel:+13035551035",
+              "attr": {
+                "target": null
+              }
+            }
+          ]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": ".mod-coverslider__slider",
+          "type": "slick",
+          "visible": 1,
+          "autoplay": 9000
+        }
+      ],
+      "repair_css": ".mod-videostage{min-height:760px!important}.mod-videostage__previewVideo,.mod-videostage__previewVideo>img{display:block!important;width:100%!important;height:100%!important;min-height:760px!important;object-fit:cover!important}.mod-videostage__previewVideo__dimmer{z-index:1!important}.mod-videostage__content{z-index:2!important}.mod-focusaccordion .o-accordion__item__headline{display:block!important;width:100%!important;text-align:left!important;text-decoration:none!important}.mod-focusaccordion .o-accordion__item__content{height:auto!important;max-height:none!important;visibility:visible!important;opacity:1!important}.mod-focusaccordion .content__href{display:inline-flex!important}.mod-focusaccordion__media>img{display:none!important;width:100%!important;height:100%!important;object-fit:cover!important}.mod-focusaccordion__media>img:first-child{display:block!important}.mod-coverslider__slider{position:relative!important;overflow:visible!important}.mod-coverslider__slider .rr-carousel-controls{position:absolute!important;right:0!important;top:-74px!important;z-index:5!important;display:flex!important;gap:8px!important}.mod-coverslider__slider .rr-carousel-control{border:1px solid #fff!important;background:transparent!important}.mod-coverslider__slider .rr-carousel-control:before{border-color:#fff!important}.mod-splitcards__content__links .icon-arrow-right-32{font-size:0!important}.mod-linktiles__item__icon{display:none!important}.mod-linktiles__item__link{font-size:0!important}@media(max-width:900px){.mod-videostage,.mod-videostage__previewVideo,.mod-videostage__previewVideo>img{min-height:630px!important}.mod-focusaccordion__media{min-height:420px!important}}"
+    },
+    "index": {
+      "signature": [
+        ".mod-page-intro",
+        ".mod-teaser"
+      ],
+      "strip": [
+        ".mod-popup",
+        "article.mod-text"
+      ],
+      "strip_after_first": [
+        "article.mod-teaser"
+      ],
+      "hero_heading": ".mod-page-intro__headline",
+      "hero_image": ".mod-page-intro__media img",
+      "intro": {
+        "selector": "div.mod.mod-text",
+        "heading": "h2"
+      },
+      "grid": "article.mod-teaser > .row",
+      "card": ":scope > .col-sm-6.col-md-4",
+      "clear_selector": ":scope > div",
+      "card_fields": {
+        "title": "h4",
+        "sub": ".content__text",
+        "image": "img",
+        "_link_card": true,
+        "summary_chars": 205
+      },
+      "semantic_title_selector": ".mod-page-intro__headline",
+      "repair_css": "article.mod-teaser>.row{align-items:stretch!important}article.mod-teaser>.row>.col-sm-6{display:flex!important}article.mod-teaser .mod-teaser__box{display:flex!important;flex-direction:column!important;width:100%!important;height:100%!important}article.mod-teaser .mod-teaser__box__content{flex:1!important}.mod-page-intro__media img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}"
+    },
+    "slug": {
+      "signature": [
+        ".mod-page-intro",
+        "article.mod-text"
+      ],
+      "title": ".mod-page-intro__headline",
+      "hero_image": ".mod-page-intro__media img",
+      "hero_meta": ".mod-page-intro > div:last-child .intro",
+      "prose": "article.mod-text .col-md-10.col-lg-8",
+      "strip": [
+        ".mod-popup",
+        ".mod-breadcrumb",
+        ".mod-fab",
+        "section.mod-text-image",
+        ".mod-linklist",
+        ".mod-iconfeatures",
+        ".mod-gallery",
+        "article.mod-teaser"
+      ],
+      "strip_after_first": [
+        "article.mod-text"
+      ],
+      "skip_related_in_prose": true,
+      "skip_detail_cta_in_prose": true,
+      "semantic_title_selector": ".mod-page-intro__headline",
+      "repair_css": "article.mod-text .col-md-10.col-lg-8{display:block!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin:0 auto!important;padding:0!important;color:#24262a!important}article.mod-text [data-rr-prose=detail]{color:#24262a!important}article.mod-text [data-rr-prose=detail] h2,article.mod-text [data-rr-prose=detail] h3,article.mod-text [data-rr-prose=detail] p,article.mod-text [data-rr-prose=detail] li{color:#24262a!important;opacity:1!important;visibility:visible!important;writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}.mod-page-intro__media img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}"
+    },
+    "about": {
+      "signature": [
+        ".mod-page-intro",
+        ".mod-text-image"
+      ],
+      "strip": [
+        ".mod-popup",
+        ".mod-video",
+        ".mod-iconfeatures",
+        "article.mod-text",
+        "article.mod-teaser"
+      ],
+      "title": ".mod-page-intro__headline",
+      "hero_image": ".mod-page-intro__media img",
+      "intro": ".mod-page-intro > div:last-child .intro",
+      "intro_copy": "about_story_body",
+      "block_template": "section.mod-text-image",
+      "block_host": "main .col-sm-12",
+      "block_remove_selector": "section.mod-text-image",
+      "block_heading": ".mod-text-image__text__headline h2",
+      "block_body": ".mod-text-image__text > p",
+      "block_image": ".mod-text-image__image img",
+      "block_image_tax": "situations",
+      "block_strip": [
+        ".mod-text-image__image__caption",
+        ".mod-text-image__text > p a"
+      ],
+      "repair_css": "section.mod-text-image{display:block!important}section.mod-text-image>.row{align-items:center!important}section.mod-text-image:nth-of-type(even) .mod-text-image__image{order:2!important}section.mod-text-image .mod-text-image__image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}"
+    },
+    "contact": {
+      "signature": [
+        ".mod-page-intro",
+        "form.mod-form"
+      ],
+      "strip": [
+        ".mod-popup"
+      ],
+      "sections": [
+        {
+          "selector": ".mod-page-intro",
+          "action": "relabel",
+          "ops": [
+            {
+              "sel": ".mod-page-intro__headline",
+              "copy": "contact_title"
+            },
+            {
+              "sel": ".intro",
+              "copy": "contact_intro",
+              "optional": true
+            },
+            {
+              "sel": ".mod-page-intro__media img",
+              "img": "/ours/pages/mineral-rights-pages-contact-sellmineralrightscolorado-com.jpg",
+              "alt": "Colorado mineral review contact",
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "form_slot": "form.mod-form",
+      "reuse_form": true,
+      "field_row": ".row.h-equalize-height",
+      "field_proto": ".form-field--textfield",
+      "field_clear_selector": ".form-field:not(.form-field--submit),.m-form-error-placeholder,.js-honeypot,input[type=hidden]",
+      "submit_label": "Request a Colorado Review",
+      "semantic_title_selector": ".mod-page-intro__headline",
+      "repair_css": "form.mod-form{display:block!important;box-sizing:border-box!important;width:min(1100px,calc(100vw - 48px))!important;margin:clamp(48px,7vw,96px) auto!important;padding:clamp(28px,5vw,64px)!important;background:#ececeb!important}form.mod-form .row.h-equalize-height{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:20px!important}form.mod-form .form-field{display:block!important;width:auto!important;max-width:none!important;padding:0!important}form.mod-form .form-field:nth-last-child(2),form.mod-form .form-field--submit{grid-column:1/-1!important}form.mod-form textarea.a-input__field{min-height:180px!important}form.mod-form .form-field--submit button{display:inline-flex!important;min-height:52px!important;padding:0 24px!important;background:#e30613!important;color:#fff!important;border:0!important}@media(max-width:720px){form.mod-form .row.h-equalize-height{grid-template-columns:1fr!important}form.mod-form .form-field{grid-column:1!important}}"
+    }
+  },
+  "final_repair_css": "html,body{font-family:'Nexa for Swisslog',Arial,sans-serif!important}body{color:#24262a!important}main{overflow:visible!important}.rr-footer-ia{display:none!important}a[href='#'],a[href='']{pointer-events:none!important}.mod-page-intro__text,.mod-page-intro__text *{writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}.mod-page-intro__headline{white-space:normal!important;max-width:17ch!important}.rr-burger span{position:absolute!important;left:12px!important;width:20px!important;height:2px!important;background:currentColor!important}.rr-burger span:nth-child(1){top:14px!important}.rr-burger span:nth-child(2){top:21px!important}.rr-burger span:nth-child(3){top:28px!important}"
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Colorado | Get an Offer",
+ "metaDescription": "Sell mineral rights in Colorado with a straightforward, decimal-checked offer built from your production history, county activity, and current title.",
+ "heroLead": "We buy mineral and royalty interests across Colorado's producing counties, working from your actual production history and title, not a generic per-acre guess.",
+ "intro": [
+  "Colorado mineral ownership carries a specific set of complications that owners elsewhere don't deal with as often: split-estate tracts where the surface and minerals were severed generations ago, evolving setback rules that shape where new wells can practically be sited, and title chains that run through several inherited transfers before landing with the current owner. We work through all of that as part of every evaluation, rather than treating your interest as a generic input into a spreadsheet.",
+  "Whether your minerals are currently producing in the DJ Basin, sitting undeveloped in a county with active nearby permitting, or somewhere in between, we can give you a working estimate based on your specific documents and current activity, and walk you through exactly how we got there."
+ ],
+ "sections": [
+  {
+   "heading": "How we evaluate a Colorado interest",
+   "paragraphs": [
+    "For producing interests, we start with recent royalty statements or division orders, which show your paid decimal and the well's actual production trend, oil and gas volumes month over month, not only the check totals. That trend tells us roughly where the well sits on its decline curve, which is one of the largest drivers of value for a producing interest.",
+    "For undeveloped or non-producing minerals, there's no cash flow to project yet, so the evaluation leans on nearby permitting activity filed with the Colorado Energy and Carbon Management Commission, which operators are active in your county, and how current setback rules affect where a well could practically be sited near your tract. Split-estate status factors in here too, since development on your minerals depends partly on a surface-use agreement being negotiated separately with whoever owns the surface."
+   ]
+  },
+  {
+   "heading": "What sets the DJ Basin and other Colorado plays apart",
+   "paragraphs": [
+    "Weld County and the surrounding DJ Basin counties see the bulk of Colorado's active horizontal drilling, with operators like Civitas and Chevron running consistent development programs in core areas. Acreage inside an operator's active development plan is valued differently than flank acreage further from current drilling, and that distinction matters more than a simple county-wide average would suggest.",
+    "Outside the DJ Basin, counties like Garfield, Rio Blanco, and La Plata carry their own histories, mostly Piceance Basin gas and San Juan Basin coalbed methane, with different decline behavior and different operator activity than the Front Range plays. We evaluate each interest against what's actually happening in its specific county and formation, not a statewide blend."
+   ]
+  },
+  {
+   "heading": "Title and split-estate realities",
+   "paragraphs": [
+    "A large share of Colorado mineral interests trace through inheritance, sometimes across several generations, and the chain of title doesn't always keep up with who actually owns what. We work through title questions as a normal part of the process rather than treating a gap as disqualifying, since curative steps like a corrective deed or an affidavit of heirship are routine in this business.",
+    "If you own minerals without the surface, which is common along the Front Range where land was subdivided for residential or agricultural use decades after minerals were severed, that's factored honestly into how we evaluate the interest, since it directly affects how confidently a well could be developed on your specific tract."
+   ]
+  },
+  {
+   "heading": "Getting started",
+   "paragraphs": [
+    "Send whatever you have, a deed, a division order, a recent royalty statement, or just the county and a rough sense of what you own, and we'll tell you what else would help sharpen the picture. There's no cost to a first look, and no obligation to move forward after you see it.",
+    "If title questions come up along the way, and for interests that passed through several generations of a family they often do, we'll explain what's involved in resolving them rather than treating a gap in the paperwork as a dead end."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you buy both producing and undeveloped mineral rights in Colorado?",
+   "answer": "Yes. Producing interests are valued off actual royalty history, and undeveloped acreage is valued off nearby permitting and drilling activity in your specific county."
+  },
+  {
+   "question": "What documents do I need to get started?",
+   "answer": "A deed or any prior title documents, and if the interest is producing, recent royalty statements or division orders. If you don't have everything, we can help identify what's still needed."
+  },
+  {
+   "question": "How does Colorado's split-estate situation affect an offer?",
+   "answer": "If you own minerals without the surface, development depends partly on a surface-use agreement with the surface owner, which is factored into how the interest is evaluated."
+  },
+  {
+   "question": "Is there any obligation to sell after I get an evaluation?",
+   "answer": "No. Getting an estimate doesn't commit you to anything, and you're welcome to take time to review it or get a second opinion before deciding."
+  },
+  {
+   "question": "How long does the process usually take from offer to closing?",
+   "answer": "A straightforward transaction with clean title can close in a few weeks. Interests that need title curative work take longer while that gets resolved."
+  },
+  {
+   "question": "What if I only have a rough idea of what my interest is?",
+   "answer": "That's a fine starting point. Tell us the county and what you know about how the interest came to you, and we can help work backward from there through county records."
+  }
+ ],
+ "wordCount": 886,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightscolorado-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

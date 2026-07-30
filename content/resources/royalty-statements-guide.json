@@ -1,0 +1,80 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read Colorado Royalty Statements",
+ "metaDescription": "A line-by-line guide to reading Colorado oil and gas royalty statements, from decimal interest to deductions, and what changes to watch for.",
+ "heroLead": "A royalty statement is a monthly readout of your interest's health, and most of the columns that matter get skipped past in favor of just checking the total.",
+ "intro": [
+  "Royalty statements arrive monthly or quarterly and, for most owners, get a quick glance at the payment total before being filed away. That's understandable, the layout varies by operator and the terminology isn't always intuitive, but the detail lines carry real information about your interest's decline, deductions, and whether your decimal is being applied correctly.",
+  "Learning to read one properly takes about ten minutes the first time and pays off every statement after. It also matters directly if you're ever weighing a sale, since these statements are exactly what a buyer's analyst uses to project future value."
+ ],
+ "sections": [
+  {
+   "heading": "Decimal interest and product volumes",
+   "paragraphs": [
+    "Near the top or in a header row, most statements list your decimal interest, sometimes called net revenue interest, for each well or unit. Confirm this matches your division order and your last statement. A decimal that changes without explanation, outside of a known event like a new well coming online in the unit, is worth a call to the operator's owner relations line.",
+    "Below that, volumes are typically broken out by product, oil in barrels, gas in mcf, and sometimes natural gas liquids separately. Watching these volumes month over month is the clearest window into decline, a smoother and more informative signal than the dollar total alone, since price swings can mask an underlying volume decline or make it look worse than it is."
+   ]
+  },
+  {
+   "heading": "Price and deductions",
+   "paragraphs": [
+    "The price per unit shown on your statement is often net of a deduction for gathering, transportation, processing, or compression, depending on your lease terms and Colorado's rules around post-production cost allocation. This is normal and doesn't necessarily mean anything is wrong, but it's worth understanding since it's why your realized price can differ from the headline commodity price you see quoted elsewhere.",
+    "If deductions suddenly increase as a share of gross value, or a new deduction line appears that wasn't there before, that's worth asking the operator about directly. It could reflect a legitimate change in gathering arrangements, or it could be worth double-checking against your lease language."
+   ]
+  },
+  {
+   "heading": "Adjustments and prior-period corrections",
+   "paragraphs": [
+    "Statements occasionally include adjustment lines correcting a prior period, sometimes because of a late-reported volume, a price correction, or a decimal recalculation. These can be confusing because they show up as a lump sum unrelated to the current month's production, but they're usually explained in a code or footnote on the statement.",
+    "If an adjustment is unusually large or unexplained, it's reasonable to call and ask for the detail behind it. Operators' owner relations departments field these calls regularly and can usually walk through exactly what drove the correction."
+   ]
+  },
+  {
+   "heading": "Using statements to track decline and value",
+   "paragraphs": [
+    "Lining up six to twelve months of statements side by side shows you the shape of your well's decline curve directly from your own data, rather than relying on a general description of how DJ Basin horizontal wells typically behave. A well still climbing or holding flat is in a different position than one clearly on its downward tail, and that difference matters for how the interest would be valued in a sale.",
+    "If you're gathering documents for any reason, whether a sale, a title question, or just your own records, keep statements organized by well or unit rather than by date received, since that's how a buyer's analyst or a title examiner will want to review them."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my check amount drop even though the well is still producing?",
+   "answer": "Usually a combination of normal production decline and commodity price movement. Compare the volume columns specifically, not only the dollar total, to see which is driving the change."
+  },
+  {
+   "question": "What are post-production deductions?",
+   "answer": "Costs for gathering, processing, transportation, or compression that many leases allow the operator to deduct before calculating your royalty. Whether and how much applies depends on your specific lease language."
+  },
+  {
+   "question": "Should I worry about an adjustment line I don't understand?",
+   "answer": "Not automatically, but it's reasonable to call the operator's owner relations department and ask for the detail behind it. Most adjustments have a straightforward explanation."
+  },
+  {
+   "question": "How often should I check my decimal interest against past statements?",
+   "answer": "Whenever a new well comes online in your unit or after any title change, and periodically otherwise just to catch clerical errors, since decimals can occasionally be entered incorrectly."
+  },
+  {
+   "question": "Do buyers actually look at my royalty statements?",
+   "answer": "Yes, they're one of the primary documents used to project future value, since they show real production and payment history rather than an estimate."
+  },
+  {
+   "question": "What's the difference between gross value and taxable value on a statement?",
+   "answer": "Gross value is usually the volume times the wellhead price before deductions. Taxable value reflects severance and ad valorem tax calculations, which vary by county, and can differ from what actually lands in your royalty payment."
+  },
+  {
+   "question": "Why do some months show no payment at all?",
+   "answer": "A well can be shut in for maintenance, curtailed due to pipeline constraints, or simply below the minimum threshold an operator pays out on. A single skipped month usually isn't cause for concern on its own."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightscolorado-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

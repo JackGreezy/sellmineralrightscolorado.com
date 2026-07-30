@@ -1,0 +1,80 @@
+{
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Mineral Rights in Colorado: Step by Step",
+ "metaDescription": "A practical walkthrough of selling Colorado mineral rights, from confirming ownership through title work to closing, and where owners typically get stuck.",
+ "heroLead": "Selling a mineral interest is less a negotiation and more a sequence of confirmations, each one narrowing the gap between a quote and a wire transfer.",
+ "intro": [
+  "Owners who have never sold minerals before often expect the process to resemble selling a house: list it, field offers, pick a buyer, close. The mechanics are simpler than that in some ways and more document-heavy in others. There's no showing, no staging, no open house. There is a title review, a decimal calculation, and a closing packet, and the pace of the deal is mostly set by how quickly those pieces come together.",
+  "In Colorado, the added variable is split-estate ownership and the state's evolving setback rules around oil and gas development. Both affect how a buyer prices an interest and how confident they are about future drilling, so understanding the sequence helps you read an offer correctly instead of just reacting to the number."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: confirm exactly what you own",
+   "paragraphs": [
+    "Before any conversation about value, pin down your interest type and fraction. Mineral rights, royalty interests, and non-participating royalty interests are priced differently, and confusing them leads to offers that seem inconsistent when they're actually reflecting different rights. Pull your deed, any division orders, and recent check stubs if the interest is producing.",
+    "If you inherited the interest and never received a formal mineral deed, start with the probate file or an affidavit of heirship. This step alone resolves a large share of the confusion owners bring to their first conversation with a buyer."
+   ]
+  },
+  {
+   "heading": "Step two: get the interest evaluated",
+   "paragraphs": [
+    "A buyer's acquisitions team looks at production history if the interest is producing, or offset activity and permitting if it's undeveloped, along with the operator's recent drilling pace in that spacing unit or county. In Colorado's DJ Basin, that means checking recent Colorado Energy and Carbon Management Commission permits and comparing your tract's position to where operators are actually running rigs, since core-of-play acreage and flank acreage are valued very differently.",
+    "For undeveloped or non-producing minerals, the evaluation leans more heavily on nearby permitting activity, lease terms in the area, and how setback distances under current Colorado rules affect what's practically drillable near your tract. This is where the split-estate question also comes in: if you don't control the surface, the offer reflects that you can't directly negotiate a surface-use agreement, only the mineral lease or sale itself."
+   ]
+  },
+  {
+   "heading": "Step three: title review and diligence",
+   "paragraphs": [
+    "Once you accept a preliminary number, the buyer's title team examines the courthouse record for your county to confirm the chain of title supports what you believe you own. This is where most delays happen, not because anything is wrong, but because older Colorado county records sometimes require patience to pull and interpret, especially for interests that passed through multiple generations.",
+    "If a defect turns up, a missing heir, an unrecorded conveyance, an old severance with unclear language, it doesn't automatically kill the deal. It usually means a short curative step, like a corrective affidavit, before closing can proceed. Ask early what a defect would mean for your timeline so you're not caught off guard."
+   ]
+  },
+  {
+   "heading": "Step four: closing",
+   "paragraphs": [
+    "Closing on a mineral sale typically involves a purchase and sale agreement, a mineral deed conveying your interest, and payment, often wired once the deed is recorded at the county clerk's office. Read the deed's legal description against your own documents before signing, since that language is what defines exactly what's being conveyed.",
+    "After closing, notify the operator of record if the interest is producing so future division orders and payments route correctly. This step gets missed occasionally and it's worth confirming rather than assuming the buyer's team will always handle it automatically."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does selling mineral rights in Colorado typically take?",
+   "answer": "A straightforward sale with clean title can close in a few weeks. Interests with title complications, common when ownership passed through several generations, take longer while the curative work gets done."
+  },
+  {
+   "question": "Do I need a lawyer to sell mineral rights?",
+   "answer": "It's not required, but many owners choose to have an attorney review the purchase agreement and deed, particularly for larger or more complex interests. That's a decision worth making with your own counsel."
+  },
+  {
+   "question": "Can I sell only part of my mineral interest?",
+   "answer": "Yes, partial sales are common, whether that means selling a fraction of your interest or limiting the sale to certain depths or formations while retaining the rest."
+  },
+  {
+   "question": "What happens if the interest isn't currently producing?",
+   "answer": "It can still be sold, priced instead off nearby permitting and drilling activity rather than existing royalty checks. These evaluations tend to carry more uncertainty and a wider range."
+  },
+  {
+   "question": "Does Colorado's split-estate setup complicate a sale?",
+   "answer": "It adds a layer, since you're conveying mineral rights without surface control, but it doesn't prevent a sale. It mainly affects how a buyer weighs the practicality of future development on your tract."
+  },
+  {
+   "question": "What's the most common reason a Colorado sale gets delayed?",
+   "answer": "Title, more often than pricing disagreements. Interests that passed through several generations without a clean probate record typically need a curative document before closing, and locating that documentation takes the most time."
+  },
+  {
+   "question": "Can I sell to more than one buyer if I get multiple offers?",
+   "answer": "You can shop the interest to more than one buyer before committing, though once you sign a purchase agreement with one, that's the binding commitment moving forward."
+  }
+ ],
+ "wordCount": 924,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellmineralrightscolorado-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

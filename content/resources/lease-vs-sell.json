@@ -1,0 +1,72 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Mineral Rights in Colorado: How to Decide",
+ "metaDescription": "How leasing income compares to a lump-sum sale for Colorado mineral owners, and the factors, from decline curves to setback rules, that tip the decision.",
+ "heroLead": "Leasing and selling solve different problems, and the right choice usually comes down to how much uncertainty you're willing to carry over the life of a well.",
+ "intro": [
+  "Owners weighing this decision often frame it as a single tradeoff, cash now versus cash over time, but that undersells what's actually different between the two paths. A lease keeps you exposed to production risk, commodity price swings, and operator decisions you don't control. A sale converts that exposure into a fixed number today. Neither is universally better, and the right answer depends heavily on your specific interest, your time horizon, and how the well or unit is performing.",
+  "In Colorado, this decision has an extra layer. Setback rules adopted in recent years affect how close new wells can be sited to occupied structures, and split-estate ownership means many mineral owners don't control the surface where a well pad might go. Both factors shape how confidently an operator can develop your acreage, which in turn shapes both your lease bonus potential and your sale value."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually gives you",
+   "paragraphs": [
+    "A lease grants an operator the right to explore and produce for a set term in exchange for a bonus payment up front and a royalty on future production, typically expressed as a fraction like one-eighth or one-fifth. If the well is drilled and produces well, the royalty stream can exceed what a lump-sum sale would have paid, especially in the early high-flow years of a new horizontal well.",
+    "The catch is that leasing keeps all the downside with you too. Production declines, sometimes sharply, in the first few years of a well's life. Commodity prices swing with the broader market. And in a split-estate situation, if you don't own the surface, you have limited ability to negotiate directly with the operator on things like pad location or access, since that's typically handled through a surface-use agreement with the surface owner."
+   ]
+  },
+  {
+   "heading": "What a sale actually gives you",
+   "paragraphs": [
+    "Selling converts your interest, whether it's already leased and producing or still undeveloped, into a single payment based on current activity, comparable transactions, and expected future decline. It removes you from the ongoing uncertainty entirely: no more tracking royalty statements, no more wondering whether the next check reflects a workover, a curtailment, or just normal decline.",
+    "The tradeoff is that you're giving up the upside too. If commodity prices rise or the operator drills additional wells in the unit later, that value goes to whoever owns the interest at that point, not to you. Pricing a sale means weighing today's certain number against a stream of uncertain future checks, discounted for the risk and time value involved."
+   ]
+  },
+  {
+   "heading": "How Colorado's rules affect the calculation",
+   "paragraphs": [
+    "Setback distances in Colorado have become stricter around occupied buildings and certain land uses, which in some areas has narrowed where new wells can practically be sited. If your acreage sits in a zone where setbacks limit future drilling, that's a real factor in how a buyer prices undeveloped minerals, since it affects the odds of a well ever going in at all.",
+    "Split-estate status matters here too. Owning minerals without the surface means development on your tract depends partly on the surface owner's willingness to negotiate access, which is one more variable a buyer has to price in when the interest is undeveloped or only lightly developed."
+   ]
+  },
+  {
+   "heading": "How to think through the decision",
+   "paragraphs": [
+    "Start with where the well or unit is in its production life. A well several years past its peak flow is producing at a more predictable, lower rate, which makes it easier to value and often makes selling more attractive since the big uncertainty of the early decline curve has already played out. A brand-new well still climbing or just past peak carries more upside but also more uncertainty.",
+    "Also weigh your own situation: whether you need liquidity now, how many other producing or non-producing interests you hold, and whether tracking royalty statements and division orders across multiple wells is worth the ongoing effort to you. There's no formula that replaces sitting down with your actual numbers."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease and then sell later?",
+   "answer": "Yes, this is common. Owners often lease first, wait to see how the well performs, and then decide whether to sell the resulting royalty interest once actual production history exists to price against."
+  },
+  {
+   "question": "Is a sale always for less than the lifetime value of leasing?",
+   "answer": "Not necessarily, it depends on how the well performs and how commodity prices move. A sale trades an uncertain future stream for a certain present number, and which one nets out higher isn't knowable in advance."
+  },
+  {
+   "question": "Does selling mean giving up mineral rights forever?",
+   "answer": "A full sale conveys the interest permanently via deed. Some owners instead consider a partial sale, retaining a portion of the interest while selling the rest."
+  },
+  {
+   "question": "How do setback rules affect an already-producing well?",
+   "answer": "Existing wells generally aren't affected by current setback rules, those apply to new permitting. Setbacks matter more for undeveloped acreage where future wells haven't been sited yet."
+  },
+  {
+   "question": "What if my interest isn't leased at all right now?",
+   "answer": "It can still be sold. Buyers price unleased, undeveloped minerals off nearby activity and permitting trends rather than existing royalty checks, and that valuation carries more uncertainty either way."
+  }
+ ],
+ "wordCount": 909,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightscolorado-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

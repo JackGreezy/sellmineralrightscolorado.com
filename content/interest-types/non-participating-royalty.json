@@ -1,0 +1,72 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling a Colorado NPRI (Non-Participating Royalty)",
+ "metaDescription": "Own a non-participating royalty interest in Colorado? We value NPRIs on their own terms, no leasing rights needed, and quote against real check history.",
+ "heroLead": "An NPRI means you collect a royalty but never sign a lease, and that structure changes both how the interest is valued and how a sale actually gets documented.",
+ "intro": [
+  "A non-participating royalty interest, usually shortened to NPRI, entitles the owner to a share of oil and gas production revenue without any right to negotiate, sign, or receive bonus payments from a lease. It's typically created when a mineral owner sells or reserves a royalty fraction while transferring the executive right, the authority to lease, to someone else. In Colorado, NPRIs commonly show up in estate divisions where one heir kept the leasing authority and others retained only a royalty share.",
+  "We buy NPRIs regularly and value them the same rigorous way we value any producing royalty: against actual check history and decline behavior, since an NPRI's economic value tracks production just like a standard royalty interest, even though the legal bundle of rights underneath it is narrower."
+ ],
+ "sections": [
+  {
+   "heading": "What an NPRI does and doesn't include",
+   "paragraphs": [
+    "As an NPRI owner, you receive your proportionate royalty share whenever the well produces, but you have no say in whether the tract gets leased, to whom, on what bonus terms, or for what term length. The person or entity holding the executive right controls those decisions on your behalf, which means your royalty stream is subject to lease terms you didn't negotiate and can't unilaterally change.",
+    "This matters at sale time because the buyer is acquiring exactly what you have: a royalty right without leasing authority. We confirm the NPRI's exact terms, including whether it's a fixed fraction or a floating percentage of whatever royalty the executive negotiates, since that distinction changes the underwriting."
+   ]
+  },
+  {
+   "heading": "Fixed versus floating NPRIs",
+   "paragraphs": [
+    "Some NPRIs specify a fixed decimal royalty interest, for example a defined fraction of production, regardless of what royalty rate the executive right holder negotiates in the lease. Others float, meaning the NPRI owner's share moves proportionally with whatever lease royalty rate gets negotiated. We read the granting instrument carefully to determine which structure applies to your interest, because it changes how sensitive your royalty is to lease terms you have no control over.",
+    "If your NPRI predates modern Colorado horizontal leasing, it's worth double-checking which type you hold, since older instruments sometimes use language that's ambiguous without a careful legal read."
+   ]
+  },
+  {
+   "heading": "Valuing and closing an NPRI sale",
+   "paragraphs": [
+    "We price a producing NPRI against 12 to 24 months of check history exactly as we would any royalty interest, building a decline curve and factoring in commodity exposure. For a non-producing NPRI, we assess it against offset activity in the county, since the same development-probability logic applies whether or not you hold executive rights.",
+    "Closing an NPRI sale requires a deed that specifically conveys the non-participating royalty interest rather than a full mineral or executive interest, and we make sure the conveyance language matches exactly what you own so there's no ambiguity for the operator's division order desk after closing."
+   ]
+  },
+  {
+   "heading": "How NPRIs commonly show up in Colorado families",
+   "paragraphs": [
+    "We see NPRIs most often in older estate divisions, where one heir received the mineral fee with executive rights and siblings received a defined royalty share without leasing authority, sometimes as a way to divide an asset fairly without splitting decision-making among several people. Over subsequent generations, that original NPRI can pass down to heirs who may not fully understand why their check comes with no say in leasing while a cousin's interest does.",
+    "If you're unsure whether your interest is a full mineral right or an NPRI, your recorded granting instrument will state it plainly, and we're glad to pull and review that document with you before any conversation about value."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have any say in leasing decisions with an NPRI?",
+   "answer": "No. The executive right holder controls leasing decisions, including bonus and lease terms. As an NPRI owner you receive your royalty share but don't participate in those negotiations."
+  },
+  {
+   "question": "How is my NPRI different from an owner who has both mineral rights and executive rights?",
+   "answer": "A full mineral owner can lease the tract themselves and negotiate bonus and terms. An NPRI owner has only the royalty right; someone else holds and exercises the leasing authority."
+  },
+  {
+   "question": "Is my NPRI a fixed fraction or does it float with the lease royalty rate?",
+   "answer": "It depends on how the interest was originally created. We read the granting instrument to determine whether your NPRI is a fixed decimal interest or floats with the negotiated lease royalty."
+  },
+  {
+   "question": "Can I sell my NPRI without the executive right holder's involvement?",
+   "answer": "Generally yes. An NPRI is its own severable interest and can typically be sold independently of the executive rights, though we'll confirm that against your specific granting instrument."
+  },
+  {
+   "question": "Does my NPRI expire if the current lease ends?",
+   "answer": "No, that's a key difference from an override. An NPRI is carved from the mineral estate itself, not from a single lease, so it survives lease expiration and applies to any future lease on the tract."
+  }
+ ],
+ "status": "written",
+ "wordCount": 857,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightscolorado-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

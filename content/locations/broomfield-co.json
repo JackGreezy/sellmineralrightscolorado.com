@@ -1,0 +1,62 @@
+{
+ "slug": "broomfield-co",
+ "title": "Sell Mineral Rights in Broomfield, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Broomfield",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights broomfield co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Broomfield, CO",
+ "metaDescription": "Broomfield's city limits sit at the center of Colorado's most-debated setback and drilling rules. See how that regulatory history shapes what your minerals are worth.",
+ "heroLead": "Within Broomfield's city limits, mineral ownership sits at the intersection of strong Wattenberg geology and some of the most closely watched local drilling rules anywhere in Colorado.",
+ "intro": [
+  "Broomfield residents fought hard over pad siting and setback distances in the years leading up to the state's 2019 regulatory overhaul, and the city has kept comparatively strict local rules since. For a mineral owner inside city limits, that history is directly relevant: it shapes where surface locations can be sited, how much monitoring accompanies any pad, and how long permitting typically takes compared to less-regulated counties nearby."
+ ],
+ "sections": [
+  {
+   "heading": "Existing units versus new development",
+   "paragraphs": [
+    "If your interest is already inside a producing unit, the local regulatory environment matters less day to day — the well is drilled, and royalty payments follow the production and decline curve regardless of new permitting rules. If your interest is undeveloped, the city's setback and monitoring requirements are a real factor in how likely and how soon new development might reach your tract."
+   ]
+  },
+  {
+   "heading": "Working through the city's clerk and recorder records",
+   "paragraphs": [
+    "Broomfield operates as a combined city-county government, which means one office handles both municipal and county-level deed and probate records. That's actually a convenience for title research compared to areas that span multiple counties — we can typically confirm your legal description and ownership chain from a single record set."
+   ]
+  },
+  {
+   "heading": "Forced pooling changes and fragmented subdivisions",
+   "paragraphs": [
+    "Colorado's 2023 update to its forced pooling law raised the bar for including non-consenting mineral owners in a unit without a negotiated lease, which matters in a place like Broomfield where a single unit can pull minerals from underneath dozens of separately owned residential lots. If you've never been contacted about leasing your interest even though you believe you're inside an active area, that can reflect the operator working through a slower consent process rather than any issue with your ownership."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does Broomfield's strict local drilling policy hurt my mineral value?",
+   "answer": "It generally slows the pace of new development rather than eliminating it. We factor that timeline into any offer for undeveloped acreage."
+  },
+  {
+   "question": "My interest is already producing — do local rules still matter?",
+   "answer": "Less so. An existing well's production and decline curve drive its value regardless of new permitting policy, since the well is already drilled."
+  },
+  {
+   "question": "Is Broomfield's combined city-county record system different to search?",
+   "answer": "It's actually simpler in most cases, since municipal and county records sit in one office rather than being split across jurisdictions."
+  },
+  {
+   "question": "Why haven't I been contacted about a lease if I'm inside city limits near active wells?",
+   "answer": "Recent changes to Colorado's forced pooling rules can slow how quickly operators bring every owner in a fragmented residential unit into a lease. We check current unit status directly rather than waiting for that outreach."
+  }
+ ],
+ "wordCount": 487,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-broomfield-co.jpg",
+  "alt": "Sell Mineral Rights in Broomfield, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

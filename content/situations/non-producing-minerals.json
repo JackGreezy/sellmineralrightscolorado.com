@@ -1,0 +1,77 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "metaTitle": "Selling Non-Producing Colorado Mineral Rights",
+ "metaDescription": "No wells, no lease, no royalty checks on your Colorado minerals? Non-producing acreage still has real value tied to activity nearby. We quote it honestly.",
+ "heroLead": "No wells, no lease, no checks. Non-producing doesn't mean worthless, but it does mean the value lives in what's happening around your tract, not on it.",
+ "intro": [
+  "Non-producing mineral acreage in Colorado, whether it's never been leased at all or the lease expired years ago without a well drilled, is the hardest interest for most owners to value on their own, because there's no royalty history to point to. Some owners assume no checks means no value; others assume any acreage in an active county like Weld must be worth a great deal. Neither assumption is reliable.",
+  "We value non-producing minerals by looking outward: what's the offset development pattern in your township and range, how recently has the operator active nearby permitted or drilled, and where does your tract sit relative to the direction development is actually moving. That analysis, not a guess, is what turns into a real number."
+ ],
+ "sections": [
+  {
+   "heading": "Offset activity is the whole story",
+   "paragraphs": [
+    "A non-producing tract surrounded by active drilling, say, adjacent to a recently completed multi-well pad in core Weld County, carries real near-term value because it's likely to be pooled into a spacing unit soon. The same acreage in a part of Morgan or Logan County with no nearby permits in years carries a very different, much more speculative value. We pull COGCC records for the surrounding sections before quoting, not only your specific tract.",
+    "We also check whether your minerals have ever been leased before. A tract with a documented lease history, even an expired one, tells us an operator once found it worth pursuing, which is a different signal than acreage that has sat unleased for decades."
+   ]
+  },
+  {
+   "heading": "Why leases lapse without drilling",
+   "paragraphs": [
+    "Operators lease far more acreage than they ultimately drill, often to hold optionality across a large block while they prioritize which sections to develop first based on well economics, infrastructure, and permitting timelines. A lapsed lease on your tract doesn't necessarily mean the operator lost interest in the area; it may simply mean your specific parcel wasn't next in line during that lease term.",
+    "Setback constraints near growing subdivisions in parts of Weld and Adams County have also caused some leases to lapse without drilling, as operators redirected capital to acreage with a cleaner permitting path. We factor that pattern into how we read a lapsed lease history."
+   ]
+  },
+  {
+   "heading": "What we look for before we quote",
+   "paragraphs": [
+    "Beyond offset activity, we confirm your title is clean and clearly traceable at the county clerk's office, check whether your tract sits within a formally established spacing unit even without a well drilled yet, and note which formation, DJ Basin oil or Piceance-style gas, is the likely target given your location. All of that shapes both the number and how quickly we can close.",
+    "For truly speculative acreage with no lease history and no nearby activity, we'll tell you honestly if a sale doesn't make sense right now, rather than quoting a number that doesn't reflect reality."
+   ]
+  },
+  {
+   "heading": "How location within the county shifts the answer",
+   "paragraphs": [
+    "Non-producing acreage in core Weld County near Greeley or Fort Lupton, where pad development has been dense for years, carries a meaningfully different outlook than the same acreage type further out toward the basin's flank in Morgan or Logan County, where operators have drilled far less. Distance from active pad development is often the single clearest signal we use when a tract has no production or lease history of its own to reference.",
+    "We also weigh whether your tract sits near land that's already been through setback-driven permitting delays, since that can mean development is possible but slower than in areas without that constraint."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are non-producing minerals actually worth anything?",
+   "answer": "Sometimes, and it depends almost entirely on nearby drilling and permitting activity. A tract next to recent development carries real near-term value; isolated acreage with no offset activity is much more speculative."
+  },
+  {
+   "question": "My lease expired without a well being drilled. Does that mean my tract is undesirable?",
+   "answer": "Not necessarily. Operators often lease broadly and prioritize which parcels to drill based on economics and permitting timing, so a lapsed lease doesn't always signal the area is unwanted."
+  },
+  {
+   "question": "Should I re-lease my minerals myself before considering a sale?",
+   "answer": "You can, but negotiating a new lease takes time and the terms depend on current operator interest in your specific area. Selling now gives you certainty today instead of waiting on a lease that may or may not materialize."
+  },
+  {
+   "question": "How do you value acreage with no production history at all?",
+   "answer": "We look outward: offset permit and drilling activity in your township and range, prior lease history on your tract, and which formation is the likely target given your location."
+  },
+  {
+   "question": "What if there's really nothing happening near my minerals?",
+   "answer": "We'll say so honestly. Truly isolated, inactive acreage may not be worth pursuing a sale on right now, and we'd rather tell you that than quote a number that doesn't hold up."
+  },
+  {
+   "question": "Can non-producing minerals be pooled into a unit even without my consent?",
+   "answer": "In many cases yes, Colorado's forced pooling framework can include unleased or non-consenting owners in a spacing unit under certain conditions. That possibility is part of why offset activity matters so much to how we value undeveloped acreage."
+  }
+ ],
+ "status": "written",
+ "wordCount": 894,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightscolorado-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling Mineral Rights in Colorado",
+ "metaDescription": "How a mineral rights sale is generally taxed in Colorado, the basis question owners get wrong most often, and why a CPA matters here.",
+ "heroLead": "The tax question on a mineral sale usually comes down to one number owners rarely know off the top of their head: their basis.",
+ "intro": [
+  "We are not tax advisors, and nothing here is tax advice, this is a general description of how a mineral rights sale is typically treated so you know what questions to bring to your own CPA or tax advisor before you sell. The specifics of your situation, how you acquired the interest, how long you've held it, and what state and federal rules apply to you, all affect the actual outcome.",
+  "The reason this matters more than owners expect is that the taxable gain on a sale isn't the full sale price, it's the sale price minus your basis, and basis is the number most owners have never calculated."
+ ],
+ "sections": [
+  {
+   "heading": "How gain is generally calculated",
+   "paragraphs": [
+    "In general terms, a sale of mineral rights is treated as a sale of a capital asset, and the taxable gain is the difference between what you receive and your basis in the interest, plus any selling costs. Depending on how long you've held the interest, the gain may be treated as long-term or short-term, which affects the applicable tax rate. Your CPA can confirm exactly how this applies to your situation.",
+    "The complication is that basis isn't always intuitive to determine, especially for inherited interests, where it's often based on the fair market value at the date of the prior owner's death rather than what that person originally paid, under what's commonly called a stepped-up basis. Purchased interests use a different starting point. This is exactly the kind of determination worth confirming with your tax advisor rather than estimating."
+   ]
+  },
+  {
+   "heading": "Depletion and prior deductions",
+   "paragraphs": [
+    "If you've owned a producing interest for some time, you may have claimed percentage or cost depletion deductions on prior tax returns, which can affect your basis calculation at the time of sale. Owners who've held a producing interest for years sometimes forget this history exists by the time they sell, which is another reason to loop in a CPA who can look at your actual filing history.",
+    "This is also why gathering your tax records alongside your title documents before a sale conversation is useful, not because a buyer needs your tax returns, but because you'll want that information on hand when you sit down with your own tax advisor to understand the actual outcome."
+   ]
+  },
+  {
+   "heading": "Colorado-specific considerations",
+   "paragraphs": [
+    "Colorado imposes its own state income tax on gains recognized by state residents, generally following federal treatment for calculating the gain itself, with the state's own rate applied. If you're a Colorado resident selling minerals located in Colorado, both federal and state tax obligations typically apply.",
+    "If your minerals are held through a trust, an LLC, or as part of an estate still in probate, the tax treatment can shift meaningfully depending on the structure. This is a case where the general description stops being useful and a conversation with your CPA or estate attorney becomes necessary before you commit to a sale."
+   ]
+  },
+  {
+   "heading": "Timing and structuring the sale",
+   "paragraphs": [
+    "Some owners spread a sale across multiple tax years, or coordinate the timing with other income or deductions, to manage the overall tax impact. Whether that's worthwhile depends entirely on your broader financial picture, and it's a conversation to have with your tax advisor before, not after, you agree to sale terms, since the structure of the deal itself can sometimes accommodate this kind of planning.",
+    "The most useful thing you can do before selling is have your basis question answered ahead of time rather than after the sale closes. It won't change what the buyer pays you, but it will change how much of that payment you actually keep, and that's worth knowing in advance."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is the entire sale price taxable?",
+   "answer": "Generally no, the taxable gain is the sale price minus your basis in the interest, not the full amount received. Your CPA can help determine your actual basis."
+  },
+  {
+   "question": "What is stepped-up basis and does it apply to me?",
+   "answer": "For many inherited interests, basis is set at the fair market value on the date of the prior owner's death rather than what they originally paid. Whether and how this applies to your specific interest is a question for your tax advisor."
+  },
+  {
+   "question": "Does Colorado tax mineral rights sales differently than federal law?",
+   "answer": "Colorado generally follows the federal calculation of gain and applies its own state income tax rate on top. Confirm the specifics with your CPA, since individual circumstances vary."
+  },
+  {
+   "question": "Do I owe taxes even if the sale is for a mineral interest I inherited decades ago?",
+   "answer": "Possibly, but often on a smaller gain than expected because of stepped-up basis. This is worth confirming with a CPA before assuming a large tax bill."
+  },
+  {
+   "question": "Should I talk to a CPA before or after accepting an offer?",
+   "answer": "Before, if possible. Understanding your basis and likely tax treatment ahead of time helps you evaluate whether the net proceeds from an offer actually meet your goals."
+  }
+ ],
+ "wordCount": 861,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightscolorado-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

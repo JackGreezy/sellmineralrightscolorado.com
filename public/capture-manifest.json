@@ -1,0 +1,32 @@
+{
+  "src": "https://www.swisslog.com/en-us",
+  "host": "swisslog.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.swisslog.com/en-us",
+      "bytes": 133950
+    },
+    {
+      "label": "about",
+      "url": "https://www.swisslog.com/en-us/about-swisslog",
+      "bytes": 99257
+    },
+    {
+      "label": "contact",
+      "url": "https://www.swisslog.com/en-us/contact/contact-standard",
+      "bytes": 115396
+    },
+    {
+      "label": "index",
+      "url": "https://www.swisslog.com/en-us/products-systems-solutions",
+      "bytes": 88709
+    },
+    {
+      "label": "slug",
+      "url": "https://www.swisslog.com/en-us/products-systems-solutions/asrs-automated-storage-retrieval-systems/automated-pallet-warehouse",
+      "bytes": 112884
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

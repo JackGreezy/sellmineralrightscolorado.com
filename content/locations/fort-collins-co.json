@@ -1,0 +1,59 @@
+{
+ "slug": "fort-collins-co",
+ "title": "Sell Mineral Rights in Fort Collins, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Larimer",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights fort collins co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights Near Fort Collins, CO | Larimer County",
+ "metaDescription": "Own minerals near Fort Collins, where local drilling rules have a long, contested history? We price your Larimer County interest directly.",
+ "heroLead": "Fort Collins has one of the more contested local oil and gas histories on the Front Range, and that history is worth understanding before anyone quotes you a value for minerals nearby.",
+ "intro": [
+  "The city passed a moratorium on hydraulic fracturing in 2013, which courts ultimately struck down as preempted by state authority, well before Senate Bill 19-181 later gave local governments a clearer, legal path to set their own rules. What that means today is a patchwork: Larimer County acreage around Fort Collins sits at the northern edge of the DJ Basin, with drilling activity historically lighter here than the Weld County core to the east and southeast, partly for geologic reasons and partly because of the friction that fight created.",
+  "If you own minerals near Fort Collins, the honest starting point is figuring out whether your specific tract has ever been leased or produced, because the city's political history does not automatically tell you that."
+ ],
+ "sections": [
+  {
+   "heading": "Northern basin edge, lighter activity",
+   "paragraphs": [
+    "The Niobrara and Codell formations extend into northern Larimer County, but well density here has always trailed the Wattenberg core in Weld County, both because rock quality shifts moving north and because of the additional local friction Fort Collins itself created over the past decade."
+   ]
+  },
+  {
+   "heading": "Checking your specific tract",
+   "paragraphs": [
+    "We search Larimer County deed and lease records against your legal description to determine whether your interest has ever been leased, pooled, or produced, rather than assuming based on general reputation. Many owners here hold minerals that were never leased at all."
+   ]
+  },
+  {
+   "heading": "Pricing in a lighter-activity area",
+   "paragraphs": [
+    "For unleased Larimer County acreage, we price against comparable regional lease and sale data rather than production, since most tracts in this area have no revenue history yet. For any interest that has produced, we use standard decline-curve pricing from your check stubs."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is drilling banned near Fort Collins?",
+   "answer": "No, the city's earlier moratorium was struck down by courts. Activity here is simply lighter than the Weld County core, for both geologic and local-friction reasons."
+  },
+  {
+   "question": "How do I know if my specific parcel has ever been leased?",
+   "answer": "We check Larimer County records against your legal description directly rather than relying on the area's general reputation."
+  },
+  {
+   "question": "Should I expect a lower offer here than in Weld County?",
+   "answer": "For unleased acreage, generally yes, since there is less comparable production to underwrite against. Producing interests price on their own decline curve regardless of county."
+  }
+ ],
+ "wordCount": 429,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-fort-collins-co.jpg",
+  "alt": "Sell Mineral Rights in Fort Collins, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

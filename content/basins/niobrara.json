@@ -1,0 +1,78 @@
+{
+ "slug": "niobrara",
+ "title": "Niobrara Mineral Rights",
+ "type": "basin",
+ "group": "CO/WY/NE",
+ "primaryKeyword": "niobrara mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Sell Niobrara Mineral Rights | Colorado Owner Guide",
+ "metaDescription": "Own Niobrara formation minerals or royalty in Colorado? We read decline curves bench by bench and factor in spacing unit size before quoting a number.",
+ "heroLead": "Niobrara isn't a single number for underwriting purposes; it's a stack of chalk benches, and which bench your section was drilled into changes what your royalty stream is worth.",
+ "intro": [
+  "The Niobrara formation is the source rock that made the DJ Basin and parts of the greater Denver Basin some of the most drilled acreage in Colorado. It's a fractured chalk and marl interval broken into distinct benches, typically labeled A, B, and C, and operators have spent the last decade figuring out which bench in which county produces the best economics for a given lateral length and completion design.",
+  "When we evaluate a Niobrara royalty or mineral interest, the formation name on the division order tells us where to start, not the answer. We pull which bench or benches the unit well was completed in, how many wells share the spacing unit, and how the well's production compares to offset wells in the same township before we build a number."
+ ],
+ "sections": [
+  {
+   "heading": "Why bench matters more than county line",
+   "paragraphs": [
+    "A Niobrara B bench well in central Weld County and a thinner C bench well on the basin's edge can sit a few miles apart and produce very different curves. Well spacing, lateral length, and how many benches were co-developed on the same pad all move the number. We ask which bench (or combination) shows up on your division order statement, because that single field changes our decline assumptions more than the county the tract sits in.",
+    "Multi-bench development, where operators stack laterals from several benches under one pad, has become standard in core acreage. That density can extend the productive life of a spacing unit but it also means more wells sharing the same drainage area, which is part of why we look at total wells per section, not only the well tied to your check."
+   ]
+  },
+  {
+   "heading": "Reading a Niobrara decline curve",
+   "paragraphs": [
+    "Niobrara horizontals typically show a steep initial decline in the first 12 to 18 months, followed by a longer, flatter tail that can produce at modest but persistent rates for years. Where your well sits on that curve right now matters enormously to value: a royalty stream two years past first production is priced very differently than one still in its early decline. Send us your check stubs and we'll place the well on its curve rather than guessing from the spud date.",
+    "Gas-to-oil ratio also shifts over a Niobrara well's life, and that changes the revenue mix behind your check even when gross volumes look stable month to month. We factor commodity mix into every quote, not only barrels or Mcf."
+   ]
+  },
+  {
+   "heading": "Setback and permitting exposure",
+   "paragraphs": [
+    "Because Niobrara development is concentrated in and around Weld and Adams County, it sits squarely inside Colorado's setback and local land-use framework. Undrilled Niobrara acreage near expanding subdivisions can see permits delayed or redirected, which affects how we price non-producing interests differently from a producing royalty with two years of check history behind it.",
+    "We track COGCC permitting activity by township and range so we can tell you, tract by tract, whether the Niobrara under your acreage is likely to see a rig soon or is sitting behind a longer queue."
+   ]
+  },
+  {
+   "heading": "Completion design changes the curve over time",
+   "paragraphs": [
+    "Operators have steadily lengthened laterals and tightened stage spacing in the Niobrara over the past several years, which means a well drilled in 2023 can behave differently on its decline curve than one drilled in 2015 targeting the same bench. Longer laterals with denser completions often show a higher initial rate and a steeper early decline, while older, shorter-lateral wells tend to show a gentler curve that's already well past its steepest drop.",
+    "We ask for the well's approximate vintage alongside your check history, since knowing whether your interest sits on an older, already-flattened curve or a newer, still-declining one changes how we forecast the years ahead."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between the Niobrara A, B, and C benches?",
+   "answer": "They're distinct chalk and marl intervals stacked within the formation, each with somewhat different thickness, porosity, and production behavior. Your division order or check stub usually identifies which bench the well targets, and we use that to set decline assumptions."
+  },
+  {
+   "question": "How long does a typical Niobrara well keep paying?",
+   "answer": "Most show a sharp early decline followed by a long, low-rate tail that can continue for a decade or more, though the economics of that tail depend heavily on commodity prices and well spacing."
+  },
+  {
+   "question": "My Niobrara interest is in Boulder County near new subdivisions. Does that hurt value?",
+   "answer": "It can affect timing for undrilled acreage, since permitting near expanding residential areas has slowed under current setback rules. Producing royalty is less affected because the well is already drilled and on the curve."
+  },
+  {
+   "question": "Do I need to know my bench before you'll quote me?",
+   "answer": "No. Send your division order or a recent check stub and we'll identify the bench and well count from the operator's filings ourselves."
+  },
+  {
+   "question": "Does the number of wells sharing my spacing unit change what I'm offered?",
+   "answer": "Yes. A unit with several wells producing from stacked benches spreads decline and revenue differently than a single-well unit, and we look at total well count per section before finalizing a valuation."
+  }
+ ],
+ "status": "written",
+ "wordCount": 894,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-niobrara-sellmineralrightscolorado-com.jpg",
+  "alt": "Niobrara Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

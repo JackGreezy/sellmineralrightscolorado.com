@@ -1,0 +1,59 @@
+{
+ "slug": "aurora-co",
+ "title": "Sell Mineral Rights in Aurora, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Adams",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights aurora co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Aurora, CO",
+ "metaDescription": "Aurora spans several counties and decades of annexation. Learn how old agricultural severances under this large suburban city affect your mineral interest's value.",
+ "heroLead": "Aurora grew by annexing farmland across three counties over the better part of a century, and a lot of the mineral rights under those old agricultural parcels were reserved by prior owners long before the annexations happened.",
+ "intro": [
+  "Because Aurora expanded piece by piece rather than being platted all at once, the mineral situation under any given neighborhood depends heavily on which original ranch or farm tract it came from. Some parcels retained mineral rights with the surface all the way through; others were severed decades earlier and have been changing hands independently ever since, with the current surface owner sometimes unaware minerals under their property belong to someone else entirely.",
+  "If your family holds a mineral interest connected to an Aurora-area legal description, tracing which annexation-era parcel it came from is usually the key to understanding whether it sits near any current or historical DJ Basin activity."
+ ],
+ "sections": [
+  {
+   "heading": "Eastern Aurora sits closer to active acreage",
+   "paragraphs": [
+    "The far eastern edge of Aurora, out toward E-470 and beyond, sits closer to DJ Basin acreage that's seen more recent leasing and permitting activity than the older, fully built-out neighborhoods closer to the city's core. If your legal description is in that eastern stretch, it's worth checking current unit boundaries before assuming the interest is inactive."
+   ]
+  },
+  {
+   "heading": "Older, built-out Aurora is a different picture",
+   "paragraphs": [
+    "In the long-established parts of the city, dense development limits new pad siting the way it does in most fully urbanized Denver-metro areas. Minerals here are more likely to be non-producing or tied to an old vertical well drilled before the neighborhood was built out, and any future development would most likely come from a horizontal well reaching in from a pad sited outside the residential footprint."
+   ]
+  },
+  {
+   "heading": "What we need to evaluate an Aurora interest",
+   "paragraphs": [
+    "Your legal description is the starting point — section, township, and range, or the parcel number from your deed. From there we check which county the tract falls in (Aurora spans Adams, Arapahoe, and a small part of Douglas), whether it sits inside any unit, and what production or permitting history exists nearby. A deed or probate record showing your decimal interest speeds the process considerably."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Aurora spans multiple counties — does that matter for my interest?",
+   "answer": "It matters for which clerk and recorder's office holds your title records, but not for the underlying ownership. We identify the correct county based on your legal description as part of the evaluation."
+  },
+  {
+   "question": "Is eastern Aurora more likely to have active minerals?",
+   "answer": "Generally yes, since it sits closer to DJ Basin acreage that's seen more recent leasing activity than the older, built-out parts of the city."
+  },
+  {
+   "question": "I don't know which original farm or ranch my property came from — can you still help?",
+   "answer": "Yes. We can trace the annexation and deed history from your legal description without you needing to know the original parcel history yourself."
+  }
+ ],
+ "wordCount": 505,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-aurora-co.jpg",
+  "alt": "Sell Mineral Rights in Aurora, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "federal-heights-co",
+ "title": "Sell Mineral Rights in Federal Heights, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Adams",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights federal heights co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Federal Heights, CO | Adams County",
+ "metaDescription": "Hold severed minerals in or near Federal Heights, Adams County? We confirm title against county records and make a direct written offer.",
+ "heroLead": "Federal Heights is dense Denver-metro suburb, and most mineral interests connected to it were severed from farmland decades before the current neighborhoods were built.",
+ "intro": [
+  "As with much of northern Adams County, the mineral estate here was frequently kept separate when agricultural land was sold for residential development in the mid-to-late twentieth century. Current owners are usually heirs who received a fractional interest without a clear sense of whether it still matters.",
+  "The honest way to answer that is to check whether the tract sits inside an active or historically producing DJ Basin unit. We do that search before quoting a number, because pricing an unleased interest the same as a producing one would be dishonest."
+ ],
+ "sections": [
+  {
+   "heading": "Checking unit and lease status",
+   "paragraphs": [
+    "We match your legal description against Adams County deed and lease records to determine whether your interest has ever been leased or pooled. Suburban tracts here sometimes show up in units that were formed years ago and produced modestly ever since, without the owner ever realizing it."
+   ]
+  },
+  {
+   "heading": "What happens after you accept an offer",
+   "paragraphs": [
+    "Once you accept, we prepare a mineral deed and assignment reflecting your exact interest, you sign in front of a notary, and we record the document with Adams County. We then notify the operator of record, if any, so future royalty payments route correctly."
+   ]
+  },
+  {
+   "heading": "Pricing a producing suburban interest",
+   "paragraphs": [
+    "If your tract is inside a producing unit, we price off the trailing decline curve from your check stub history, the same method we use for open farmland acreage elsewhere in Weld or Adams County."
+   ]
+  },
+  {
+   "heading": "Pricing an unleased interest",
+   "paragraphs": [
+    "If there is no lease or unit history, we price conservatively against comparable unleased Adams County mineral sales, since developed suburban surface makes new drilling directly on the tract unlikely, even if the underlying mineral estate could still be reached by a horizontal well from elsewhere."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I never knew I owned mineral rights here. How do I confirm it?",
+   "answer": "Send us your name and any deed or legal description you have and we will search Adams County records to confirm the severance and current status."
+  },
+  {
+   "question": "Would a well ever be drilled in Federal Heights itself?",
+   "answer": "Unlikely given the developed surface, but the underlying minerals could still be part of a unit reached by a horizontal well drilled from a pad elsewhere."
+  },
+  {
+   "question": "How do you price an interest with no lease history?",
+   "answer": "Conservatively, against comparable unleased Adams County mineral sales, since there is no production record to underwrite against."
+  },
+  {
+   "question": "Do I need to notify the operator myself before selling?",
+   "answer": "No, we handle operator notification after closing so payments redirect correctly without you needing to make that call."
+  }
+ ],
+ "wordCount": 470,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-federal-heights-co.jpg",
+  "alt": "Sell Mineral Rights in Federal Heights, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

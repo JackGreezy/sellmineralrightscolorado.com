@@ -1,0 +1,73 @@
+{
+ "slug": "tax-or-liquidity-pressure",
+ "title": "Selling for Liquidity",
+ "type": "situation",
+ "note": "medical, retirement, debt-driven sales",
+ "metaTitle": "Sell Colorado Mineral Rights for Cash Now",
+ "metaDescription": "Need liquidity from a Colorado mineral or royalty interest for medical costs, retirement, or debt? We close fast, with a clear number, no drawn-out process.",
+ "heroLead": "When you need cash now, a royalty check trickling in over years isn't the asset you need; the lump sum sitting in that future income stream is.",
+ "intro": [
+  "Some mineral owners never intend to sell until something changes: a medical bill, a retirement transition, a debt that needs resolving faster than a small monthly or quarterly royalty check can cover it. In that situation, the value of a Colorado mineral interest isn't the slow trickle of income over the next decade, it's what that future stream is worth converted to cash today.",
+  "We move quickly for owners under real time pressure. Once we've reviewed your check history or lease documents and agreed on a number, we can typically close within a few weeks, sometimes faster, because the transaction doesn't depend on financing contingencies the way a real estate sale often does."
+ ],
+ "sections": [
+  {
+   "heading": "How we price a future income stream today",
+   "paragraphs": [
+    "We build a decline curve from your 12 to 24 months of check stubs, project the interest forward against realistic decline behavior for the formation and well type involved, and discount that future stream to a present value. That's the honest math behind any lump-sum offer for a producing royalty, and we'll walk you through the assumptions if you want to see them rather than just accepting a number at face value.",
+    "For non-producing or leased-but-undrilled interests where there's no check history to project, we price against offset development activity instead, which is a different but equally real basis for a number."
+   ]
+  },
+  {
+   "heading": "Why speed matters and how we deliver it",
+   "paragraphs": [
+    "Unlike a real estate transaction, there's no mortgage underwriting or buyer financing contingency slowing things down; we're a direct buyer paying cash. Once title is confirmed clean at the county clerk's office, and there are no unresolved probate or ownership gaps, we can move to closing quickly. The main variable in timeline is usually title, not our side of the transaction.",
+    "If your title has a gap, an interest never formally transferred after an inheritance, for instance, we'll tell you upfront what needs to be resolved and roughly how long that typically takes, rather than letting the timeline surprise you partway through."
+   ]
+  },
+  {
+   "heading": "What to think about before you sell for liquidity",
+   "paragraphs": [
+    "Selling converts an uncertain future income stream into a known amount now, which is exactly the tradeoff you want under real financial pressure, but it's worth understanding that a producing interest's decline curve means you're also giving up whatever tail production remains beyond the near term. We'll show you our decline assumptions so you can weigh that tradeoff clearly rather than guessing.",
+    "There are also tax consequences to a mineral sale that vary by your basis and situation. Talk to your CPA or tax advisor about how the sale proceeds will be treated before you finalize, particularly if the liquidity need is tied to a larger financial decision like retirement timing."
+   ]
+  },
+  {
+   "heading": "Partial sales when you don't need the whole value at once",
+   "paragraphs": [
+    "Not every liquidity need requires selling an entire interest. If your mineral or royalty interest spans multiple tracts, or your ownership can be divided by depth or formation, a partial sale can raise the cash you need now while leaving some future income in place. We're glad to structure a transaction around exactly the amount of liquidity you're after rather than defaulting to an all-or-nothing sale.",
+    "This is worth raising early in the conversation, since it changes both the valuation approach and the closing documents, and it's easier to structure correctly from the start than to unwind later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How fast can you actually close?",
+   "answer": "Often within a few weeks once title is confirmed clean, since we're a direct cash buyer with no financing contingency. If there's a title gap to resolve first, we'll tell you upfront what that adds to the timeline."
+  },
+  {
+   "question": "How do you calculate a lump sum from my monthly royalty checks?",
+   "answer": "We build a decline curve from your recent check history, project it forward using realistic decline behavior for your well and formation, and discount that future stream to a present value. We'll walk you through the assumptions."
+  },
+  {
+   "question": "Will I get less than the total of all future checks combined?",
+   "answer": "Generally yes, that's the nature of converting a future stream to cash today, since you're also transferring the risk and decline in that stream to us. The tradeoff is certainty and immediate liquidity versus an uncertain, declining future."
+  },
+  {
+   "question": "Are there tax consequences to selling for liquidity?",
+   "answer": "Yes, and they depend on your basis and individual situation. Talk to your CPA or tax advisor before finalizing, especially if this sale is part of a larger financial decision like retirement."
+  },
+  {
+   "question": "Can I sell just part of my interest instead of all of it?",
+   "answer": "Often yes, depending on how the interest is structured. We can price a partial sale, by depth, formation, or a percentage of your decimal interest, if you only need a portion of the total value now."
+  }
+ ],
+ "status": "written",
+ "wordCount": 853,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-tax-or-liquidity-pressure-sellmineralrightscolorado-com.jpg",
+  "alt": "Selling for Liquidity mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "arapahoe-county",
+ "title": "Sell Mineral Rights in Arapahoe County, CO",
+ "type": "county",
+ "group": "DJ Basin",
+ "primaryKeyword": "arapahoe county mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Arapahoe County, CO",
+ "metaDescription": "Arapahoe County minerals span dense Denver suburbs and open eastern plains. Learn how ownership fragmentation and DJ Basin position affect what your interest is worth.",
+ "heroLead": "Ownership fragmentation, not geology, is usually the first problem an Arapahoe County mineral owner has to solve — a single quarter-section reserved a century ago can now trace through a dozen heirs scattered across the country.",
+ "intro": [
+  "Arapahoe County runs from the built-out suburbs of Aurora and Centennial in the west to open dryland farming toward Byers and the Arapahoe-Elbert line in the east. Both ends sit within the broader Denver-Julesburg Basin, but they're at very different points relative to the Wattenberg Field's productive core in Weld County to the north. Western Arapahoe County is mostly residential land where drilling activity is limited by density and local surface-use rules; the eastern county still has working farmland where operators have drilled and, in some cases, are still drilling.",
+  "What that means for an owner is that location inside the county matters more here than it does in a place like Weld, where almost everything sits over the same core play. We evaluate Arapahoe County interests parcel by parcel against actual permitting and unit data rather than quoting a flat county-wide number."
+ ],
+ "sections": [
+  {
+   "heading": "A history of small severances",
+   "paragraphs": [
+    "A large share of Arapahoe County's original land grants and homestead patents were platted and sold off with the mineral estate severed from the surface — common practice in Colorado agricultural land through the early 20th century. As that farmland was later subdivided into ranchettes, and eventually into suburban tracts around Aurora and Centennial, the severed mineral interests kept passing down through wills and intestate succession, splitting further with each generation.",
+    "The result is that many current Arapahoe County mineral owners hold a fractional decimal interest — sometimes a very small one — in a tract they've never seen, alongside cousins or distant relatives they may not know. Sorting out exactly what you own, and whether it's even been leased, usually starts with the probate and deed records at the county clerk and recorder's office rather than with a phone call to a buyer."
+   ]
+  },
+  {
+   "heading": "Western county: suburban density limits new drilling",
+   "paragraphs": [
+    "Around Aurora, Centennial, Cherry Hills Village, and the string of small municipalities along the C-470 corridor, the surface is largely built out with housing, retail, and infrastructure. New horizontal development is possible in principle — Colorado operators have drilled directional wells from pads set well outside residential zones to reach minerals under subdivisions — but it's slower, more expensive, and more heavily scrutinized under the setback and local-control rules that followed SB 19-181. A mineral interest here is more likely to be non-producing, or produced by an old vertical well drilled decades before the current density existed."
+   ]
+  },
+  {
+   "heading": "Eastern county: closer to active DJ Basin acreage",
+   "paragraphs": [
+    "East of E-470, toward Byers, Bennett, and the Elbert County line, Arapahoe County still has agricultural land where operators have leased and, in pockets, drilled. This ground sits on the southern flank of the DJ Basin rather than in the Wattenberg core, so wells here tend to be shallower producers with different decline behavior than a Weld County Niobrara horizontal — often longer, flatter production histories rather than a steep early decline. If your interest is in this part of the county, recent royalty statements (where you have them) are the single best input for pricing your interest accurately."
+   ]
+  },
+  {
+   "heading": "How we evaluate a fragmented interest",
+   "paragraphs": [
+    "For a fractional interest inherited through multiple generations, we start by confirming your decimal share against the deed and probate chain rather than taking a family estimate at face value — that number drives everything else. From there we check whether the tract is inside an active or historical unit, what the operator of record has filed with the state, and, if there's production, what the decline curve looks like against recent volumes. We can typically give a preliminary range before you've assembled a complete title history, then firm it up once documentation is confirmed."
+   ]
+  },
+  {
+   "heading": "Comparing decline behavior across the county",
+   "paragraphs": [
+    "A Weld County horizontal Niobrara well typically shows a steep production decline in its first eighteen months before flattening into a long, low-volume tail. Older vertical wells common in eastern Arapahoe County behave differently — a gentler initial decline, lower peak volumes, but a longer flat stretch that can keep paying modest royalties for years. That difference matters when you're comparing a check history from your own interest to what you might have heard a neighbor's Weld County minerals are producing; the two aren't directly comparable even though both sit in the same basin.",
+    "For an heir who inherited a small interest without any operating history to reference, we look at the specific well or unit's public production data filed with the state rather than basin-wide averages, since averages can mislead in either direction depending on well age and completion type."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I only own a small fractional interest — is it worth selling?",
+   "answer": "Often yes, particularly if the tract sits in an active or historical DJ Basin unit. Small fractional interests are common in Arapahoe County because of decades of inheritance splitting, and we regularly buy interests down to very small decimal shares."
+  },
+  {
+   "question": "My family's minerals are under a subdivision now — did we lose them?",
+   "answer": "No. Severed mineral rights stay separate from the surface even after the land above them is developed for housing. You still own the mineral estate; it's the surface access for drilling that gets more complicated in built-up areas."
+  },
+  {
+   "question": "Why does the eastern part of the county matter more for production?",
+   "answer": "Eastern Arapahoe County sits closer to active DJ Basin acreage and still has agricultural surface access, so operators have historically leased and drilled there more than in the dense western suburbs."
+  },
+  {
+   "question": "What documents speed up an offer?",
+   "answer": "A copy of your deed, any lease you're aware of, and recent division order or royalty statements if the interest has ever produced. We can pull county clerk and recorder records ourselves if you don't have copies."
+  },
+  {
+   "question": "Is eastern Arapahoe County still seeing new drilling activity?",
+   "answer": "Some, though at a slower pace than the Wattenberg core in Weld County. We check current permit filings with the state's Energy and Carbon Management Commission against your specific legal description rather than assuming county-wide activity levels apply to your tract."
+  }
+ ],
+ "wordCount": 1058,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-arapahoe-county-co.jpg",
+  "alt": "Sell Mineral Rights in Arapahoe County, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

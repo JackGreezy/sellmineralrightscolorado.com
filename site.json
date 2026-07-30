@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightscolorado.com",
+ "keyword": "sell mineral rights colorado",
+ "segment": "colorado-state",
+ "intent": "seller",
+ "tier": "Expansion (260 head vol)",
+ "available": true,
+ "voice": "acquisitions-desk-analyst: numbers-first, decline curves & comps; calm and precise",
+ "angle": "CO pillar; split-estate + setback-rule uncertainty drives seller intent",
+ "taxonomyCounts": {
+  "locations": 146,
+  "basins": 4,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 183,
+ "status": "scaffold"
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Colorado Mineral Rights Held in a Trust",
+ "metaDescription": "Trustee managing Colorado mineral or royalty interests? We work within trust authority documents and provide the valuation and closing trustees need.",
+ "heroLead": "A trustee has a fiduciary duty to the beneficiaries, and that means any mineral sale needs a defensible valuation and a clean paper trail, not only a fair-sounding number.",
+ "intro": [
+  "Colorado mineral and royalty interests often end up held in family trusts, sometimes moved there deliberately for estate planning purposes, other times simply because they were part of a larger estate that got placed into trust decades ago and were never separately addressed. Trustees managing these interests face a narrower set of duties than an individual owner: the sale needs to be in the beneficiaries' interest, properly documented, and consistent with whatever authority the trust instrument actually grants.",
+  "We work with trustees regularly, providing the kind of documented, defensible valuation that supports a fiduciary decision and closing paperwork that matches what the trust document and, where relevant, the beneficiaries require."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming trustee authority before we go further",
+   "paragraphs": [
+    "The trust instrument itself governs whether the trustee can sell mineral interests unilaterally, needs beneficiary consent, or requires some other process specific to that trust. We ask to see the relevant sections of the trust document, or confirmation from the trustee's attorney, before moving forward, since we want the transaction to hold up cleanly rather than create a problem for the trustee later.",
+    "If the trust requires notifying beneficiaries or getting their consent before a sale of this kind, that process happens on your side with your attorney; we simply need confirmation once it's complete."
+   ]
+  },
+  {
+   "heading": "Documentation that supports a fiduciary decision",
+   "paragraphs": [
+    "Because a trustee can be held to a higher standard than an individual seller, we document our valuation basis clearly: the decline curve built from division order history for producing interests, or the offset activity and lease terms reviewed for non-producing acreage. That paper trail is meant to support the trustee's decision if it's ever reviewed by beneficiaries, a co-trustee, or a court.",
+    "We're also comfortable working alongside the trust's own attorney or CPA throughout the process rather than only communicating with the trustee directly, which many trustees prefer for a transaction involving fiduciary duty."
+   ]
+  },
+  {
+   "heading": "Closing mechanics for a trust-owned interest",
+   "paragraphs": [
+    "Closing documents need to reflect the trust's exact legal name and the trustee's authority to sign on its behalf, which we confirm against the recorded trust documentation or a certificate of trust rather than assuming standard individual closing paperwork will work. Getting this right the first time avoids delays or the need to re-execute documents.",
+    "If the trust holds interests across multiple Colorado counties, we can often coordinate a single closing covering everything rather than separate transactions county by county, which simplifies the process for the trustee."
+   ]
+  },
+  {
+   "heading": "Why a trust sells rather than distributes minerals in kind",
+   "paragraphs": [
+    "Some trusts eventually terminate and distribute assets to beneficiaries directly, which raises the question of whether to distribute the mineral interest itself or sell it first and distribute cash. Distributing a fractional mineral interest to several beneficiaries multiplies the small-interest administrative burden we see elsewhere, each beneficiary then manages their own tiny division order relationship going forward.",
+    "Many trustees find it cleaner to sell while the interest is still consolidated under the trust and distribute proceeds according to the trust's terms, avoiding that fragmentation for beneficiaries who may have no interest in managing an oil and gas asset themselves."
+   ]
+  },
+  {
+   "heading": "Successor trustees and title gaps",
+   "paragraphs": [
+    "It's common for a trust's original trustee to have passed away or stepped down, with a successor trustee now managing assets that were never formally re-titled or reconfirmed after the transition. Before we close, we confirm the current trustee's authority is properly documented, typically through a certificate of trust or the trust amendment naming the successor, since an unresolved gap here can hold up a closing or create title problems for the buyer later.",
+    "If that documentation isn't already in order, we'll flag exactly what's missing so the trustee's attorney can address it before we move to closing, rather than discovering the gap partway through the transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can a trustee sell mineral rights without beneficiary consent?",
+   "answer": "It depends entirely on what the trust instrument grants. Some trusts give the trustee broad authority; others require notice or consent. We'd need to see the relevant trust language or confirmation from your attorney before proceeding."
+  },
+  {
+   "question": "What if the trust document doesn't specifically mention mineral rights?",
+   "answer": "Most trust instruments grant broad authority to sell trust property generally, which typically covers minerals even without a specific mention, but your trust attorney should confirm that reading applies to your document."
+  },
+  {
+   "question": "What documentation do you provide to support the trustee's decision?",
+   "answer": "A clear basis for our valuation, decline curve assumptions built from check history for producing interests, or offset activity reviewed for non-producing acreage, so the decision is defensible if reviewed later."
+  },
+  {
+   "question": "Do you work with the trust's attorney directly?",
+   "answer": "Yes, and many trustees prefer that for a fiduciary transaction. We're glad to coordinate with the trust's attorney or CPA throughout."
+  },
+  {
+   "question": "Our trust holds minerals in more than one Colorado county. Can that close together?",
+   "answer": "Often yes. We can typically coordinate a single closing covering multiple counties rather than requiring separate transactions for each."
+  }
+ ],
+ "status": "written",
+ "wordCount": 875,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightscolorado-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

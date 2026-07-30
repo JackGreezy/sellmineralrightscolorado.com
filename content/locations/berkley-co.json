@@ -1,0 +1,62 @@
+{
+ "slug": "berkley-co",
+ "title": "Sell Mineral Rights in Berkley, CO",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Adams",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights berkley co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Berkley, CO",
+ "metaDescription": "Berkley is a small built-up Denver-area neighborhood with old severed mineral history. See how urban density affects what your interest here is worth.",
+ "heroLead": "Berkley is a small, long-established neighborhood at the edge of the Denver metro area, and any mineral interest tied to a legal description here almost certainly traces back to an agricultural severance from well before the area was built up.",
+ "intro": [
+  "This isn't a place with recent drilling activity — it's fully built out residential and commercial ground. What it does have, often unknown to current homeowners, is a mineral estate that was split off from the surface generations ago and has been quietly passing through inheritance ever since, sometimes without the current heirs realizing they own anything at all."
+ ],
+ "sections": [
+  {
+   "heading": "Why urban density changes the calculation",
+   "paragraphs": [
+    "A dense, built-out area like this has essentially no near-term prospect of a new well being sited directly on the surface. That doesn't make the underlying mineral interest worthless, but it does mean any offer reflects a lower probability of near-term development compared to open acreage in Weld County, where operators are actively permitting new pads."
+   ]
+  },
+  {
+   "heading": "Tracing an old, forgotten interest",
+   "paragraphs": [
+    "If you came across a mention of mineral rights in a will or an old family document and have no idea what it means or whether it's real, the Denver-area county clerk and recorder's deed index is the place to confirm it. We routinely help owners in exactly this position figure out what they actually hold before discussing any number."
+   ]
+  },
+  {
+   "heading": "Why we ask for a legal description, not only an address",
+   "paragraphs": [
+    "A street address tells us where the surface house sits, but mineral ownership is recorded against the legal description — section, township, range, or a platted lot and block — not a mailing address. If you only have an address to go on, we can usually cross-reference it through the county assessor's parcel records, but having the actual deed on hand speeds everything up and avoids us quoting against the wrong tract entirely."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I found a mention of 'mineral rights reserved' in an old deed — is that real?",
+   "answer": "Likely yes. That language is standard for a severance, meaning a prior owner kept the minerals when selling the surface. We can help confirm and quantify the interest."
+  },
+  {
+   "question": "Is there any chance of drilling under a built-up area like Berkley?",
+   "answer": "Direct surface drilling is unlikely given the density, though minerals could theoretically be reached by a directional well from elsewhere. We price the interest against realistic odds, not a wishful scenario."
+  },
+  {
+   "question": "Is it worth selling a small urban mineral interest?",
+   "answer": "Often yes, particularly if you'd rather have a certain amount now than hold an interest with low near-term development odds indefinitely."
+  },
+  {
+   "question": "I only have a street address, not a legal description — can you still help?",
+   "answer": "Yes. We can cross-reference an address through county assessor records, though a copy of your deed makes the process faster and more accurate."
+  }
+ ],
+ "wordCount": 494,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-berkley-co.jpg",
+  "alt": "Sell Mineral Rights in Berkley, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

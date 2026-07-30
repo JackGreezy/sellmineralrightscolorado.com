@@ -1,0 +1,80 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Mineral Rights in Colorado",
+ "metaDescription": "The deed, division orders, and title paperwork a Colorado mineral rights buyer will ask for, and where to find each one if you've misplaced it.",
+ "heroLead": "Before an offer can turn into a closed deal, someone has to confirm what you actually own, and that confirmation runs through a short stack of paperwork.",
+ "intro": [
+  "Owners often assume a mineral sale hinges on negotiation, when in practice most of the timeline is spent on paper. A buyer can quote a number off a description of your interest, but converting that into a closed transaction requires documents that establish the chain of title, current production status, and payment history. Having them gathered before you start speeds everything up considerably.",
+  "None of this paperwork is exotic. Most of it already exists somewhere in a filing cabinet, an old estate file, or the county clerk's records in whichever Colorado county your minerals sit in, whether that's Weld, Garfield, La Plata, or one of the smaller basin counties. The work is locating it, not creating it from scratch."
+ ],
+ "sections": [
+  {
+   "heading": "The deed that established your interest",
+   "paragraphs": [
+    "Every mineral interest traces to a deed, sometimes a mineral deed, sometimes a warranty deed with a reservation clause, sometimes a probate or trust distribution. This is the single most important document because it defines what fraction you own and in which legal description. If you don't have a copy, the county clerk and recorder in the county of record can pull it, usually for a small copying fee.",
+    "If your interest came through inheritance, the chain may run through several documents: the original owner's deed, a will or intestate succession order, and possibly an affidavit of heirship if the estate was never formally probated. A buyer's title examiner will want to see the full chain, not only the most recent link."
+   ]
+  },
+  {
+   "heading": "Division orders and check stubs",
+   "paragraphs": [
+    "If your interest is currently producing, division orders and recent check stubs are the fastest way to confirm your paid decimal and which wells or units you're receiving revenue from. Even a few months of check stubs tells a buyer's analyst what unit you're in, what the operator is currently paying, and roughly what the well's production trend looks like.",
+    "If you've never received a check and believe your interest should be producing, that's worth flagging early rather than assuming it doesn't matter. It could mean funds are held in suspense over a title question, which is its own document to track down."
+   ]
+  },
+  {
+   "heading": "Tax statements and legal description",
+   "paragraphs": [
+    "County ad valorem or severance tax statements, if your county assesses them, are another useful cross-check on ownership and acreage. They're not always required, but they help confirm the legal description matches what's in your deed, and Colorado county assessors' offices can usually reissue a lost statement.",
+    "The legal description itself, meaning the section-township-range or metes-and-bounds language identifying your specific tract, needs to match across every document. Discrepancies here are common when land has been split or resurveyed over the decades, and they're usually resolvable but worth flagging up front rather than discovering mid-closing."
+   ]
+  },
+  {
+   "heading": "What to do if paperwork is missing",
+   "paragraphs": [
+    "Missing documents are common, not disqualifying. A buyer's title team routinely works with incomplete files and fills gaps through courthouse research, probate records, or a title curative process like a corrective affidavit. The one thing worth doing yourself first is a basic inventory: what you have, what you remember but can't find, and what you've never seen at all.",
+    "Bring whatever you have to the conversation rather than waiting until your file is complete. A partial set of documents is usually enough to start a title review, and the buyer's team can tell you specifically what's still needed rather than you guessing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I've never received a deed for my minerals?",
+   "answer": "That usually means the interest passed through inheritance without a separate mineral deed being recorded. The county probate file or an affidavit of heirship can often substitute, and a title examiner can trace it from there."
+  },
+  {
+   "question": "Do I need an attorney to gather these documents?",
+   "answer": "Not to gather them, most are public record at the county clerk's office. An attorney becomes useful if there's a real title defect to cure, and that's worth discussing with your own counsel before signing anything."
+  },
+  {
+   "question": "How far back do division orders need to go?",
+   "answer": "Recent statements, generally the last six to twelve months, are usually enough to confirm your current paid decimal. Older statements can help but aren't required."
+  },
+  {
+   "question": "What if my legal description doesn't match between documents?",
+   "answer": "Minor discrepancies from old surveys are common and usually resolvable. A title examiner will flag the specific conflict and what's needed to reconcile it."
+  },
+  {
+   "question": "Can I start the process before I've found everything?",
+   "answer": "Yes. Most sellers start with a partial file, and the buyer's team identifies exactly what's still missing rather than requiring a complete packet up front."
+  },
+  {
+   "question": "What if my interest spans more than one Colorado county?",
+   "answer": "That's not unusual for larger family holdings accumulated over generations. Each county's records are separate, so plan on pulling documents from each recorder's office where a tract sits, since legal descriptions differ county to county."
+  },
+  {
+   "question": "Is a will enough proof of ownership on its own?",
+   "answer": "Usually a will needs to be paired with the county probate record showing it was admitted and the estate distributed, since the will alone doesn't complete the recorded chain of title a buyer's examiner is looking for."
+  }
+ ],
+ "wordCount": 907,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightscolorado-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

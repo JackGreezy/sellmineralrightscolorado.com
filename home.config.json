@@ -1,0 +1,30 @@
+{
+  "domain": "sellmineralrightscolorado.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightscolorado.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightscolorado.com",
+  "reference": "https://www.swisslog.com/en-us",
+  "refhost": "swisslog-com",
+  "biz": "Sell Mineral Rights Colorado",
+  "businessName": "Sell Mineral Rights Colorado",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "COLORADO",
+  "city": "Denver",
+  "state": "Colorado",
+  "region": "Denver, the DJ Basin, the Piceance Basin, and mineral-producing counties across Colorado",
+  "phone": "303-555-1035",
+  "email": "colorado@sellmineralrightscolorado.com",
+  "address": "1700 Broadway, Denver, CO 80290",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightscolorado-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightscolorado.com/site-voice.json",
+  "nav": [
+    ["Selling Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Colorado Basins", "/basins"],
+    ["Owner Resources", "/resources"],
+    ["Colorado Areas", "/locations"]
+  ],
+  "cta": ["Request a Colorado Review", "/contact#contact-form"]
+}

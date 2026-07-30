@@ -1,0 +1,73 @@
+{
+ "slug": "hudson-co",
+ "title": "Sell Mineral Rights in Hudson, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Weld",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights hudson co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Hudson, CO | Weld County DJ Basin",
+ "metaDescription": "Own minerals near Hudson in the Wattenberg field? We price your interest off decline data and recent comparable Weld County sales.",
+ "heroLead": "Hudson sits inside the broader Wattenberg field, and mineral interests here typically come with a real production history worth pricing carefully rather than estimating.",
+ "intro": [
+  "This part of Weld County has seen steady horizontal development over the past decade, giving us a solid base of comparable data and, for most owners, an actual check-stub history to price against directly.",
+  "We approach a Hudson-area interest the same way every time: confirm net revenue interest from the division order, fit a decline curve to trailing production, and check the result against recent comparable sales in this stretch of the county."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming your net revenue interest",
+   "paragraphs": [
+    "Your division order lists your exact fractional share of each unit's revenue. We start here because it is the single most important number in any offer, more important than acreage size or well count alone."
+   ]
+  },
+  {
+   "heading": "Fitting your decline curve",
+   "paragraphs": [
+    "We use several months of your actual check stubs to establish where your unit sits on its production curve, since that tells us how much value remains rather than relying on a generic assumption for the basin."
+   ]
+  },
+  {
+   "heading": "Checking against comparable sales",
+   "paragraphs": [
+    "We compare our decline-curve number against recent Weld County mineral transactions to make sure the offer holds up against what similar interests are actually trading for right now."
+   ]
+  },
+  {
+   "heading": "What if your check stubs show inconsistent amounts",
+   "paragraphs": [
+    "Royalty checks can fluctuate month to month with commodity prices and production volume even without anything being wrong. We look at the trend across several months rather than any single check, since one unusually low or high payment does not represent the real decline pattern on its own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I don't have a division order handy?",
+   "answer": "We can request one from the operator on your behalf or work from check stubs alone while we track it down."
+  },
+  {
+   "question": "How many months of check stubs do you need?",
+   "answer": "Typically three to six months gives us enough data to establish a reliable trend."
+  },
+  {
+   "question": "Why compare against other sales if you already have my decline curve?",
+   "answer": "It is a sanity check to make sure our formula-based number reflects real current market activity, not only theory."
+  },
+  {
+   "question": "My monthly royalty checks vary a lot. Does that mean something is wrong?",
+   "answer": "Not necessarily. Prices and volumes fluctuate month to month. We look at the trend over several months rather than any single payment."
+  },
+  {
+   "question": "Do you buy interests that have never had a lease at all?",
+   "answer": "Yes, though pricing for a never-leased Hudson-area tract is based on comparable regional lease activity rather than production, and typically comes in more conservative than a producing interest."
+  }
+ ],
+ "wordCount": 457,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-hudson-co.jpg",
+  "alt": "Sell Mineral Rights in Hudson, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}

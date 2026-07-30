@@ -1,0 +1,76 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Colorado Mineral Rights Through Probate or an Estate",
+ "metaDescription": "Executor handling Colorado mineral rights in an estate? We work with probate timelines, court approval requirements, and multi-heir estates to close cleanly.",
+ "heroLead": "As executor, you're on the clock and on the hook for getting estate assets valued and settled correctly, and mineral rights are usually the asset nobody in the family knows how to handle.",
+ "intro": [
+  "Executors and personal representatives handling a Colorado estate frequently run into mineral or royalty interests that the deceased owned for decades without much documentation, sometimes tracing back to a Weld County homestead or a Garfield County ranch purchased generations ago. Part of the executor's job is getting these interests properly valued for the estate inventory and, often, deciding whether to distribute them to heirs in kind or liquidate them as part of settling the estate.",
+  "We work directly with executors, estate attorneys, and probate courts to value Colorado mineral interests accurately and, where a sale makes sense for the estate, close it within the timeline probate requires."
+ ],
+ "sections": [
+  {
+   "heading": "Valuation for the estate inventory",
+   "paragraphs": [
+    "Colorado probate generally requires a fair market valuation of estate assets, including mineral interests, often as of the date of death for basis purposes. For a producing interest we build that valuation from division order check history; for non-producing or leased acreage we look at offset drilling activity and lease terms in the county. We provide documentation of how we reached the number, which typically satisfies what the estate's attorney or the court needs on file.",
+    "This valuation matters beyond the sale itself. It sets the stepped-up basis heirs will use if they eventually sell the interest later, so getting it right at this stage has real downstream tax consequences worth getting correct the first time."
+   ]
+  },
+  {
+   "heading": "Court approval and executor authority",
+   "paragraphs": [
+    "Whether you need court approval to sell an estate's mineral interest depends on the authority granted in the will, the type of probate administration opened, and whether all heirs consent to the sale. Some Colorado estates proceed under informal administration where the personal representative has broad authority to sell assets without a separate court hearing; others require formal approval. Your estate attorney can confirm which applies, and we're glad to provide whatever documentation the court process requires on our end.",
+    "If multiple heirs each inherit a fractional share rather than the estate selling as a whole, we can work with each heir individually once their interest is formally distributed, or coordinate a single sale that closes the interest before distribution, whichever the estate's attorney recommends."
+   ]
+  },
+  {
+   "heading": "Working around probate timelines",
+   "paragraphs": [
+    "Probate has its own schedule, creditor claim periods, inventory deadlines, final accounting, and mineral interests sometimes need to be resolved by a specific point in that process. We move efficiently on title review and closing once the estate is ready to sell, so the mineral asset doesn't become the item holding up the rest of the estate's settlement."
+   ]
+  },
+  {
+   "heading": "When the estate holds several small interests",
+   "paragraphs": [
+    "It's common for an estate to include several small mineral interests scattered across different counties or even different states, accumulated by the deceased over decades without much organization. Rather than valuing and closing each one as a separate transaction, we can often review the full list together and coordinate a combined process, which is usually faster and less burdensome for an executor already managing the rest of the estate's inventory and deadlines.",
+    "Send us whatever records exist, deeds, old division order statements, prior correspondence, and we'll sort out what's producing, what's leased but undrilled, and what needs additional title work before a number can be finalized."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need court approval as executor to sell mineral rights?",
+   "answer": "It depends on the type of probate administration and the will's terms. Some Colorado estates give the personal representative broad authority to sell without a hearing; others require it. Confirm with your estate attorney."
+  },
+  {
+   "question": "How do you value a mineral interest for the estate inventory?",
+   "answer": "For producing interests we use division order check history to build a decline curve; for non-producing acreage we look at offset drilling activity and lease terms. We document the basis for the number for the estate's records."
+  },
+  {
+   "question": "What if the estate can't find the original deed or lease?",
+   "answer": "We can typically reconstruct ownership through the county clerk and recorder's chain of title even without the original documents, since recorded instruments are public record independent of what paperwork the estate has on hand."
+  },
+  {
+   "question": "Why does the date-of-death valuation matter beyond the estate filing?",
+   "answer": "It sets the stepped-up basis heirs use if they sell the interest later, which directly affects capital gains calculations on a future sale. Getting it accurate now avoids problems down the road."
+  },
+  {
+   "question": "Can we sell before the estate is fully distributed to heirs?",
+   "answer": "Often yes, with proper executor authority, and it can simplify things versus distributing a fractional interest to each heir first. Your estate attorney can advise on which approach fits your probate."
+  },
+  {
+   "question": "The deceased owned minerals in more than one state. Can you help with those too?",
+   "answer": "For Colorado interests, yes, directly. For interests in other states, we can still review records alongside you and help the estate understand what it holds, even where we aren't the buyer."
+  }
+ ],
+ "status": "written",
+ "wordCount": 865,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightscolorado-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

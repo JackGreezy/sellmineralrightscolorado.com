@@ -1,0 +1,94 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Colorado Mineral Rights Buyer",
+ "metaDescription": "The terms governing use of our site and the general nature of evaluations and offers we provide for Colorado mineral and royalty interests.",
+ "heroLead": "This page covers the terms that apply when you use our site or request an evaluation of a Colorado mineral or royalty interest.",
+ "intro": [
+  "By using this website or contacting us about a mineral or royalty interest, you agree to the terms described here. These terms explain the nature of the information and evaluations we provide, and the limits on what our site and our team can offer.",
+  "If you don't agree with these terms, we'd ask that you not use the site or submit information through it, though you're welcome to reach out with questions first."
+ ],
+ "sections": [
+  {
+   "heading": "Nature of our evaluations and offers",
+   "paragraphs": [
+    "Any value estimate, range, or offer we provide is based on the information available to us at the time, including documents you've shared and current activity in your county, and is not a formal appraisal. We are not licensed appraisers, attorneys, or CPAs, and nothing on this site or in our communications should be treated as appraisal, legal, or tax advice.",
+    "Offers are subject to change based on title review, updated production data, or other information that comes to light during the process, and any specific number discussed before title review and a signed purchase agreement is preliminary, not a binding commitment from either party."
+   ]
+  },
+  {
+   "heading": "No guarantee of value or outcome",
+   "paragraphs": [
+    "Mineral and royalty values depend on commodity prices, production decline, and operator activity, all of which change over time and can't be predicted with certainty. We don't guarantee a specific value, return, or outcome for any interest, and any figures discussed reflect estimates tied to current, available information rather than promises.",
+    "You are responsible for reviewing any offer, purchase agreement, or deed carefully, and for seeking your own legal or tax advice before signing anything, particularly given how much variation exists in individual title and tax situations."
+   ]
+  },
+  {
+   "heading": "Use of this website",
+   "paragraphs": [
+    "This site is provided for informational purposes related to Colorado mineral and royalty ownership. You agree not to use it to submit false information, attempt to access other users' data, or interfere with the site's normal operation. Content on this site, including educational resource pages, reflects general information and shouldn't be relied on as a substitute for professional advice specific to your situation.",
+    "We may update this site's content, including these terms, from time to time to reflect changes in our process or in applicable regulations. Continued use of the site after updates constitutes acceptance of the revised terms."
+   ]
+  },
+  {
+   "heading": "Limitation of liability",
+   "paragraphs": [
+    "To the extent permitted by law, we are not liable for decisions made based on general information provided on this site or in preliminary conversations, including estimates that are later revised once title review or updated production data is available. Any binding obligations arise only through a signed purchase agreement.",
+    "If any provision of these terms is found unenforceable, the remaining provisions continue to apply. These terms are governed by the laws of the State of Colorado."
+   ]
+  },
+  {
+   "heading": "Accuracy of information you provide",
+   "paragraphs": [
+    "You agree that any information you provide to us, whether about your ownership, your county, or documents you share, is accurate to the best of your knowledge. Providing inaccurate information, intentionally or not, can affect the accuracy of any estimate we're able to give and may delay or complicate a subsequent transaction.",
+    "If you later discover that something you shared with us was incorrect, whether a decimal interest, a legal description, or a document detail, let us know as soon as possible so it can be corrected before it affects a title review or closing."
+   ]
+  },
+  {
+   "heading": "Dispute resolution",
+   "paragraphs": [
+    "If a disagreement arises between us regarding a transaction, we'd rather work through it directly than escalate unnecessarily, and we encourage reaching out to discuss any concern before pursuing other remedies. Any specific purchase agreement you sign will contain its own terms governing that particular transaction, which take precedence over general statements made on this site.",
+    "Nothing in these terms limits your right to seek advice from your own attorney at any point, including before signing a purchase agreement or deed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is an initial estimate a binding offer?",
+   "answer": "No, preliminary estimates are informational and subject to change based on title review and updated data. A binding offer exists only once formalized in a signed purchase agreement."
+  },
+  {
+   "question": "Are you providing legal or tax advice on this site?",
+   "answer": "No, nothing here is legal, tax, or appraisal advice. For those matters, consult your own attorney, CPA, or a licensed appraiser."
+  },
+  {
+   "question": "Can these terms change?",
+   "answer": "Yes, we may update this page from time to time, and continued use of the site after an update means you accept the revised terms."
+  },
+  {
+   "question": "What law governs these terms?",
+   "answer": "These terms are governed by the laws of the State of Colorado."
+  },
+  {
+   "question": "Am I obligated to sell after requesting an evaluation?",
+   "answer": "No, requesting an evaluation creates no obligation to sell, and no transaction is binding until a purchase agreement is signed by both parties."
+  },
+  {
+   "question": "What happens if information I provided turns out to be inaccurate?",
+   "answer": "Let us know as soon as you're aware so it can be corrected. Inaccurate information can affect an estimate or delay a transaction, but it doesn't automatically void anything already agreed to in good faith."
+  },
+  {
+   "question": "Does a specific purchase agreement override these general terms?",
+   "answer": "Yes, the terms of any signed purchase agreement for a specific transaction govern that transaction and take precedence over the general statements on this page."
+  }
+ ],
+ "wordCount": 921,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightscolorado-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

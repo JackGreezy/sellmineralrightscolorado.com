@@ -1,0 +1,84 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Spot a Lowball Mineral Rights Offer in Colorado",
+ "metaDescription": "The specific warning signs of a lowball mineral rights offer in Colorado, and the questions that separate a fair number from an opportunistic one.",
+ "heroLead": "A lowball offer usually doesn't look obviously low, it looks vague, and the vagueness is what should catch your attention before the number does.",
+ "intro": [
+  "Colorado mineral owners get unsolicited offer letters regularly, some from serious buyers doing legitimate acquisitions work, others from operations working a volume strategy that depends on owners not checking the math. Distinguishing the two isn't about finding a magic price threshold, it's about noticing how the offer is presented and how the buyer responds when you ask questions.",
+  "None of this is about assuming bad faith everywhere. Most buyers in this space are straightforward. It's about knowing which specific signals are worth pausing on before you sign anything."
+ ],
+ "sections": [
+  {
+   "heading": "Vague or missing methodology",
+   "paragraphs": [
+    "A serious offer can generally explain, at least at a high level, what it's based on: recent production data if the interest is producing, or nearby permitting and comparable activity if it's undeveloped. If a buyer can't or won't explain roughly how they arrived at a number, or brushes off the question, that's worth treating as a signal rather than a formality.",
+    "This doesn't mean every buyer has to hand over a full valuation model. It means a reasonable explanation should be available if you ask directly, something like referencing the well's current production trend or recent activity in your specific county or unit."
+   ]
+  },
+  {
+   "heading": "Artificial urgency",
+   "paragraphs": [
+    "Offers with a short fuse, sign within a few days or the number drops, are a common pressure tactic. Mineral interests don't have a narrow window where value suddenly evaporates. Legitimate buyers understand that owners want time to review documents, ask questions, and sometimes get a second opinion, and they don't need to manufacture urgency to justify a fair number.",
+    "If a deadline feels arbitrary rather than tied to something real, like a specific closing date already in motion, it's reasonable to ask why, and to be skeptical of an answer that doesn't hold up."
+   ]
+  },
+  {
+   "heading": "Offers that ignore your specific interest",
+   "paragraphs": [
+    "A form letter quoting a flat per-acre number without referencing your county, your specific well or unit, or your decimal interest is a sign the offer wasn't centered on your actual situation. Value in this asset class varies enormously by decline curve position, operator, and formation, so a generic number applied broadly is more likely to be opportunistic than researched.",
+    "Ask the buyer what specifically informed their number for your interest. A real answer references your production history or your area's activity. A non-answer, or one that could apply to any tract in the state, is worth weighing accordingly."
+   ]
+  },
+  {
+   "heading": "How to check an offer against reality",
+   "paragraphs": [
+    "Pull your own recent royalty statements if the interest is producing and look at the trend, is production climbing, flat, or clearly declining. Check recent Colorado Energy and Carbon Management Commission permitting activity in your county if the interest is undeveloped. These are publicly available and give you an independent read before you accept anyone's number.",
+    "It's also reasonable to get a second opinion, whether from another buyer, a landman, or an attorney, particularly for a larger interest. A fair offer holds up to that kind of comparison. One that doesn't is worth more scrutiny before you sign."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a low offer always a lowball?",
+   "answer": "Not necessarily. A genuinely lower-value interest, one further into decline or with limited nearby activity, can fairly command a modest number. The question is whether the number is explained and grounded in your actual data, not whether it's simply low."
+  },
+  {
+   "question": "Should I ignore unsolicited offer letters?",
+   "answer": "Not automatically, some come from legitimate buyers. Treat them as a starting point for questions rather than a final number, and verify the specifics before deciding anything."
+  },
+  {
+   "question": "What if a buyer won't tell me their valuation method?",
+   "answer": "That's reasonable grounds to be cautious. You don't need a full model, but a general explanation referencing your actual interest is a fair thing to expect."
+  },
+  {
+   "question": "How do I check comparable activity myself?",
+   "answer": "Colorado's Energy and Carbon Management Commission maintains public permitting and production data by county, which you can check against claims a buyer makes about activity near your acreage."
+  },
+  {
+   "question": "Can I negotiate after getting an initial offer?",
+   "answer": "Yes, an initial number is usually a starting point, not a final one, especially if you can point to specific data, like recent production trends, that supports a different figure."
+  },
+  {
+   "question": "Should I be suspicious of a buyer who wants everything done by mail with no phone contact?",
+   "answer": "Not automatically, but a legitimate buyer should be reachable by phone to answer questions before you sign. If every attempt to talk it through gets redirected back to paperwork, treat that as a signal worth weighing."
+  },
+  {
+   "question": "Is a cash offer with no title review a red flag?",
+   "answer": "It can be. A serious buyer typically wants to confirm the chain of title before closing, since that protects both sides. A buyer skipping that step entirely is unusual and worth asking about directly."
+  },
+  {
+   "question": "Does a professional-looking letter mean the offer is legitimate?",
+   "answer": "Not necessarily, polished formatting is easy to produce and says nothing about how the number was derived. Judge the offer on its explanation and responsiveness to your questions, not its letterhead."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightscolorado-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

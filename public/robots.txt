@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sellmineralrightscolorado.com/sitemap.xml
+# AI: https://sellmineralrightscolorado.com/llms.txt

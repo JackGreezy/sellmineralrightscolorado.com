@@ -1,0 +1,88 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us | Colorado Mineral Rights Buyer",
+ "metaDescription": "Reach out about a Colorado mineral or royalty interest, whether you have full documentation or just a general idea of what you own.",
+ "heroLead": "Whether you have a full document file or just a general sense of what you own, reach out and we'll help figure out the next step from there.",
+ "intro": [
+  "Not every owner who contacts us has a complete picture of their mineral interest, and that's a normal starting point, not a problem. Some come to us with a deed and years of royalty statements. Others have a name from a family member and a county they think the minerals are in. Either way, tell us what you know and we'll help sort out what's needed next.",
+  "We respond to most inquiries within one to two business days. If your situation involves a time-sensitive matter, like a pending division order deadline or an estate settlement timeline, mention that up front so we can prioritize accordingly."
+ ],
+ "sections": [
+  {
+   "heading": "What to expect when you reach out",
+   "paragraphs": [
+    "A real conversation about your specific interest, not a scripted pitch. We'll ask about the county, what documents you have, and whether the interest is currently producing, then explain what we can tell you now versus what would require a closer look at your records.",
+    "If you're not sure whether you want to sell, that's a fine place to start too. Plenty of owners reach out just to understand their options or get a rough sense of value before deciding anything."
+   ]
+  },
+  {
+   "heading": "Questions we can help with beyond a sale",
+   "paragraphs": [
+    "We field a fair number of questions that aren't directly about selling, how to read a confusing royalty statement, what a division order decimal means, how to track down a deed you've lost. We're happy to help point you in the right direction on these even if a sale isn't on the table right now.",
+    "For questions that touch on legal title disputes or tax treatment specifically, we'll be upfront that those need your own attorney or CPA, and we can explain generally what kind of professional is the right fit for the specific issue."
+   ]
+  },
+  {
+   "heading": "If you're working through an estate or inheritance",
+   "paragraphs": [
+    "Mineral interests that passed through a family estate, sometimes across several generations, often come with incomplete paperwork, and that's one of the more common situations we help owners work through. Tell us what you know about how the interest came to you and we can help identify what county or probate records might fill in the gaps.",
+    "This is also a common point where multiple heirs share an interest and are trying to decide together whether to sell. We're glad to walk through the process with all parties on a call if that's useful."
+   ]
+  },
+  {
+   "heading": "Reaching us about a producing interest specifically",
+   "paragraphs": [
+    "If you're already receiving royalty checks and want to understand your options, it helps to have a recent statement or division order on hand when you reach out, since it lets us give you a more grounded answer right away rather than a general estimate. If you don't have one nearby, that's fine, we can still start the conversation.",
+    "Owners sometimes reach out after noticing a change in their check, a drop in volume, a new deduction line, or a decimal that looks different than expected. Those are all reasonable reasons to get in touch even before deciding anything about a sale."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How quickly will I hear back after reaching out?",
+   "answer": "Typically within one to two business days. If your matter is time-sensitive, let us know up front."
+  },
+  {
+   "question": "Do I need documents ready before I contact you?",
+   "answer": "No, reach out with whatever you have, even if that's just a general sense of the county and how you came to own the interest."
+  },
+  {
+   "question": "Can you help even if I'm not ready to sell?",
+   "answer": "Yes, we're glad to answer general questions about your interest, documents, or the process without any expectation that you'll sell."
+  },
+  {
+   "question": "What if multiple family members share the interest?",
+   "answer": "That's common with inherited minerals. We can walk through the process with all involved parties together if that's helpful."
+  },
+  {
+   "question": "Can you help with a title or tax question directly?",
+   "answer": "We can explain generally how these issues typically work, but for actual legal or tax advice we'll point you to your own attorney or CPA."
+  },
+  {
+   "question": "What's the best way to reach you if my question isn't about selling?",
+   "answer": "Reach out the same way, through this contact page, and describe what you're trying to figure out. We field plenty of questions unrelated to a sale, from reading a statement to tracking down an old deed."
+  },
+  {
+   "question": "Do you cover interests outside the DJ Basin as well?",
+   "answer": "Yes, we field inquiries from owners across Colorado's producing counties, not only the Front Range, including the Piceance and San Juan basins."
+  },
+  {
+   "question": "Can I call instead of using the contact form?",
+   "answer": "Yes, if a phone number is listed, feel free to call directly. Some owners find it easier to explain a complicated family ownership situation out loud rather than typing it out."
+  },
+  {
+   "question": "What if I already talked to another buyer and want a second opinion?",
+   "answer": "That's a common reason to reach out, and we're glad to review an offer you've already received and explain how our own evaluation compares."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightscolorado-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "eaton-co",
+ "title": "Sell Mineral Rights in Eaton, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Weld",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights eaton co",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Eaton, CO | Weld County DJ Basin",
+ "metaDescription": "Own minerals near Eaton in Weld County's Wattenberg core? Get a direct offer priced off your decline curve. No listing, no waiting on a broker.",
+ "heroLead": "Selling a Weld County mineral interest near Eaton is a straightforward process once title is confirmed, and most owners are surprised how few steps it actually takes.",
+ "intro": [
+  "Eaton sits inside the Wattenberg field, the productive core of the Denver-Julesburg Basin, where Niobrara and Codell horizontal wells have been drilled in dense multi-well units for over a decade. If you own minerals here, there is a strong chance you are already receiving, or have received, royalty checks from an active unit.",
+  "Here is what actually happens when you sell to us: we confirm your net revenue interest against county and operator records, pull your production history, price the interest off a decline curve applied to that history, and send a written offer. No listing period, no marketing to multiple buyers, no waiting on a broker's schedule."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: confirming what you own",
+   "paragraphs": [
+    "We start with your deed and, if available, your division order. Those two documents establish your exact fractional interest and which unit or units it sits in. If you cannot locate paperwork, we pull recorded instruments from the Weld County Clerk and Recorder, since Weld County's oil and gas records are extensive and well indexed."
+   ]
+  },
+  {
+   "heading": "Step two: pricing off decline, not guesswork",
+   "paragraphs": [
+    "Wattenberg wells typically show steep first-year decline followed by a long, flatter tail. We fit that curve to your actual check stub history to project remaining value, then price accordingly. This is why two neighboring interests can price differently even at the same net revenue interest, depending on when each well was drilled."
+   ]
+  },
+  {
+   "heading": "Step three: closing",
+   "paragraphs": [
+    "Once you accept an offer, we prepare the assignment and title documents, you sign, and we handle recording with the county. Eaton-area closings typically run two to four weeks depending on how quickly title comes back clean."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do you calculate my offer?",
+   "answer": "We apply a decline curve to your trailing production from division order or check stub data, then price against current comparable Wattenberg sales."
+  },
+  {
+   "question": "Will selling affect my current royalty checks before closing?",
+   "answer": "No, you continue receiving royalties until the sale closes and the assignment is recorded."
+  },
+  {
+   "question": "What if my well has already declined significantly?",
+   "answer": "It still has value, just less than a newer well. We price the remaining production tail rather than assuming peak output continues."
+  },
+  {
+   "question": "Do I need to involve the operator in the sale?",
+   "answer": "Not to sell. Once closed, we notify the operator of record so future royalty payments are redirected to us."
+  }
+ ],
+ "wordCount": 443
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "mead-co",
+ "title": "Sell Mineral Rights in Mead, CO",
+ "type": "city",
+ "kind": "city",
+ "county": "Weld",
+ "group": "DJ Basin",
+ "primaryKeyword": "sell mineral rights mead co",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Mead, CO | Weld County Pad Density",
+ "metaDescription": "Own minerals near Mead, CO? We track the tight well-pad density around this Wattenberg field town before quoting your interest against real production.",
+ "heroLead": "Mead is a small Weld County town that sits inside some of the highest well-pad density in the Wattenberg field, where quiet farmland has coexisted with heavy drilling for over a decade.",
+ "intro": [
+  "If you hold minerals near Mead, there's a strong chance your acreage sits inside a spacing unit that's been drilled and redrilled as operators consolidated older leases into large multi-well pads. This part of Weld County has seen some of the densest development in the entire DJ Basin, and that density is exactly why understanding which specific well or wells your interest ties to matters so much."
+ ],
+ "sections": [
+  {
+   "heading": "Reading a Mead-area division order",
+   "paragraphs": [
+    "With so many wells packed into this stretch of Weld County, a single mineral interest can end up allocated across several units depending on how the original lease and later pooling orders were structured. Division order statements list the well name and your decimal interest, but they don't always make clear how that number was calculated — which is something we verify against COGCC unit records before quoting.",
+    "Because pad development here has often happened in phases, some Mead-area interests receive royalty from an older, more depleted well while a newer well on the same pad is still climbing its decline curve. Knowing which situation applies to you changes the number significantly."
+   ]
+  },
+  {
+   "heading": "What we check first",
+   "paragraphs": [
+    "Your legal description gets matched against every well and unit COGCC shows for that section, and we pull production history for each one tied to your interest so the quote reflects your actual, current royalty stream rather than an average for the area."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my division order list more than one well?",
+   "answer": "Common in dense pad areas like Mead, where a single spacing unit can be produced by several wellbores drilled from the same surface location at different times."
+  },
+  {
+   "question": "Is denser drilling better or worse for my mineral value?",
+   "answer": "Generally better for near-term royalty income since more wells means more current production, though it also means the ground has less remaining undeveloped upside."
+  },
+  {
+   "question": "How current does my division order need to be to get a quote?",
+   "answer": "Recent statements help, but even without one we can pull current COGCC production data directly using your legal description."
+  },
+  {
+   "question": "Why do neighboring Mead interests sometimes sell for very different amounts?",
+   "answer": "Even close neighbors can sit in different spacing units with wells at different points on their decline curve, which is exactly why we quote off the specific unit tied to your acreage rather than a town-wide average."
+  }
+ ],
+ "status": "written",
+ "wordCount": 448,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-mead-co.jpg",
+  "alt": "Sell Mineral Rights in Mead, CO location",
+  "width": 1600,
+  "height": 1000
+ }
+}
