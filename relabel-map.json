@@ -162,6 +162,11 @@
       "[id*=cookie]",
       "[class*=consent]",
       ".mod-popup",
+      ".mod-fab",
+      ".l-footer > .mod-contact",
+      "#fileUploadForm",
+      "#fileUploadIframe",
+      "#esw_storage_iframe",
       ".embeddedServiceHelpButton",
       ".grecaptcha-badge"
     ],
@@ -184,6 +189,7 @@
     "group_class": "col-12 col-md-6 form-field form-field--textfield"
   },
   "pages": {
+    "legal_template": "slug",
     "home": {
       "signature": [
         ".mod-videostage",
@@ -505,6 +511,9 @@
       "skip_related_in_prose": true,
       "skip_detail_cta_in_prose": true,
       "semantic_title_selector": ".mod-page-intro__headline",
+      "not_found_slot": "article.mod-text",
+      "not_found_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightscolorado-com.jpg",
+      "not_found_shell_html": "<div class=\"container\"><div class=\"row\"><div class=\"col-md-10 col-lg-8\"><h2>{title}</h2><p>{body}</p>{links}</div></div></div>",
       "repair_css": "article.mod-text .col-md-10.col-lg-8{display:block!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin:0 auto!important;padding:0!important;color:#24262a!important}article.mod-text [data-rr-prose=detail]{color:#24262a!important}article.mod-text [data-rr-prose=detail] h2,article.mod-text [data-rr-prose=detail] h3,article.mod-text [data-rr-prose=detail] p,article.mod-text [data-rr-prose=detail] li{color:#24262a!important;opacity:1!important;visibility:visible!important;writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}.mod-page-intro__media img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important}"
     },
     "about": {
@@ -574,7 +583,7 @@
       "field_clear_selector": ".form-field:not(.form-field--submit),.m-form-error-placeholder,.js-honeypot,input[type=hidden]",
       "submit_label": "Request a Colorado Review",
       "semantic_title_selector": ".mod-page-intro__headline",
-      "repair_css": "form.mod-form{display:block!important;box-sizing:border-box!important;width:min(1100px,calc(100vw - 48px))!important;margin:clamp(48px,7vw,96px) auto!important;padding:clamp(28px,5vw,64px)!important;background:#ececeb!important}form.mod-form .row.h-equalize-height{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:20px!important}form.mod-form .form-field{display:block!important;width:auto!important;max-width:none!important;padding:0!important}form.mod-form .form-field:nth-last-child(2),form.mod-form .form-field--submit{grid-column:1/-1!important}form.mod-form textarea.a-input__field{min-height:180px!important}form.mod-form .form-field--submit button{display:inline-flex!important;min-height:52px!important;padding:0 24px!important;background:#e30613!important;color:#fff!important;border:0!important}@media(max-width:720px){form.mod-form .row.h-equalize-height{grid-template-columns:1fr!important}form.mod-form .form-field{grid-column:1!important}}"
+      "repair_css": "form.mod-form{display:block!important;box-sizing:border-box!important;width:min(1100px,calc(100vw - 48px))!important;margin:clamp(48px,7vw,96px) auto!important;padding:clamp(28px,5vw,64px)!important;background:#ececeb!important}form.mod-form .row.h-equalize-height{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:20px!important}form.mod-form .form-field{display:block!important;width:auto!important;max-width:none!important;padding:0!important}form.mod-form .form-field:nth-last-child(2),form.mod-form .form-field--submit{grid-column:1/-1!important}form.mod-form textarea.a-input__field{min-height:180px!important}form.mod-form .form-field--submit button{display:inline-flex!important;min-height:52px!important;padding:0 24px!important;background:#e30613!important;color:#fff!important;border:0!important}body#layout-swisslog form#contact-form button.rr-contact-submit{color:#fff!important}@media(max-width:720px){form.mod-form .row.h-equalize-height{grid-template-columns:1fr!important}form.mod-form .form-field{grid-column:1!important}}"
     }
   },
   "final_repair_css": "html,body{font-family:'Nexa for Swisslog',Arial,sans-serif!important}body{color:#24262a!important}main{overflow:visible!important}.rr-footer-ia{display:none!important}a[href='#'],a[href='']{pointer-events:none!important}.mod-page-intro__text,.mod-page-intro__text *{writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}.mod-page-intro__headline{white-space:normal!important;max-width:17ch!important}.rr-burger span{position:absolute!important;left:12px!important;width:20px!important;height:2px!important;background:currentColor!important}.rr-burger span:nth-child(1){top:14px!important}.rr-burger span:nth-child(2){top:21px!important}.rr-burger span:nth-child(3){top:28px!important}"
