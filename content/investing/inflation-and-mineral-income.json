@@ -2,9 +2,37 @@
  "slug": "inflation-and-mineral-income",
  "title": "Inflation and Mineral Income",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Understand why mineral income is not a simple inflation hedge and how commodity prices, well decline, deductions, timing, and ownership affect real Colorado royalty cash flow.",
+ "heroLead": "Mineral income can respond to commodity prices, but physical decline, deductions, taxes, timing, and operator decisions prevent it from behaving like a fixed inflation-linked payment.",
+ "sections": [
+  {
+   "heading": "Do Not Confuse Higher Prices With Higher Real Income",
+   "body": [
+    "Oil and gas revenue may rise when realized commodity prices increase, but the owner is paid on both price and volume. A mature well can sell product at a higher price while producing fewer barrels or less gas, leaving the royalty check flat or lower. Product differentials, basis conditions, contract terms, taxes, and post-production charges can further separate a local statement from a headline benchmark price.",
+    "An inflation discussion should therefore start with the property ledger, not a broad commodity chart. The review should compare monthly production, realized sales prices, deductions, and net revenue over the same period. Nominal payment growth can then be separated from changes caused by a new well, a suspense release, a workover, downtime, or a different ownership decimal."
+   ]
+  },
+  {
+   "heading": "Model Purchasing Power With Decline and Timing Visible",
+   "body": [
+    "A producing interest is a depleting asset. Existing wells typically decline, while possible future wells depend on permits, operator capital, spacing, lease rights, and economics. A forecast that assumes price inflation but holds volumes constant can materially overstate future cash flow. Base and downside cases should allow both prices and production to move and should show whether deductions rise with revenue or remain partly fixed.",
+    "Mineral ownership can still add a distinct commodity-linked return stream to a portfolio, but that is different from guaranteeing protection against inflation. Taxes, liquidity, concentration, title risk, and the uncertain timing of development belong in the same decision file before an investor relies on an inflation thesis."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Do royalty checks automatically rise with inflation?", "a": "No. Realized commodity prices are only one input; production decline, downtime, deductions, taxes, product mix, and decimal changes also affect the payment."},
+  {"q": "Why can headline oil prices differ from the price on a statement?", "a": "Local differentials, sales timing, quality, transportation, contract terms, and payor accounting can separate the realized price from a published benchmark."},
+  {"q": "Should an inflation case assume flat production?", "a": "Not without evidence. Existing-well decline and uncertain future development should remain visible in every price scenario."}
+ ],
+ "internalLinks": [
+  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"},
+  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"},
+  {"anchor": "Risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-inflation-and-mineral-income-sellmineralrightscolorado-com.jpg",
   "alt": "Inflation and Mineral Income mineral rights",

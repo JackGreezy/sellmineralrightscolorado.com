@@ -2,9 +2,37 @@
  "slug": "passive-royalty-income",
  "title": "Passive Royalty Income",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Learn what passive Colorado royalty income requires after acquisition, including title, division orders, statement review, payor changes, taxes, decline, and future conveyance records.",
+ "heroLead": "Royalty income can arrive without operating the well, but the property, payor, statement, tax, and title records still need disciplined ownership administration.",
+ "sections": [
+  {
+   "heading": "Passive Does Not Mean Unmonitored",
+   "body": [
+    "A royalty owner generally does not select the drilling plan or fund routine well operations, but must still confirm the interest was transferred correctly and placed in pay status. Division orders, tax forms, owner-relations notices, address changes, suspense letters, transfer orders, and royalty statements should be retained with the deed and lease. A missed request or stale payor record can delay money even when the well continues producing.",
+    "Each statement should be reviewed for the well, product, sales month, reported volume, realized price, owner decimal, taxes, deductions, adjustments, and net amount. Periodic comparison with public production records can identify a shut-in, reporting lag, or unexplained difference. That review is administrative rather than operational, but it is still part of owning the asset."
+   ]
+  },
+  {
+   "heading": "Expect Uneven Income and a Declining Asset Base",
+   "body": [
+    "Royalty income is not fixed. Existing wells decline, commodity prices move, deductions change, and operators can shut in, recomplete, sell, or abandon properties. New wells may create additional revenue, but permits and offsets do not guarantee timing or participation. A reserve for taxes and professional review can be prudent when payments are irregular or ownership is spread across multiple states and payors.",
+    "Estate planning and future sale also require active records. Heirs and buyers need the recorded deed, legal descriptions, ownership schedule, leases, division orders, statements, payor contacts, and any unresolved title correspondence. Keeping that file current is what allows an otherwise passive cash-flow interest to move cleanly through a later transfer."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Does a royalty owner pay drilling costs?", "a": "A standard royalty interest is generally free of routine drilling and operating costs, but deductions, taxes, and the exact creating documents still matter."},
+  {"q": "Why would a producing royalty be placed in suspense?", "a": "Title questions, missing transfer documents, ownership disputes, returned mail, or incomplete tax information can cause a payor to suspend funds."},
+  {"q": "How often should statements be reviewed?", "a": "Review every statement when practical and reconcile several months together so volume, price, deductions, adjustments, and decline can be seen in context."}
+ ],
+ "internalLinks": [
+  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"},
+  {"anchor": "Royalty statements guide", "slug": "resources/royalty-statements-guide"},
+  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"}
+ ],
  "primaryKeyword": "passive royalty income",
  "seo": {
   "vol": 20,

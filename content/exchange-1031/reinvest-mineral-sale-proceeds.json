@@ -2,9 +2,37 @@
  "slug": "reinvest-mineral-sale-proceeds",
  "title": "Reinvesting Your Mineral Sale Proceeds",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Plan how to reinvest mineral sale proceeds by comparing a potential 1031 exchange with taxable reinvestment, liquidity needs, replacement diligence, basis, and timing.",
+ "heroLead": "Reinvestment begins with the owner’s after-sale objective: maintain real-property exposure through a qualifying exchange, accept current tax and invest freely, or combine both deliberately.",
+ "sections": [
+  {
+   "heading": "Separate Exchange Proceeds From Ordinary Reinvestment",
+   "body": [
+    "A Section 1031 plan requires qualifying real property, investment or business use, controlled proceeds, identification, acquisition, and consistent taxpayer and transaction documents. Ordinary reinvestment after a taxable sale offers broader control over cash and asset selection but does not retroactively create an exchange. The choice should be made with a qualified intermediary and independent tax counsel before the mineral sale closes.",
+    "The decision schedule should show expected sale price, basis, debt, selling costs, net proceeds, estimated taxes, required liquidity, replacement value, financing, adviser fees, and timing. It should also compare the owner’s desired income, management burden, diversification, holding period, estate plan, and ability to complete diligence under the exchange calendar."
+   ]
+  },
+  {
+   "heading": "Do Not Let the Tax Structure Choose the Investment",
+   "body": [
+    "Replacement real estate or minerals should be evaluated on their own title, cash flow, risk, cost, and exit evidence. For mineral interests, that means reconciling tracts, recorded fractions, lease burdens, division orders, statements, production, decline, deductions, operator concentration, undeveloped inventory, and title exceptions. A compressed deadline can amplify weak underwriting if backup candidates are not prepared.",
+    "If part of the proceeds must remain available, a partial exchange may deserve professional analysis. If the owner chooses a taxable sale, the after-tax amount can be compared with other investments without the identification and acquisition limits. Neither path should be marketed as universally superior; the right structure depends on the actual property and owner objectives."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Can mineral sale proceeds be invested after closing and still become a 1031 exchange?", "a": "Ordinary post-closing reinvestment generally does not repair an exchange that lacked the required intermediary and proceeds-control structure before the sale."},
+  {"q": "Must replacement property produce the same type of income?", "a": "Like-kind rules concern qualifying real property rather than identical cash-flow patterns, but the exact properties and investment purpose require professional review."},
+  {"q": "What if no acceptable replacement can be found?", "a": "The owner should discuss backup identification, partial exchange, or taxable-sale alternatives before the deadlines force an unsupported acquisition."}
+ ],
+ "internalLinks": [
+  {"anchor": "Is a 1031 right for you", "slug": "exchange-1031/is-a-1031-right-for-you"},
+  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"},
+  {"anchor": "Mineral rights as an investment", "slug": "investing/mineral-rights-as-an-investment"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-reinvest-mineral-sale-proceeds-sellmineralrightscolorado-com.jpg",
   "alt": "Reinvesting Your Mineral Sale Proceeds mineral rights",

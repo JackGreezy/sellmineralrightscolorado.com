@@ -2,9 +2,37 @@
  "slug": "qualified-intermediary-basics",
  "title": "Qualified Intermediaries, Explained",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Understand the qualified intermediary’s role in a deferred 1031 exchange, including the written agreement, proceeds control, disqualified persons, deadlines, and document coordination.",
+ "heroLead": "The qualified intermediary is not a late-stage wire service; the written exchange agreement and permitted control of proceeds must be in place before the relinquished transfer.",
+ "sections": [
+  {
+   "heading": "Establish the Exchange Relationship Before Closing",
+   "body": [
+    "In a deferred exchange, a qualified intermediary enters a written agreement and participates in the transfer of the relinquished and replacement properties as provided by the applicable safe-harbor rules. The intermediary cannot be a disqualified person, and the taxpayer’s rights to receive, pledge, borrow, or otherwise benefit from the proceeds are restricted during the exchange period. The exact agreement should be reviewed before the relinquished closing.",
+    "The intermediary coordinates the exchange documents, receives closing information, holds or directs permitted funds, receives the identification notice, and supplies replacement-acquisition instructions. The intermediary does not replace the owner’s CPA, tax counsel, real-estate counsel, title reviewer, mineral evaluator, lender, or investment adviser. Responsibilities should be assigned rather than assumed."
+   ]
+  },
+  {
+   "heading": "Coordinate the Mineral File With the Intermediary File",
+   "body": [
+    "The purchase agreement, legal descriptions, taxpayer and vesting, tract schedule, mineral deed, settlement statement, effective date, retained interests, receivables, and price allocations should reach the intermediary early enough for questions to be resolved. The identified replacement description should match the property the taxpayer intends to acquire.",
+    "Mineral title and production diligence continue on a separate track. A qualified intermediary does not verify the net mineral acres, lease royalty, paid decimal, well decline, title exceptions, or future-development assumptions. Those findings can still determine whether the candidate should remain in the exchange plan before the acquisition deadline."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Can the seller choose a qualified intermediary after closing?", "a": "That is generally too late for a standard deferred exchange because the exchange agreement and proceeds-control structure should exist before the relinquished transfer."},
+  {"q": "Does the intermediary decide whether mineral rights qualify?", "a": "The intermediary administers the exchange process. Qualification and tax conclusions should be reviewed with independent tax and legal professionals."},
+  {"q": "Does the intermediary perform mineral title diligence?", "a": "No. The tract, ownership, lease, production, and title review remains a separate acquisition function."}
+ ],
+ "internalLinks": [
+  {"anchor": "45- and 180-day deadlines", "slug": "exchange-1031/45-and-180-day-deadlines"},
+  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
+  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-qualified-intermediary-basics-sellmineralrightscolorado-com.jpg",
   "alt": "Qualified Intermediaries, Explained mineral rights",

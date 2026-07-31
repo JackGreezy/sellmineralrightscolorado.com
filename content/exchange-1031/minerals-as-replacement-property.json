@@ -2,9 +2,37 @@
  "slug": "minerals-as-replacement-property",
  "title": "Minerals as 1031 Replacement Property",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Evaluate mineral rights as potential 1031 replacement property through real-property eligibility, tract title, investment intent, production, decline, lease burdens, and acquisition scope.",
+ "heroLead": "A mineral interest can be considered as replacement property only after the exchange team confirms qualification and the acquisition team confirms exactly what the deed will deliver.",
+ "sections": [
+  {
+   "heading": "Define the Replacement Real Property Precisely",
+   "body": [
+    "Mineral transactions can convey fee mineral rights, royalty rights, overriding interests, leasehold rights, working interests, depth-limited rights, receivables, equipment, or contractual claims. Those labels are not interchangeable for title, economics, or tax treatment. The qualified intermediary and independent tax counsel should review the specific state-law property interest, holding purpose, acquisition documents, and any non-real-property components before it is relied upon in an exchange.",
+    "The identification and acquisition file should use a consistent property description across the notice, purchase agreement, tract schedule, deed, settlement statement, and intermediary instructions. County, legal description, fraction, net mineral acres, depths, formations, lease burden, retained rights, effective date, and receivable treatment should not change silently between documents."
+   ]
+  },
+  {
+   "heading": "Underwrite Income and Inventory Before the Clock Controls the Decision",
+   "body": [
+    "Producing minerals require statements, division orders, monthly volumes, prices, deductions, downtime, decline, operator history, and the paid decimal. Non-producing value requires lease status, permits, offsets, spacing, infrastructure, formation position, title, operator activity, and realistic development timing. Neither a recent check nor a nearby permit should substitute for a tract-level schedule.",
+    "Replacement diligence should also test concentration, liquidity, tax reporting, title curative items, seller authority, and closing readiness. The exchange periods can leave little time to replace a failed candidate, so backup property strategy and clear contract contingencies should be coordinated before identification whenever possible."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Are mineral rights always real property for a 1031 exchange?", "a": "No blanket assumption is appropriate. The exact interest, creating documents, state law, holding purpose, and transaction components need qualified tax and legal review."},
+  {"q": "Can producing and non-producing interests be identified together?", "a": "They may be part of one acquisition, but the identification and closing documents must describe the property accurately and the economic lines should be underwritten separately."},
+  {"q": "What makes a mineral candidate closing-ready?", "a": "Clear seller authority, usable title evidence, consistent legal descriptions, resolved scope, documented production, agreed terms, and coordinated intermediary instructions."}
+ ],
+ "internalLinks": [
+  {"anchor": "1031 exchange into mineral rights", "slug": "exchange-1031/1031-exchange-into-mineral-rights"},
+  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
+  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"}
+ ],
  "primaryKeyword": "1031 replacement property",
  "seo": {
   "vol": 140,

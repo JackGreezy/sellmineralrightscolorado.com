@@ -2,9 +2,37 @@
  "slug": "risks-of-mineral-investing",
  "title": "The Real Risks of Mineral Investing",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Review the material risks of Colorado mineral investing, including title, decline, commodity prices, operator control, deductions, concentration, regulation, taxes, and liquidity.",
+ "heroLead": "The strongest mineral underwriting does not hide uncertainty; it names the tract-level risks, assigns evidence to each one, and shows what changes the decision.",
+ "sections": [
+  {
+   "heading": "Start With Risks That Can Change the Property Itself",
+   "body": [
+    "Title can alter the interest before any production forecast is considered. Reservations, assignments, probate gaps, trust authority, depth limitations, lease burdens, unit allocation, conflicting division orders, and net-acre estimates can change what the buyer actually receives. A title assumption should be tied to a tract and a proposed remedy rather than buried inside a portfolio discount.",
+    "Producing assets add decline, downtime, mechanical failure, operator changes, commodity prices, product differentials, taxes, deductions, and payor accounting. Undeveloped assets add permit, spacing, lease-expiration, infrastructure, geology, capital-allocation, regulatory, and development-timing risk. A nearby well or permit can support context without guaranteeing a future revenue line."
+   ]
+  },
+  {
+   "heading": "Make Concentration and Exit Risk Visible",
+   "body": [
+    "A package can be concentrated in one operator, well, formation, county, product, payor, title chain, or regulatory regime even when it includes many tracts. The production ledger and inventory schedule should show those dependencies. Downside cases should identify which cash-flow or inventory line changes if a major well declines faster, a permit is delayed, or a title exception removes acreage.",
+    "Mineral interests are also individually negotiated assets. Resale timing, buyer appetite, title readiness, documentation, and transaction costs can limit liquidity. Tax treatment and estate consequences depend on the owner and transaction. Independent legal, tax, title, engineering, reserve, appraisal, and investment review can be appropriate before acquisition or sale."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "What risk should be checked before production modeling?", "a": "Confirm the recorded interest and title scope first. A forecast cannot compensate for valuing the wrong acreage, fraction, depth, or royalty burden."},
+  {"q": "Can diversification remove operator risk?", "a": "It can reduce concentration if the interests truly span independent operators and assets, but operational and commodity risks remain."},
+  {"q": "Why is resale liquidity uncertain?", "a": "Mineral interests require property-specific title, underwriting, negotiation, and closing. Market appetite and documentation readiness can change the time and price of an exit."}
+ ],
+ "internalLinks": [
+  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
+  {"anchor": "Portfolio diversification", "slug": "investing/portfolio-diversification-with-minerals"},
+  {"anchor": "Mineral appraisal methods", "slug": "resources/mineral-appraisal-methods"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-risks-of-mineral-investing-sellmineralrightscolorado-com.jpg",
   "alt": "The Real Risks of Mineral Investing mineral rights",

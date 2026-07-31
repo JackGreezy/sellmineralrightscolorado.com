@@ -2,9 +2,37 @@
  "slug": "1031-from-farmland-into-minerals",
  "title": "1031 From Farmland Into Minerals",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Evaluate a potential 1031 exchange from investment farmland into mineral rights through property eligibility, vesting, proceeds control, tract diligence, income differences, and timing.",
+ "heroLead": "Moving from farmland into minerals changes the property, income pattern, control, and diligence burden even when a properly structured exchange may defer recognition of gain.",
+ "sections": [
+  {
+   "heading": "Match the Exchange Structure Before Comparing Returns",
+   "body": [
+    "The farmland must be qualifying real property held for investment or productive use rather than primarily for sale, and the proposed mineral interest must be reviewed as qualifying replacement real property. Taxpayer identity and vesting should remain consistent through the relinquished contract, qualified-intermediary agreement, identification notice, replacement contract, deed, and settlement documents. The qualified intermediary and independent tax counsel should be involved before the farmland closes.",
+    "Sale proceeds should remain under the permitted exchange arrangement rather than reaching the taxpayer. Expected debt payoff, net equity, selling costs, replacement value, additional cash, and any non-like-kind property should be scheduled early. A farmland sale can have basis, depreciation, allocation, installment, and state-tax issues that require the owner’s CPA or tax counsel."
+   ]
+  },
+  {
+   "heading": "Compare Farmland Economics With Mineral Economics Honestly",
+   "body": [
+    "Farmland can produce rent, operating income, or appreciation while retaining visible surface control. A royalty interest produces cash only when covered products are sold and the owner is in pay status. Existing wells decline, prices move, deductions and taxes affect net revenue, and future wells depend on operator decisions. The replacement review should not present mineral checks as a fixed substitute for farm rent.",
+    "The mineral file should reconcile each tract, recorded fraction, lease burden, unit allocation, division order, statement, production series, operator, title exception, and undeveloped-inventory assumption. Access, water, improvements, crops, equipment, and other farmland components may not all receive the same exchange treatment, so the relinquished-property allocation also belongs with qualified advisers."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Can operating farmland be exchanged for mineral rights?", "a": "Potentially, but both sides must satisfy Section 1031 requirements and the exact rights and holding purposes need professional review."},
+  {"q": "Will mineral royalties replace farm rent evenly?", "a": "No. Royalty income varies with production, prices, deductions, downtime, decline, and future development."},
+  {"q": "What should be separated from the farmland sale price?", "a": "Land, improvements, crops, equipment, water, contracts, and other components may require distinct allocation and tax analysis."}
+ ],
+ "internalLinks": [
+  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
+  {"anchor": "Reinvesting mineral sale proceeds", "slug": "exchange-1031/reinvest-mineral-sale-proceeds"},
+  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-farmland-into-minerals-sellmineralrightscolorado-com.jpg",
   "alt": "1031 From Farmland Into Minerals mineral rights",

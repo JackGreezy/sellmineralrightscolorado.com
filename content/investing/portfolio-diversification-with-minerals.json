@@ -2,9 +2,37 @@
  "slug": "portfolio-diversification-with-minerals",
  "title": "Diversifying a Portfolio With Minerals",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Evaluate portfolio diversification with Colorado minerals by measuring basin, operator, formation, well, product, payor, title, and development concentration.",
+ "heroLead": "A folder containing many deeds is not automatically diversified; the economic exposure may still depend on one operator, formation, commodity, or mature unit.",
+ "sections": [
+  {
+   "heading": "Measure Concentration Through the Production Ledger",
+   "body": [
+    "The tract count can overstate diversification when several interests participate in the same wells, share one payor, or sit under one operator’s development program. The review should group current revenue by county, basin, operator, formation, well, product, and payor, then identify how much of the normalized cash flow comes from the largest lines. Well vintage and decline stage matter because ten mature wells can behave more like one aging cash-flow stream than ten independent assets.",
+    "Title and lease concentration also belong on the schedule. A common chain-of-title issue, depth limitation, unit dispute, or lease burden can affect multiple tracts at once. Mapping those shared dependencies is more useful than labeling a package diversified simply because the legal descriptions are different."
+   ]
+  },
+  {
+   "heading": "Diversify Scenarios, Not Promises",
+   "body": [
+    "Non-producing acreage can spread geographic or operator exposure, but it adds uncertain timing rather than current cash flow. Permits, offset wells, spacing, infrastructure, lease expirations, and operator capital plans should be reviewed tract by tract. Possible inventory should not be counted as though every location will be drilled during the same forecast period.",
+    "Minerals can add a return stream that behaves differently from conventional securities, yet the portfolio remains exposed to commodity cycles, physical decline, regulatory decisions, taxes, liquidity, and title. A diversification decision should compare those risks with the investor’s other holdings and should use independent investment, tax, and legal review when appropriate."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "How many tracts make a mineral portfolio diversified?", "a": "There is no fixed number. Measure revenue and inventory concentration by operator, well, basin, formation, product, payor, title chain, and development timing."},
+  {"q": "Does acreage in multiple counties remove commodity risk?", "a": "No. Geographic spread may reduce local concentration, but oil and gas prices, decline, deductions, and macro demand can affect the entire portfolio."},
+  {"q": "Should undeveloped acreage count as diversification?", "a": "It can add distinct inventory exposure, but its probability and timing should remain separate from producing cash flow."}
+ ],
+ "internalLinks": [
+  {"anchor": "Direct minerals versus royalty funds", "slug": "investing/minerals-vs-royalty-funds"},
+  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
+  {"anchor": "Risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-portfolio-diversification-with-minerals-sellmineralrightscolorado-com.jpg",
   "alt": "Diversifying a Portfolio With Minerals mineral rights",

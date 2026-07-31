@@ -2,9 +2,37 @@
  "slug": "defer-taxes-on-your-mineral-sale",
  "title": "Defer Taxes on Your Mineral Sale",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Review whether a mineral sale may fit a Section 1031 plan through real-property classification, investment intent, proceeds control, basis, replacement value, and professional tax advice.",
+ "heroLead": "Tax deferral is a transaction structure, not a price feature; it depends on the exact interest sold, how it was held, how funds move, and what qualifying property is acquired.",
+ "sections": [
+  {
+   "heading": "Confirm What Is Being Sold and Why It Was Held",
+   "body": [
+    "Section 1031 applies to qualifying real property held for investment or productive business use and does not apply merely because a transaction involves land or minerals. Mineral deeds, royalty interests, leases, working interests, receivables, equipment, and contractual payment rights may not all receive the same treatment. The deed chain, lease position, sale scope, effective date, retained rights, and holding purpose should be reviewed with independent tax and legal advisers before closing.",
+    "A mineral buyer can supply the purchase agreement, tract schedule, legal descriptions, title assumptions, price allocation, deed, settlement figures, and funding sequence. The owner’s advisers determine whether the interest and transaction qualify, how basis is allocated, whether depreciation or depletion issues apply, and how federal and state rules affect the intended result."
+   ]
+  },
+  {
+   "heading": "Model Deferral as a Basis and Cash-Flow Decision",
+   "body": [
+    "A qualifying exchange generally defers recognition rather than erasing gain. The replacement property’s basis and later disposition can carry forward consequences from the relinquished property. Money or other non-like-kind property received in the exchange, debt differences, retained proceeds, or inconsistent taxpayer identity can affect recognized gain and should be modeled from the actual closing figures.",
+    "The qualified intermediary must be engaged before proceeds become available to the taxpayer. The file should compare sale price, debt, equity, exchange expenses, expected replacement value, identification timing, acquisition costs, and backup properties. Tax savings should never be used to excuse weak mineral title or an unsupported royalty forecast."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Does a 1031 exchange permanently eliminate tax on a mineral sale?", "a": "Generally it defers eligible gain and carries basis consequences into the replacement property. The final result depends on the full tax history and later transactions."},
+  {"q": "Can sale proceeds be deposited into the owner’s account first?", "a": "That can create actual or constructive receipt. A qualified intermediary should structure control of funds before the relinquished closing."},
+  {"q": "Does selling a mineral interest automatically qualify as a real-property exchange?", "a": "No. The exact recorded rights, holding purpose, transaction components, and applicable law require professional review."}
+ ],
+ "internalLinks": [
+  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"},
+  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"},
+  {"anchor": "Reinvesting mineral sale proceeds", "slug": "exchange-1031/reinvest-mineral-sale-proceeds"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-defer-taxes-on-your-mineral-sale-sellmineralrightscolorado-com.jpg",
   "alt": "Defer Taxes on Your Mineral Sale mineral rights",

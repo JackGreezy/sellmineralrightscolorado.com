@@ -2,9 +2,37 @@
  "slug": "45-and-180-day-deadlines",
  "title": "The 45- and 180-Day 1031 Deadlines",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Coordinate the 45-day identification period and 180-day exchange period with Colorado mineral title, tract diligence, contracts, vesting, and closing documents.",
+ "heroLead": "The identification and exchange periods run from the relinquished transfer; mineral title work, production review, financing, and contract drafting must fit inside that federal clock.",
+ "sections": [
+  {
+   "heading": "Treat Day 45 as a Document Deadline",
+   "body": [
+    "In a deferred exchange, replacement property generally must be identified in a signed writing no later than 45 days after transfer of the relinquished property. The identification rules address who receives the notice and how the replacement property is described. For mineral interests, the tract schedule should be detailed enough to match the intended county, legal description, recorded right, fraction, depths, and other scope shown in the acquisition documents.",
+    "Title, lease, production, and seller-authority diligence should begin before the relinquished closing when possible. Waiting until the final identification week can leave the taxpayer choosing among tracts with unresolved ownership or incomplete economic records. The qualified intermediary and tax counsel should control the identification procedure and confirm whether the planned property description satisfies the applicable rules."
+   ]
+  },
+  {
+   "heading": "Schedule Day 180 Against the Tax-Return Due Date",
+   "body": [
+    "Replacement property generally must be received by the earlier of 180 days after the relinquished transfer or the due date, including applicable extensions, of the federal income-tax return for the year of transfer. The 45-day period is part of that exchange period rather than an additional period added in front of it. Weekends and ordinary business closures should not be assumed to extend the deadlines.",
+    "The closing schedule should assign responsibility for title evidence, curative documents, entity approval, financing, deed preparation, settlement figures, qualified-intermediary funding instructions, recording, and final tax records. A mineral buyer can provide tract and transaction documents, but deadline calculations and compliance decisions belong with the intermediary and independent tax professionals."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Does the 180-day period start after the 45-day identification period?", "a": "No. Both generally run from the transfer of the relinquished property, so the identification period falls inside the exchange period."},
+  {"q": "Can the taxpayer change identified property after day 45?", "a": "The identification rules are strict. Any revocation or substitution must comply within the identification period and should be handled by the qualified intermediary and tax counsel."},
+  {"q": "Can the tax-return due date shorten the 180-day period?", "a": "Yes. The exchange period ends on the earlier applicable date, which is why return-extension planning should be discussed with a tax professional."}
+ ],
+ "internalLinks": [
+  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"},
+  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
+  {"anchor": "1031 exchange into mineral rights", "slug": "exchange-1031/1031-exchange-into-mineral-rights"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-45-and-180-day-deadlines-sellmineralrightscolorado-com.jpg",
   "alt": "The 45- and 180-Day 1031 Deadlines mineral rights",

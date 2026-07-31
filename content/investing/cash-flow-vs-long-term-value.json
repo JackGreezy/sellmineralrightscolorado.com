@@ -2,9 +2,37 @@
  "slug": "cash-flow-vs-long-term-value",
  "title": "Cash Flow vs. Long-Term Value",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Compare current Colorado royalty cash flow with the longer-term value of remaining wells, undeveloped acreage, lease rights, and basin inventory.",
+ "heroLead": "A producing mineral interest has at least two economic lines: the cash arriving now and the remaining property rights that may or may not create value later.",
+ "sections": [
+  {
+   "heading": "Read the Current Check Without Capitalizing It Forever",
+   "body": [
+    "Recent royalty statements show the amount paid, but a current check is not a permanent annuity. The review should reconcile the paid decimal, products, realized prices, taxes, deductions, adjustments, downtime, and any suspense release before using the amount as a cash-flow baseline. Monthly production belongs beside the check because a stable payment caused by higher commodity prices can hide falling well volumes.",
+    "A producing Colorado package is better compared through normalized trailing revenue and a well-by-well decline view. One unusual month, a catch-up payment, or a temporary shut-in can distort an annualized number. The underwriting file should identify which revenue is recurring, which is exceptional, and which belongs to a period before the proposed effective date."
+   ]
+  },
+  {
+   "heading": "Keep Remaining Inventory on a Separate Line",
+   "body": [
+    "Long-term value can include remaining production from existing wells plus possible value from permitted locations, offset development, additional benches, or undeveloped acreage. Those components do not carry the same probability. Existing decline evidence can support a current-well forecast; future drilling depends on operator decisions, spacing, permits, lease terms, infrastructure, commodity economics, and regulatory constraints.",
+    "A useful offer comparison states how much weight is assigned to current cash flow and how much depends on possible inventory. That makes it easier to see whether a higher number is compensation for documented property rights or simply a more aggressive assumption about development that has not occurred."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Should the latest royalty check be multiplied by twelve?", "a": "Not by itself. Review several statements with production volumes, prices, deductions, downtime, and adjustments before establishing normalized annual cash flow."},
+  {"q": "Does undeveloped acreage belong in the same value as producing wells?", "a": "It can contribute to total value, but it should remain a separately supported inventory line with its own probability and timing assumptions."},
+  {"q": "Why can two offers value long-term potential differently?", "a": "Buyers may use different decline, commodity-price, development-timing, title-risk, and inventory assumptions. Written scope makes those differences visible."}
+ ],
+ "internalLinks": [
+  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"},
+  {"anchor": "Producing and non-producing interests", "slug": "investing/producing-vs-nonproducing-for-investors"},
+  {"anchor": "Risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-cash-flow-vs-long-term-value-sellmineralrightscolorado-com.jpg",
   "alt": "Cash Flow vs. Long-Term Value mineral rights",

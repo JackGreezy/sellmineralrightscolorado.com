@@ -8946,8 +8946,20 @@
     {
      "slug": "mineral-rights-as-an-investment",
      "name": "Mineral Rights as an Investment",
-     "meta": "",
+     "meta": "Review Colorado mineral rights as an investment through title, royalty cash flow, decline, undeveloped inventory, operator concentration, liquidity, and written acquisition scope.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Mineral rights combine a recorded property interest with commodity-linked cash flow and uncertain development timing, so the investment case must begin at tract level.</p>"
+      },
+      {
+       "title": "Define the Property Before Modeling the Return",
+       "html": "<p>The investment is the exact recorded interest, not the county name or the operator shown on a check. The diligence file should reconcile the legal description, net mineral acres, ownership fraction, depths and formations, lease royalty, reservations, assignments, unit allocation, division orders, and party authorized to convey. A valuation that begins before those facts are aligned can apply precise math to the wrong economic right.</p><p>Producing interests and undeveloped minerals should remain distinguishable even when they are sold together. Producing value can be tested against actual volumes, realized prices, deductions, downtime, decline, and the paid decimal. Undeveloped value depends on lease terms, permits, offsets, spacing, infrastructure, operator activity, regulation, and title. The second line can be valuable without being certain.</p>"
+      },
+      {
+       "title": "Measure Return Against the Risks That Create It",
+       "html": "<p>Mineral returns can be irregular. Well decline, commodity-price exposure, operator control, shut-ins, deduction disputes, tax treatment, title curative work, concentration, and limited resale liquidity can change both timing and amount. Working interests can add operating liabilities that a royalty interest does not carry, while non-participating or overriding interests may be limited by the documents that created them.</p><p>A disciplined acquisition file states the base, downside, and upside assumptions and preserves the source date for each one. It should also identify what the buyer receives, what the seller retains, how pre-closing receivables are handled, which title conditions can change price, and which independent legal, tax, engineering, reserve, appraisal, or investment questions remain outside the buyer’s role.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -8961,14 +8973,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Are mineral rights a passive investment?",
+       "a": "<p>Royalty interests can pay without operating wells, but ownership still requires title, statement, tax, payor, and transaction oversight. Some interest types can carry additional obligations.</p>"
+      },
+      {
+       "q": "What creates most of the uncertainty in a mineral valuation?",
+       "a": "<p>Title scope, well decline, commodity prices, deductions, operator decisions, future development timing, and concentration can materially change an expected return.</p>"
+      },
+      {
+       "q": "Can a nearby permit be counted as future income?",
+       "a": "<p>A permit is evidence of activity, not a guarantee of drilling, completion, unit participation, timing, or commercial production.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      },
+      {
+       "label": "Producing versus non-producing",
+       "href": "/investing/producing-vs-nonproducing-for-investors"
+      },
+      {
+       "label": "Direct minerals versus royalty funds",
+       "href": "/investing/minerals-vs-royalty-funds"
+      }
+     ]
     },
     {
      "slug": "how-to-evaluate-a-mineral-package",
      "name": "How to Evaluate a Mineral Package",
-     "meta": "",
+     "meta": "Evaluate a Colorado mineral package by reconciling title, paid decimals, leases, production, decline, operator concentration, undeveloped inventory, and offer scope.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>A mineral package is not one asset merely because it arrives in one spreadsheet; each tract, interest, well, lease burden, and title exception needs its own line.</p>"
+      },
+      {
+       "title": "Build the Tract and Ownership Schedule First",
+       "html": "<p>The opening schedule should identify every county, legal description, tract, formation or depth limitation, net mineral acre estimate, ownership fraction, lease, royalty burden, producing unit, division order, and payor. If the package contains multiple heirs, entities, or trusts, signing authority and vesting should be documented beside the property rather than left for closing. Duplicate descriptions and inconsistent acre totals should remain visible until reconciled.</p><p>A package summary is useful only after its underlying lines agree. Recorded deeds, probate or trust documents, assignments, reservations, lease exhibits, unit records, and statements may describe the same property differently. The review should note the source and date of each conclusion so later title work can update the relevant tract without silently changing the entire valuation.</p>"
+      },
+      {
+       "title": "Underwrite Production and Inventory Independently",
+       "html": "<p>Producing wells should be evaluated through monthly volumes, product mix, realized prices, deductions, downtime, decline, operator history, and the paid decimal. Non-producing or undeveloped acreage requires a different evidence set: lease status, permits, offsets, spacing, formation position, infrastructure, regulatory limits, and operator activity. A nearby well is context, not a guarantee that the package will be drilled on the same schedule.</p><p>Concentration also matters. One operator, county, formation, payor, or mature well can drive most of a package even when the tract count appears diversified. Base, downside, and upside scenarios should identify the assumptions that change, and the written offer should match the same tracts, fractions, depths, products, receivables, and effective date used in the review.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -8982,14 +9032,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "What is the minimum file needed to start evaluating a package?",
+       "a": "<p>Begin with the tract list, available deeds or probate records, leases, division orders, recent statements, and any existing ownership spreadsheet. Missing records can be scheduled.</p>"
+      },
+      {
+       "q": "Should producing and non-producing tracts use one valuation multiple?",
+       "a": "<p>No. Current production and possible future inventory rely on different evidence, probability, and timing assumptions.</p>"
+      },
+      {
+       "q": "How should title uncertainty appear in an offer?",
+       "a": "<p>The written terms should identify the affected tract, the assumed interest, the curative item, and how price or scope changes if title differs.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Producing versus non-producing interests",
+       "href": "/investing/producing-vs-nonproducing-for-investors"
+      },
+      {
+       "label": "Mineral appraisal methods",
+       "href": "/resources/mineral-appraisal-methods"
+      },
+      {
+       "label": "Division orders explained",
+       "href": "/resources/division-orders-explained"
+      }
+     ]
     },
     {
      "slug": "producing-vs-nonproducing-for-investors",
      "name": "Producing vs. Non-Producing for Investors",
-     "meta": "",
+     "meta": "Compare producing and non-producing Colorado mineral interests through current cash flow, well decline, lease status, permits, offsets, title, timing, and downside risk.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Producing minerals offer evidence that can be measured today; non-producing minerals offer property rights whose future development remains conditional.</p>"
+      },
+      {
+       "title": "Producing Interests Start With Observable Cash Flow",
+       "html": "<p>A producing interest can be tested against royalty statements and public well records. The underwriting file should reconcile the paid decimal, monthly volumes, product mix, realized prices, taxes, deductions, downtime, adjustments, well status, operator history, and decline. Current production reduces one category of uncertainty, but it does not remove commodity exposure, title risk, shut-ins, mechanical failure, or physical depletion.</p><p>Well age and concentration matter. A package supported by one high-rate recent completion has a different risk profile from a package receiving similar revenue across several mature units. A normalized cash-flow line should separate recurring revenue from suspense releases or corrections and should show the effective date used in an acquisition.</p>"
+      },
+      {
+       "title": "Non-Producing Interests Require an Inventory Case",
+       "html": "<p>A non-producing tract may be leased, unleased, held by production elsewhere in a pooled unit, permitted, offset by active drilling, or entirely outside a current operator plan. Those are different positions. Value depends on the exact acreage and depths, lease terms, expiration, spacing, permits, offset performance, infrastructure, formation quality, regulation, operator behavior, and clean title.</p><p>The absence of current checks increases the importance of timing and probability. A buyer should state which evidence supports the inventory value and what happens if drilling is delayed or never occurs. Comparing producing and non-producing interests through one multiple hides the different assumptions that create their prices.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9003,14 +9091,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Are producing minerals always worth more than non-producing minerals?",
+       "a": "<p>Not automatically. Producing interests have measurable cash flow, while a high-quality undeveloped tract may carry significant inventory value. The evidence and scope control.</p>"
+      },
+      {
+       "q": "Does an active lease mean drilling is likely soon?",
+       "a": "<p>No. A lease establishes contractual rights and timing, but operator capital, permits, spacing, economics, and surface constraints still affect development.</p>"
+      },
+      {
+       "q": "What is the main risk in a one-well royalty?",
+       "a": "<p>Revenue concentration. Downtime, decline, mechanical issues, price changes, or unit adjustments affecting one well can move nearly the entire cash-flow line.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Cash flow versus long-term value",
+       "href": "/investing/cash-flow-vs-long-term-value"
+      },
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      },
+      {
+       "label": "Mineral rights as an investment",
+       "href": "/investing/mineral-rights-as-an-investment"
+      }
+     ]
     },
     {
      "slug": "how-royalty-income-works",
      "name": "How Royalty Income Works",
-     "meta": "",
+     "meta": "See how Colorado oil and gas royalty income moves from production and sales through the lease fraction, unit allocation, decimal, deductions, and payor statement.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Royalty income is the owner’s share of reported product sales after the lease, unit, decimal, price, tax, deduction, and adjustment lines are applied.</p>"
+      },
+      {
+       "title": "Trace the Paid Decimal Back to the Recorded Interest",
+       "html": "<p>A royalty statement is the end of a chain that begins with a recorded mineral or royalty interest. The lease royalty, net mineral acres, spacing or pooling allocation, unit participation, depth and product limitations, and any later assignments or reservations affect the decimal used by the payor. A decimal should be reconciled to those records rather than accepted only because it appears repeatedly on a check stub.</p><p>The same owner can receive different decimals from different wells or products when unit boundaries, tract participation, lease burdens, or title conclusions change. Suspense and prior-period adjustments can also move a payment without changing current production. Keeping the division order, lease, deed chain, unit record, and payor statement together makes those differences easier to explain.</p>"
+      },
+      {
+       "title": "Separate Production, Price, and Deductions",
+       "html": "<p>The revenue line generally reflects reported oil, gas, or natural-gas-liquid volumes multiplied by a realized sales price and then by the owner decimal. Taxes, gathering, compression, processing, transportation, marketing charges, and other adjustments may appear before the net amount is paid, depending on the lease language and payor accounting. Statement labels are not always consistent across operators.</p><p>For underwriting, the production ledger should show volumes and revenue by month and product. That prevents a commodity-price rally from being mistaken for stronger well performance and prevents a temporary outage from being treated as permanent decline. The review can then compare the statement to public production records and flag differences that require payor or title follow-up.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9024,14 +9150,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Why did a royalty check change when the ownership decimal did not?",
+       "a": "<p>Production volume, realized price, product mix, deductions, taxes, downtime, and prior-period adjustments can change the payment even when the decimal stays constant.</p>"
+      },
+      {
+       "q": "Is a division-order decimal the same as net mineral acres?",
+       "a": "<p>No. Net mineral acres help describe ownership, while the paid decimal also reflects lease royalty and unit or tract participation.</p>"
+      },
+      {
+       "q": "Can a statement include money from an earlier month?",
+       "a": "<p>Yes. Payors may post suspense releases, corrections, and prior-period adjustments, so the sales month and payment month should be read separately.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Cash flow versus long-term value",
+       "href": "/investing/cash-flow-vs-long-term-value"
+      },
+      {
+       "label": "Passive royalty income",
+       "href": "/investing/passive-royalty-income"
+      },
+      {
+       "label": "Royalty statements guide",
+       "href": "/resources/royalty-statements-guide"
+      }
+     ]
     },
     {
      "slug": "cash-flow-vs-long-term-value",
      "name": "Cash Flow vs. Long-Term Value",
-     "meta": "",
+     "meta": "Compare current Colorado royalty cash flow with the longer-term value of remaining wells, undeveloped acreage, lease rights, and basin inventory.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>A producing mineral interest has at least two economic lines: the cash arriving now and the remaining property rights that may or may not create value later.</p>"
+      },
+      {
+       "title": "Read the Current Check Without Capitalizing It Forever",
+       "html": "<p>Recent royalty statements show the amount paid, but a current check is not a permanent annuity. The review should reconcile the paid decimal, products, realized prices, taxes, deductions, adjustments, downtime, and any suspense release before using the amount as a cash-flow baseline. Monthly production belongs beside the check because a stable payment caused by higher commodity prices can hide falling well volumes.</p><p>A producing Colorado package is better compared through normalized trailing revenue and a well-by-well decline view. One unusual month, a catch-up payment, or a temporary shut-in can distort an annualized number. The underwriting file should identify which revenue is recurring, which is exceptional, and which belongs to a period before the proposed effective date.</p>"
+      },
+      {
+       "title": "Keep Remaining Inventory on a Separate Line",
+       "html": "<p>Long-term value can include remaining production from existing wells plus possible value from permitted locations, offset development, additional benches, or undeveloped acreage. Those components do not carry the same probability. Existing decline evidence can support a current-well forecast; future drilling depends on operator decisions, spacing, permits, lease terms, infrastructure, commodity economics, and regulatory constraints.</p><p>A useful offer comparison states how much weight is assigned to current cash flow and how much depends on possible inventory. That makes it easier to see whether a higher number is compensation for documented property rights or simply a more aggressive assumption about development that has not occurred.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9045,14 +9209,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Should the latest royalty check be multiplied by twelve?",
+       "a": "<p>Not by itself. Review several statements with production volumes, prices, deductions, downtime, and adjustments before establishing normalized annual cash flow.</p>"
+      },
+      {
+       "q": "Does undeveloped acreage belong in the same value as producing wells?",
+       "a": "<p>It can contribute to total value, but it should remain a separately supported inventory line with its own probability and timing assumptions.</p>"
+      },
+      {
+       "q": "Why can two offers value long-term potential differently?",
+       "a": "<p>Buyers may use different decline, commodity-price, development-timing, title-risk, and inventory assumptions. Written scope makes those differences visible.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "How royalty income works",
+       "href": "/investing/how-royalty-income-works"
+      },
+      {
+       "label": "Producing and non-producing interests",
+       "href": "/investing/producing-vs-nonproducing-for-investors"
+      },
+      {
+       "label": "Risks of mineral investing",
+       "href": "/investing/risks-of-mineral-investing"
+      }
+     ]
     },
     {
      "slug": "passive-royalty-income",
      "name": "Passive Royalty Income",
-     "meta": "",
+     "meta": "Learn what passive Colorado royalty income requires after acquisition, including title, division orders, statement review, payor changes, taxes, decline, and future conveyance records.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Royalty income can arrive without operating the well, but the property, payor, statement, tax, and title records still need disciplined ownership administration.</p>"
+      },
+      {
+       "title": "Passive Does Not Mean Unmonitored",
+       "html": "<p>A royalty owner generally does not select the drilling plan or fund routine well operations, but must still confirm the interest was transferred correctly and placed in pay status. Division orders, tax forms, owner-relations notices, address changes, suspense letters, transfer orders, and royalty statements should be retained with the deed and lease. A missed request or stale payor record can delay money even when the well continues producing.</p><p>Each statement should be reviewed for the well, product, sales month, reported volume, realized price, owner decimal, taxes, deductions, adjustments, and net amount. Periodic comparison with public production records can identify a shut-in, reporting lag, or unexplained difference. That review is administrative rather than operational, but it is still part of owning the asset.</p>"
+      },
+      {
+       "title": "Expect Uneven Income and a Declining Asset Base",
+       "html": "<p>Royalty income is not fixed. Existing wells decline, commodity prices move, deductions change, and operators can shut in, recomplete, sell, or abandon properties. New wells may create additional revenue, but permits and offsets do not guarantee timing or participation. A reserve for taxes and professional review can be prudent when payments are irregular or ownership is spread across multiple states and payors.</p><p>Estate planning and future sale also require active records. Heirs and buyers need the recorded deed, legal descriptions, ownership schedule, leases, division orders, statements, payor contacts, and any unresolved title correspondence. Keeping that file current is what allows an otherwise passive cash-flow interest to move cleanly through a later transfer.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9066,14 +9268,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Does a royalty owner pay drilling costs?",
+       "a": "<p>A standard royalty interest is generally free of routine drilling and operating costs, but deductions, taxes, and the exact creating documents still matter.</p>"
+      },
+      {
+       "q": "Why would a producing royalty be placed in suspense?",
+       "a": "<p>Title questions, missing transfer documents, ownership disputes, returned mail, or incomplete tax information can cause a payor to suspend funds.</p>"
+      },
+      {
+       "q": "How often should statements be reviewed?",
+       "a": "<p>Review every statement when practical and reconcile several months together so volume, price, deductions, adjustments, and decline can be seen in context.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "How royalty income works",
+       "href": "/investing/how-royalty-income-works"
+      },
+      {
+       "label": "Royalty statements guide",
+       "href": "/resources/royalty-statements-guide"
+      },
+      {
+       "label": "Cash flow versus long-term value",
+       "href": "/investing/cash-flow-vs-long-term-value"
+      }
+     ]
     },
     {
      "slug": "risks-of-mineral-investing",
      "name": "The Real Risks of Mineral Investing",
-     "meta": "",
+     "meta": "Review the material risks of Colorado mineral investing, including title, decline, commodity prices, operator control, deductions, concentration, regulation, taxes, and liquidity.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>The strongest mineral underwriting does not hide uncertainty; it names the tract-level risks, assigns evidence to each one, and shows what changes the decision.</p>"
+      },
+      {
+       "title": "Start With Risks That Can Change the Property Itself",
+       "html": "<p>Title can alter the interest before any production forecast is considered. Reservations, assignments, probate gaps, trust authority, depth limitations, lease burdens, unit allocation, conflicting division orders, and net-acre estimates can change what the buyer actually receives. A title assumption should be tied to a tract and a proposed remedy rather than buried inside a portfolio discount.</p><p>Producing assets add decline, downtime, mechanical failure, operator changes, commodity prices, product differentials, taxes, deductions, and payor accounting. Undeveloped assets add permit, spacing, lease-expiration, infrastructure, geology, capital-allocation, regulatory, and development-timing risk. A nearby well or permit can support context without guaranteeing a future revenue line.</p>"
+      },
+      {
+       "title": "Make Concentration and Exit Risk Visible",
+       "html": "<p>A package can be concentrated in one operator, well, formation, county, product, payor, title chain, or regulatory regime even when it includes many tracts. The production ledger and inventory schedule should show those dependencies. Downside cases should identify which cash-flow or inventory line changes if a major well declines faster, a permit is delayed, or a title exception removes acreage.</p><p>Mineral interests are also individually negotiated assets. Resale timing, buyer appetite, title readiness, documentation, and transaction costs can limit liquidity. Tax treatment and estate consequences depend on the owner and transaction. Independent legal, tax, title, engineering, reserve, appraisal, and investment review can be appropriate before acquisition or sale.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9087,14 +9327,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "What risk should be checked before production modeling?",
+       "a": "<p>Confirm the recorded interest and title scope first. A forecast cannot compensate for valuing the wrong acreage, fraction, depth, or royalty burden.</p>"
+      },
+      {
+       "q": "Can diversification remove operator risk?",
+       "a": "<p>It can reduce concentration if the interests truly span independent operators and assets, but operational and commodity risks remain.</p>"
+      },
+      {
+       "q": "Why is resale liquidity uncertain?",
+       "a": "<p>Mineral interests require property-specific title, underwriting, negotiation, and closing. Market appetite and documentation readiness can change the time and price of an exit.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      },
+      {
+       "label": "Portfolio diversification",
+       "href": "/investing/portfolio-diversification-with-minerals"
+      },
+      {
+       "label": "Mineral appraisal methods",
+       "href": "/resources/mineral-appraisal-methods"
+      }
+     ]
     },
     {
      "slug": "portfolio-diversification-with-minerals",
      "name": "Diversifying a Portfolio With Minerals",
-     "meta": "",
+     "meta": "Evaluate portfolio diversification with Colorado minerals by measuring basin, operator, formation, well, product, payor, title, and development concentration.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>A folder containing many deeds is not automatically diversified; the economic exposure may still depend on one operator, formation, commodity, or mature unit.</p>"
+      },
+      {
+       "title": "Measure Concentration Through the Production Ledger",
+       "html": "<p>The tract count can overstate diversification when several interests participate in the same wells, share one payor, or sit under one operator’s development program. The review should group current revenue by county, basin, operator, formation, well, product, and payor, then identify how much of the normalized cash flow comes from the largest lines. Well vintage and decline stage matter because ten mature wells can behave more like one aging cash-flow stream than ten independent assets.</p><p>Title and lease concentration also belong on the schedule. A common chain-of-title issue, depth limitation, unit dispute, or lease burden can affect multiple tracts at once. Mapping those shared dependencies is more useful than labeling a package diversified simply because the legal descriptions are different.</p>"
+      },
+      {
+       "title": "Diversify Scenarios, Not Promises",
+       "html": "<p>Non-producing acreage can spread geographic or operator exposure, but it adds uncertain timing rather than current cash flow. Permits, offset wells, spacing, infrastructure, lease expirations, and operator capital plans should be reviewed tract by tract. Possible inventory should not be counted as though every location will be drilled during the same forecast period.</p><p>Minerals can add a return stream that behaves differently from conventional securities, yet the portfolio remains exposed to commodity cycles, physical decline, regulatory decisions, taxes, liquidity, and title. A diversification decision should compare those risks with the investor’s other holdings and should use independent investment, tax, and legal review when appropriate.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9108,14 +9386,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "How many tracts make a mineral portfolio diversified?",
+       "a": "<p>There is no fixed number. Measure revenue and inventory concentration by operator, well, basin, formation, product, payor, title chain, and development timing.</p>"
+      },
+      {
+       "q": "Does acreage in multiple counties remove commodity risk?",
+       "a": "<p>No. Geographic spread may reduce local concentration, but oil and gas prices, decline, deductions, and macro demand can affect the entire portfolio.</p>"
+      },
+      {
+       "q": "Should undeveloped acreage count as diversification?",
+       "a": "<p>It can add distinct inventory exposure, but its probability and timing should remain separate from producing cash flow.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Direct minerals versus royalty funds",
+       "href": "/investing/minerals-vs-royalty-funds"
+      },
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      },
+      {
+       "label": "Risks of mineral investing",
+       "href": "/investing/risks-of-mineral-investing"
+      }
+     ]
     },
     {
      "slug": "inflation-and-mineral-income",
      "name": "Inflation and Mineral Income",
-     "meta": "",
+     "meta": "Understand why mineral income is not a simple inflation hedge and how commodity prices, well decline, deductions, timing, and ownership affect real Colorado royalty cash flow.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Mineral income can respond to commodity prices, but physical decline, deductions, taxes, timing, and operator decisions prevent it from behaving like a fixed inflation-linked payment.</p>"
+      },
+      {
+       "title": "Do Not Confuse Higher Prices With Higher Real Income",
+       "html": "<p>Oil and gas revenue may rise when realized commodity prices increase, but the owner is paid on both price and volume. A mature well can sell product at a higher price while producing fewer barrels or less gas, leaving the royalty check flat or lower. Product differentials, basis conditions, contract terms, taxes, and post-production charges can further separate a local statement from a headline benchmark price.</p><p>An inflation discussion should therefore start with the property ledger, not a broad commodity chart. The review should compare monthly production, realized sales prices, deductions, and net revenue over the same period. Nominal payment growth can then be separated from changes caused by a new well, a suspense release, a workover, downtime, or a different ownership decimal.</p>"
+      },
+      {
+       "title": "Model Purchasing Power With Decline and Timing Visible",
+       "html": "<p>A producing interest is a depleting asset. Existing wells typically decline, while possible future wells depend on permits, operator capital, spacing, lease rights, and economics. A forecast that assumes price inflation but holds volumes constant can materially overstate future cash flow. Base and downside cases should allow both prices and production to move and should show whether deductions rise with revenue or remain partly fixed.</p><p>Mineral ownership can still add a distinct commodity-linked return stream to a portfolio, but that is different from guaranteeing protection against inflation. Taxes, liquidity, concentration, title risk, and the uncertain timing of development belong in the same decision file before an investor relies on an inflation thesis.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9129,14 +9445,52 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Do royalty checks automatically rise with inflation?",
+       "a": "<p>No. Realized commodity prices are only one input; production decline, downtime, deductions, taxes, product mix, and decimal changes also affect the payment.</p>"
+      },
+      {
+       "q": "Why can headline oil prices differ from the price on a statement?",
+       "a": "<p>Local differentials, sales timing, quality, transportation, contract terms, and payor accounting can separate the realized price from a published benchmark.</p>"
+      },
+      {
+       "q": "Should an inflation case assume flat production?",
+       "a": "<p>Not without evidence. Existing-well decline and uncertain future development should remain visible in every price scenario.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "How royalty income works",
+       "href": "/investing/how-royalty-income-works"
+      },
+      {
+       "label": "Cash flow versus long-term value",
+       "href": "/investing/cash-flow-vs-long-term-value"
+      },
+      {
+       "label": "Risks of mineral investing",
+       "href": "/investing/risks-of-mineral-investing"
+      }
+     ]
     },
     {
      "slug": "minerals-vs-royalty-funds",
      "name": "Direct Minerals vs. Royalty Funds",
-     "meta": "",
+     "meta": "Compare direct Colorado mineral ownership with royalty-fund exposure across title control, diversification, fees, liquidity, reporting, tax treatment, and underwriting visibility.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Direct minerals and royalty funds can both provide commodity-linked exposure, but the investor owns, controls, reviews, and exits fundamentally different assets.</p>"
+      },
+      {
+       "title": "Compare the Ownership Layer, Not Only the Yield",
+       "html": "<p>A direct mineral acquisition gives the buyer a recorded interest defined by deeds, reservations, leases, assignments, unit records, and title. The investor can inspect the exact tracts, operators, wells, paid decimals, deductions, and undeveloped inventory, but also carries the burden of diligence, recordkeeping, payor communication, and an individually negotiated sale when liquidity is needed.</p><p>A royalty fund generally pools many interests under a manager or entity structure. The investor evaluates the fund documents, strategy, portfolio reporting, fees, leverage, distribution policy, valuation practice, governance, and redemption or transfer limits rather than receiving title to each underlying tract. Diversification may be broader, but tract-level control and visibility can be different.</p>"
+      },
+      {
+       "title": "Put Fees, Liquidity, and Concentration on the Same Schedule",
+       "html": "<p>Direct ownership can appear fee-light after acquisition, yet title work, administration, tax reporting, legal review, and sale costs still exist. Fund exposure can make reporting and diversification more convenient while adding management fees, carried interests, entity expenses, valuation policies, or lockups. Neither structure removes commodity prices, decline, operator behavior, or development timing from the return.</p><p>A fair comparison should use net cash flow after all costs and should show concentration by basin, operator, formation, well vintage, and producing status. Tax treatment and securities considerations can differ by structure and investor circumstances, so qualified tax, legal, and investment professionals should review the actual documents before an investor treats the alternatives as interchangeable.</p>"
+      },
       {
        "title": "Separate Income Evidence From the Investment Thesis",
        "html": "<p>A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions.</p>"
@@ -9150,8 +9504,34 @@
        "html": "<p>The file should preserve the source date for every production series, statement, price assumption, lease term, ownership fraction, title conclusion, permit, offset, and development scenario used in the review. Base, downside, and upside cases should be labeled as scenarios rather than promises, and the buyer should be able to identify which line changes when volumes, prices, timing, deductions, ownership, or development assumptions move. A clear underwriting trail makes later diligence more useful because new evidence can update the relevant line without rebuilding an unexplained headline number.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Does a royalty fund give the investor title to specific mineral tracts?",
+       "a": "<p>Usually the investor owns an interest in the fund or entity, not direct recorded title to each underlying tract. The governing documents control.</p>"
+      },
+      {
+       "q": "Which option is more liquid?",
+       "a": "<p>It depends on the fund’s redemption or transfer rules and the marketability of the direct interest. Neither should be assumed liquid without reviewing actual terms.</p>"
+      },
+      {
+       "q": "Does pooling eliminate mineral risk?",
+       "a": "<p>No. Pooling can spread tract or operator concentration, but commodity prices, decline, title, fees, leverage, and management decisions still affect outcomes.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Mineral rights as an investment",
+       "href": "/investing/mineral-rights-as-an-investment"
+      },
+      {
+       "label": "Portfolio diversification with minerals",
+       "href": "/investing/portfolio-diversification-with-minerals"
+      },
+      {
+       "label": "Real risks of mineral investing",
+       "href": "/investing/risks-of-mineral-investing"
+      }
+     ]
     }
    ]
   },
@@ -9162,8 +9542,20 @@
     {
      "slug": "is-a-1031-right-for-you",
      "name": "Is a 1031 Exchange Right for You?",
-     "meta": "",
+     "meta": "Decide whether a 1031 exchange belongs in a mineral sale plan by reviewing eligibility, deadlines, replacement goals, liquidity, basis, debt, cost, and execution risk.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>A 1031 exchange can be useful when the property, investment purpose, replacement plan, advisers, funds, and deadlines already fit; it should not be added after closing as a tax rescue.</p>"
+      },
+      {
+       "title": "Test the Property and Timing Before the Strategy",
+       "html": "<p>The first question is whether the exact relinquished interest is qualifying real property held for investment or productive business use. The second is whether suitable replacement real property can be identified and acquired within the applicable periods without sacrificing title quality or investment discipline. A qualified intermediary and independent tax counsel should review those questions before the relinquished closing and before proceeds can reach the taxpayer.</p><p>The proposed taxpayer and vesting should remain consistent, and the schedule should include expected sale value, debt payoff, net equity, transaction costs, replacement value, financing, identification candidates, backups, and the responsible advisers. An owner who needs unrestricted sale proceeds immediately may have a different objective from an owner prepared to keep capital invested in replacement real property.</p>"
+      },
+      {
+       "title": "Compare Deferral With Complexity and Investment Fit",
+       "html": "<p>A qualifying exchange generally defers eligible gain; it does not make basis, tax, or transaction costs disappear. Qualified-intermediary fees, legal and tax advice, title work, financing, compressed diligence, and replacement closing costs belong in the comparison. The owner’s expected holding period, cash needs, estate plan, risk tolerance, and ability to manage the replacement property also matter.</p><p>For mineral replacement property, the file should independently reconcile title, acreage, lease burdens, division orders, production, decline, deductions, operator concentration, and undeveloped inventory. Tax structure should improve a sound transaction, not become the reason to acquire a property that would fail ordinary diligence.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9177,14 +9569,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Who should decide whether the exchange is appropriate?",
+       "a": "<p>The taxpayer should decide with a qualified intermediary and independent tax, legal, and investment advisers using the actual property and financial facts.</p>"
+      },
+      {
+       "q": "What if the owner needs part of the sale proceeds?",
+       "a": "<p>A partial exchange may be possible, but retained money or other non-like-kind value can create recognized gain and needs specific tax modeling.</p>"
+      },
+      {
+       "q": "Is tax deferral enough reason to buy a mineral interest?",
+       "a": "<p>No. The replacement should still meet title, production, risk, liquidity, and return requirements without relying on the tax outcome alone.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "45- and 180-day deadlines",
+       "href": "/exchange-1031/45-and-180-day-deadlines"
+      },
+      {
+       "label": "Partial exchanges and boot",
+       "href": "/exchange-1031/partial-exchange-and-boot"
+      },
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      }
+     ]
     },
     {
      "slug": "qualified-intermediary-basics",
      "name": "Qualified Intermediaries, Explained",
-     "meta": "",
+     "meta": "Understand the qualified intermediary’s role in a deferred 1031 exchange, including the written agreement, proceeds control, disqualified persons, deadlines, and document coordination.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>The qualified intermediary is not a late-stage wire service; the written exchange agreement and permitted control of proceeds must be in place before the relinquished transfer.</p>"
+      },
+      {
+       "title": "Establish the Exchange Relationship Before Closing",
+       "html": "<p>In a deferred exchange, a qualified intermediary enters a written agreement and participates in the transfer of the relinquished and replacement properties as provided by the applicable safe-harbor rules. The intermediary cannot be a disqualified person, and the taxpayer’s rights to receive, pledge, borrow, or otherwise benefit from the proceeds are restricted during the exchange period. The exact agreement should be reviewed before the relinquished closing.</p><p>The intermediary coordinates the exchange documents, receives closing information, holds or directs permitted funds, receives the identification notice, and supplies replacement-acquisition instructions. The intermediary does not replace the owner’s CPA, tax counsel, real-estate counsel, title reviewer, mineral evaluator, lender, or investment adviser. Responsibilities should be assigned rather than assumed.</p>"
+      },
+      {
+       "title": "Coordinate the Mineral File With the Intermediary File",
+       "html": "<p>The purchase agreement, legal descriptions, taxpayer and vesting, tract schedule, mineral deed, settlement statement, effective date, retained interests, receivables, and price allocations should reach the intermediary early enough for questions to be resolved. The identified replacement description should match the property the taxpayer intends to acquire.</p><p>Mineral title and production diligence continue on a separate track. A qualified intermediary does not verify the net mineral acres, lease royalty, paid decimal, well decline, title exceptions, or future-development assumptions. Those findings can still determine whether the candidate should remain in the exchange plan before the acquisition deadline.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9198,14 +9628,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Can the seller choose a qualified intermediary after closing?",
+       "a": "<p>That is generally too late for a standard deferred exchange because the exchange agreement and proceeds-control structure should exist before the relinquished transfer.</p>"
+      },
+      {
+       "q": "Does the intermediary decide whether mineral rights qualify?",
+       "a": "<p>The intermediary administers the exchange process. Qualification and tax conclusions should be reviewed with independent tax and legal professionals.</p>"
+      },
+      {
+       "q": "Does the intermediary perform mineral title diligence?",
+       "a": "<p>No. The tract, ownership, lease, production, and title review remains a separate acquisition function.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "45- and 180-day deadlines",
+       "href": "/exchange-1031/45-and-180-day-deadlines"
+      },
+      {
+       "label": "Minerals as replacement property",
+       "href": "/exchange-1031/minerals-as-replacement-property"
+      },
+      {
+       "label": "Partial exchanges and boot",
+       "href": "/exchange-1031/partial-exchange-and-boot"
+      }
+     ]
     },
     {
      "slug": "45-and-180-day-deadlines",
      "name": "The 45- and 180-Day 1031 Deadlines",
-     "meta": "",
+     "meta": "Coordinate the 45-day identification period and 180-day exchange period with Colorado mineral title, tract diligence, contracts, vesting, and closing documents.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>The identification and exchange periods run from the relinquished transfer; mineral title work, production review, financing, and contract drafting must fit inside that federal clock.</p>"
+      },
+      {
+       "title": "Treat Day 45 as a Document Deadline",
+       "html": "<p>In a deferred exchange, replacement property generally must be identified in a signed writing no later than 45 days after transfer of the relinquished property. The identification rules address who receives the notice and how the replacement property is described. For mineral interests, the tract schedule should be detailed enough to match the intended county, legal description, recorded right, fraction, depths, and other scope shown in the acquisition documents.</p><p>Title, lease, production, and seller-authority diligence should begin before the relinquished closing when possible. Waiting until the final identification week can leave the taxpayer choosing among tracts with unresolved ownership or incomplete economic records. The qualified intermediary and tax counsel should control the identification procedure and confirm whether the planned property description satisfies the applicable rules.</p>"
+      },
+      {
+       "title": "Schedule Day 180 Against the Tax-Return Due Date",
+       "html": "<p>Replacement property generally must be received by the earlier of 180 days after the relinquished transfer or the due date, including applicable extensions, of the federal income-tax return for the year of transfer. The 45-day period is part of that exchange period rather than an additional period added in front of it. Weekends and ordinary business closures should not be assumed to extend the deadlines.</p><p>The closing schedule should assign responsibility for title evidence, curative documents, entity approval, financing, deed preparation, settlement figures, qualified-intermediary funding instructions, recording, and final tax records. A mineral buyer can provide tract and transaction documents, but deadline calculations and compliance decisions belong with the intermediary and independent tax professionals.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9219,14 +9687,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Does the 180-day period start after the 45-day identification period?",
+       "a": "<p>No. Both generally run from the transfer of the relinquished property, so the identification period falls inside the exchange period.</p>"
+      },
+      {
+       "q": "Can the taxpayer change identified property after day 45?",
+       "a": "<p>The identification rules are strict. Any revocation or substitution must comply within the identification period and should be handled by the qualified intermediary and tax counsel.</p>"
+      },
+      {
+       "q": "Can the tax-return due date shorten the 180-day period?",
+       "a": "<p>Yes. The exchange period ends on the earlier applicable date, which is why return-extension planning should be discussed with a tax professional.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Qualified intermediary basics",
+       "href": "/exchange-1031/qualified-intermediary-basics"
+      },
+      {
+       "label": "Minerals as replacement property",
+       "href": "/exchange-1031/minerals-as-replacement-property"
+      },
+      {
+       "label": "1031 exchange into mineral rights",
+       "href": "/exchange-1031/1031-exchange-into-mineral-rights"
+      }
+     ]
     },
     {
      "slug": "defer-taxes-on-your-mineral-sale",
      "name": "Defer Taxes on Your Mineral Sale",
-     "meta": "",
+     "meta": "Review whether a mineral sale may fit a Section 1031 plan through real-property classification, investment intent, proceeds control, basis, replacement value, and professional tax advice.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Tax deferral is a transaction structure, not a price feature; it depends on the exact interest sold, how it was held, how funds move, and what qualifying property is acquired.</p>"
+      },
+      {
+       "title": "Confirm What Is Being Sold and Why It Was Held",
+       "html": "<p>Section 1031 applies to qualifying real property held for investment or productive business use and does not apply merely because a transaction involves land or minerals. Mineral deeds, royalty interests, leases, working interests, receivables, equipment, and contractual payment rights may not all receive the same treatment. The deed chain, lease position, sale scope, effective date, retained rights, and holding purpose should be reviewed with independent tax and legal advisers before closing.</p><p>A mineral buyer can supply the purchase agreement, tract schedule, legal descriptions, title assumptions, price allocation, deed, settlement figures, and funding sequence. The owner’s advisers determine whether the interest and transaction qualify, how basis is allocated, whether depreciation or depletion issues apply, and how federal and state rules affect the intended result.</p>"
+      },
+      {
+       "title": "Model Deferral as a Basis and Cash-Flow Decision",
+       "html": "<p>A qualifying exchange generally defers recognition rather than erasing gain. The replacement property’s basis and later disposition can carry forward consequences from the relinquished property. Money or other non-like-kind property received in the exchange, debt differences, retained proceeds, or inconsistent taxpayer identity can affect recognized gain and should be modeled from the actual closing figures.</p><p>The qualified intermediary must be engaged before proceeds become available to the taxpayer. The file should compare sale price, debt, equity, exchange expenses, expected replacement value, identification timing, acquisition costs, and backup properties. Tax savings should never be used to excuse weak mineral title or an unsupported royalty forecast.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9240,14 +9746,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Does a 1031 exchange permanently eliminate tax on a mineral sale?",
+       "a": "<p>Generally it defers eligible gain and carries basis consequences into the replacement property. The final result depends on the full tax history and later transactions.</p>"
+      },
+      {
+       "q": "Can sale proceeds be deposited into the owner’s account first?",
+       "a": "<p>That can create actual or constructive receipt. A qualified intermediary should structure control of funds before the relinquished closing.</p>"
+      },
+      {
+       "q": "Does selling a mineral interest automatically qualify as a real-property exchange?",
+       "a": "<p>No. The exact recorded rights, holding purpose, transaction components, and applicable law require professional review.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Qualified intermediary basics",
+       "href": "/exchange-1031/qualified-intermediary-basics"
+      },
+      {
+       "label": "Partial exchanges and boot",
+       "href": "/exchange-1031/partial-exchange-and-boot"
+      },
+      {
+       "label": "Reinvesting mineral sale proceeds",
+       "href": "/exchange-1031/reinvest-mineral-sale-proceeds"
+      }
+     ]
     },
     {
      "slug": "1031-exchange-into-mineral-rights",
      "name": "1031 Exchange Into Mineral Rights",
-     "meta": "",
+     "meta": "Plan a potential 1031 exchange into mineral rights by confirming real-property eligibility, investment intent, qualified-intermediary control, title, deadlines, and replacement scope.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>An exchange into minerals begins with two separate reviews: whether the exact interest can qualify as real property and whether the tract is an acceptable investment on its own evidence.</p>"
+      },
+      {
+       "title": "Confirm Eligibility Before Identifying the Property",
+       "html": "<p>Section 1031 applies to qualifying exchanges of real property held for investment or productive use in a trade or business, not to property held primarily for sale. Mineral transactions can involve different recorded rights, leases, royalties, working interests, contracts, and personal-property components, so the exact instrument and applicable law matter. A qualified intermediary and independent tax counsel should review the proposed relinquished and replacement interests before the relinquished closing.</p><p>The property file should identify the taxpayer and vesting, entity, legal description, rights conveyed, depths and formations, lease position, producing status, effective date, and intended holding purpose. An attractive royalty forecast does not solve a qualification problem. Exchange structure and mineral underwriting should proceed together without treating either professional review as automatic.</p>"
+      },
+      {
+       "title": "Underwrite the Mineral Interest Inside the Exchange Calendar",
+       "html": "<p>A replacement candidate should still pass ordinary tract diligence: recorded ownership, net mineral acres, royalty burden, unit participation, division orders, statements, production, decline, deductions, operator concentration, title exceptions, and undeveloped inventory. The exchange deadline can compress that work, which makes a prepared document room and clearly stated contingencies important before the property is placed on an identification notice.</p><p>The purchase agreement, identification notice, deed, tract schedule, settlement statement, qualified-intermediary instructions, and final vesting should describe the same replacement property. The file should also show how much value and equity are being replaced, whether debt or cash is involved, and whether any non-like-kind property or retained funds require tax analysis.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9261,14 +9805,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Do all mineral or royalty interests qualify for Section 1031?",
+       "a": "<p>No automatic rule should be assumed. Eligibility depends on the exact property rights, holding purpose, transaction structure, applicable law, and professional tax analysis.</p>"
+      },
+      {
+       "q": "When should a qualified intermediary be engaged?",
+       "a": "<p>Before the relinquished sale closes or the taxpayer receives proceeds. Late involvement may not repair actual or constructive receipt.</p>"
+      },
+      {
+       "q": "Can mineral diligence wait until after identification?",
+       "a": "<p>That is risky. Title, production, lease, and scope questions can make a named property unsuitable while the exchange deadlines continue running.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Minerals as replacement property",
+       "href": "/exchange-1031/minerals-as-replacement-property"
+      },
+      {
+       "label": "Qualified intermediary basics",
+       "href": "/exchange-1031/qualified-intermediary-basics"
+      },
+      {
+       "label": "45- and 180-day deadlines",
+       "href": "/exchange-1031/45-and-180-day-deadlines"
+      }
+     ]
     },
     {
      "slug": "minerals-as-replacement-property",
      "name": "Minerals as 1031 Replacement Property",
-     "meta": "",
+     "meta": "Evaluate mineral rights as potential 1031 replacement property through real-property eligibility, tract title, investment intent, production, decline, lease burdens, and acquisition scope.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>A mineral interest can be considered as replacement property only after the exchange team confirms qualification and the acquisition team confirms exactly what the deed will deliver.</p>"
+      },
+      {
+       "title": "Define the Replacement Real Property Precisely",
+       "html": "<p>Mineral transactions can convey fee mineral rights, royalty rights, overriding interests, leasehold rights, working interests, depth-limited rights, receivables, equipment, or contractual claims. Those labels are not interchangeable for title, economics, or tax treatment. The qualified intermediary and independent tax counsel should review the specific state-law property interest, holding purpose, acquisition documents, and any non-real-property components before it is relied upon in an exchange.</p><p>The identification and acquisition file should use a consistent property description across the notice, purchase agreement, tract schedule, deed, settlement statement, and intermediary instructions. County, legal description, fraction, net mineral acres, depths, formations, lease burden, retained rights, effective date, and receivable treatment should not change silently between documents.</p>"
+      },
+      {
+       "title": "Underwrite Income and Inventory Before the Clock Controls the Decision",
+       "html": "<p>Producing minerals require statements, division orders, monthly volumes, prices, deductions, downtime, decline, operator history, and the paid decimal. Non-producing value requires lease status, permits, offsets, spacing, infrastructure, formation position, title, operator activity, and realistic development timing. Neither a recent check nor a nearby permit should substitute for a tract-level schedule.</p><p>Replacement diligence should also test concentration, liquidity, tax reporting, title curative items, seller authority, and closing readiness. The exchange periods can leave little time to replace a failed candidate, so backup property strategy and clear contract contingencies should be coordinated before identification whenever possible.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9282,14 +9864,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Are mineral rights always real property for a 1031 exchange?",
+       "a": "<p>No blanket assumption is appropriate. The exact interest, creating documents, state law, holding purpose, and transaction components need qualified tax and legal review.</p>"
+      },
+      {
+       "q": "Can producing and non-producing interests be identified together?",
+       "a": "<p>They may be part of one acquisition, but the identification and closing documents must describe the property accurately and the economic lines should be underwritten separately.</p>"
+      },
+      {
+       "q": "What makes a mineral candidate closing-ready?",
+       "a": "<p>Clear seller authority, usable title evidence, consistent legal descriptions, resolved scope, documented production, agreed terms, and coordinated intermediary instructions.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "1031 exchange into mineral rights",
+       "href": "/exchange-1031/1031-exchange-into-mineral-rights"
+      },
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      },
+      {
+       "label": "Qualified intermediary basics",
+       "href": "/exchange-1031/qualified-intermediary-basics"
+      }
+     ]
     },
     {
      "slug": "reinvest-mineral-sale-proceeds",
      "name": "Reinvesting Your Mineral Sale Proceeds",
-     "meta": "",
+     "meta": "Plan how to reinvest mineral sale proceeds by comparing a potential 1031 exchange with taxable reinvestment, liquidity needs, replacement diligence, basis, and timing.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Reinvestment begins with the owner’s after-sale objective: maintain real-property exposure through a qualifying exchange, accept current tax and invest freely, or combine both deliberately.</p>"
+      },
+      {
+       "title": "Separate Exchange Proceeds From Ordinary Reinvestment",
+       "html": "<p>A Section 1031 plan requires qualifying real property, investment or business use, controlled proceeds, identification, acquisition, and consistent taxpayer and transaction documents. Ordinary reinvestment after a taxable sale offers broader control over cash and asset selection but does not retroactively create an exchange. The choice should be made with a qualified intermediary and independent tax counsel before the mineral sale closes.</p><p>The decision schedule should show expected sale price, basis, debt, selling costs, net proceeds, estimated taxes, required liquidity, replacement value, financing, adviser fees, and timing. It should also compare the owner’s desired income, management burden, diversification, holding period, estate plan, and ability to complete diligence under the exchange calendar.</p>"
+      },
+      {
+       "title": "Do Not Let the Tax Structure Choose the Investment",
+       "html": "<p>Replacement real estate or minerals should be evaluated on their own title, cash flow, risk, cost, and exit evidence. For mineral interests, that means reconciling tracts, recorded fractions, lease burdens, division orders, statements, production, decline, deductions, operator concentration, undeveloped inventory, and title exceptions. A compressed deadline can amplify weak underwriting if backup candidates are not prepared.</p><p>If part of the proceeds must remain available, a partial exchange may deserve professional analysis. If the owner chooses a taxable sale, the after-tax amount can be compared with other investments without the identification and acquisition limits. Neither path should be marketed as universally superior; the right structure depends on the actual property and owner objectives.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9303,14 +9923,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Can mineral sale proceeds be invested after closing and still become a 1031 exchange?",
+       "a": "<p>Ordinary post-closing reinvestment generally does not repair an exchange that lacked the required intermediary and proceeds-control structure before the sale.</p>"
+      },
+      {
+       "q": "Must replacement property produce the same type of income?",
+       "a": "<p>Like-kind rules concern qualifying real property rather than identical cash-flow patterns, but the exact properties and investment purpose require professional review.</p>"
+      },
+      {
+       "q": "What if no acceptable replacement can be found?",
+       "a": "<p>The owner should discuss backup identification, partial exchange, or taxable-sale alternatives before the deadlines force an unsupported acquisition.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Is a 1031 right for you",
+       "href": "/exchange-1031/is-a-1031-right-for-you"
+      },
+      {
+       "label": "Partial exchanges and boot",
+       "href": "/exchange-1031/partial-exchange-and-boot"
+      },
+      {
+       "label": "Mineral rights as an investment",
+       "href": "/investing/mineral-rights-as-an-investment"
+      }
+     ]
     },
     {
      "slug": "partial-exchange-and-boot",
      "name": "Partial Exchanges and Boot",
-     "meta": "",
+     "meta": "Understand partial 1031 exchanges and possible boot by scheduling money, debt relief, non-like-kind property, replacement value, basis, and closing allocations.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>A partial exchange can combine qualifying replacement property with retained money or other value, but the recognized-gain analysis must follow the actual numbers and documents.</p>"
+      },
+      {
+       "title": "Put Every Dollar and Liability on the Closing Schedule",
+       "html": "<p>Money or other non-like-kind property received in an exchange can trigger recognized gain to the extent provided by the tax rules. Debt relief, new debt, cash contributed, exchange expenses, credits, prorations, receivables, retained interests, and personal-property allocations can also affect the result. Reinvesting a certain percentage of cash does not by itself determine the recognized amount.</p><p>The owner’s CPA or tax counsel should model the relinquished sale price, adjusted basis, selling costs, liabilities, net equity, replacement value, acquisition liabilities, additional cash, and any non-like-kind value. The qualified intermediary should control the permitted funds and closing sequence. A mineral buyer can provide transaction figures and documents but should not label a payment as tax-free or taxable.</p>"
+      },
+      {
+       "title": "Keep Mineral Scope From Becoming Accidental Boot",
+       "html": "<p>A mineral transaction may separate the recorded real-property interest from accrued receivables, equipment, contract rights, or other components. The purchase agreement, deed, tract schedule, settlement statement, and intermediary instructions should state what is conveyed and how consideration is allocated. Retained royalties, excluded depths, pre-effective-date production, and suspense funds should also be described consistently.</p><p>A partial strategy can be intentional when the owner needs liquidity and accepts the tax result. It becomes harder to evaluate when the retained amount is discovered only after a replacement shortfall or document mismatch. Backup properties, financing, and closing calculations should be updated while there is still time to act.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9324,14 +9982,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "What is boot in a 1031 exchange?",
+       "a": "<p>Boot is a common term for money or other non-like-kind value received in the exchange that can cause gain recognition under the applicable rules.</p>"
+      },
+      {
+       "q": "Does adding cash to the replacement remove all boot?",
+       "a": "<p>Not automatically. Debt, value, basis, liabilities, expenses, and other property must be analyzed together by the owner’s tax advisers.</p>"
+      },
+      {
+       "q": "Can a partial exchange still be useful?",
+       "a": "<p>Yes. An owner may intentionally defer part of the eligible gain while retaining liquidity, provided the structure and tax consequences are understood before closing.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Defer taxes on a mineral sale",
+       "href": "/exchange-1031/defer-taxes-on-your-mineral-sale"
+      },
+      {
+       "label": "Reinvest mineral sale proceeds",
+       "href": "/exchange-1031/reinvest-mineral-sale-proceeds"
+      },
+      {
+       "label": "Qualified intermediary basics",
+       "href": "/exchange-1031/qualified-intermediary-basics"
+      }
+     ]
     },
     {
      "slug": "1031-from-real-estate-into-minerals",
      "name": "1031 From Real Estate Into Minerals",
-     "meta": "",
+     "meta": "Plan a potential 1031 exchange from investment real estate into mineral rights with coordinated eligibility, intermediary, deadline, title, income, and replacement-value review.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Exchanging a rental or business property into minerals can change management intensity, liquidity, and income behavior while preserving strict requirements around property, proceeds, and timing.</p>"
+      },
+      {
+       "title": "Keep the Taxpayer, Property, and Funds Aligned",
+       "html": "<p>The relinquished property and replacement property must be qualifying real property held for investment or productive business use, subject to the actual facts and applicable law. The selling taxpayer, vesting, entity, qualified-intermediary agreement, identification notice, replacement contract, deed, and settlement statement should be reviewed for consistency. A qualified intermediary and independent tax counsel belong in the file before the relinquished closing and before the taxpayer can receive the proceeds.</p><p>The schedule should show the expected sale price, debt payoff, net equity, exchange expenses, replacement value, acquisition costs, and any additional cash or financing. If money, debt relief, or other non-like-kind property remains outside the replacement, possible recognized gain and basis consequences should be modeled by the owner’s tax advisers rather than inferred from a simple reinvestment percentage.</p>"
+      },
+      {
+       "title": "Replace Building Diligence With Tract Diligence",
+       "html": "<p>Mineral ownership removes tenants and building maintenance from the operating picture, but introduces title, lease, division-order, payor, operator, production, decline, commodity-price, deduction, and development risk. The replacement package should identify every tract, recorded fraction, depth limitation, lease burden, unit, producing well, paid decimal, title exception, and inventory assumption before identification becomes difficult to change.</p><p>Income should be compared net of taxes, deductions, administration, and expected decline. A recent royalty check is not equivalent to contractual rent, and an offset permit is not a lease renewal schedule. The decision should reflect liquidity and exit planning as well as the convenience of owning a non-operating property interest.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9345,14 +10041,52 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Can rental real estate be exchanged into mineral rights?",
+       "a": "<p>Potentially, when both sides are qualifying real property held for investment or business use and the exact rights and structure are approved by qualified advisers.</p>"
+      },
+      {
+       "q": "Does reinvesting all cash guarantee full deferral?",
+       "a": "<p>Not necessarily. Value, equity, debt, expenses, non-like-kind property, taxpayer identity, and other facts can affect the tax result.</p>"
+      },
+      {
+       "q": "Are royalty checks comparable to rent payments?",
+       "a": "<p>They are both income, but royalty checks vary with production, prices, deductions, decline, title, and operator decisions rather than a tenant lease schedule.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Is a 1031 right for you",
+       "href": "/exchange-1031/is-a-1031-right-for-you"
+      },
+      {
+       "label": "Minerals as replacement property",
+       "href": "/exchange-1031/minerals-as-replacement-property"
+      },
+      {
+       "label": "Evaluate a mineral package",
+       "href": "/investing/how-to-evaluate-a-mineral-package"
+      }
+     ]
     },
     {
      "slug": "1031-from-farmland-into-minerals",
      "name": "1031 From Farmland Into Minerals",
-     "meta": "",
+     "meta": "Evaluate a potential 1031 exchange from investment farmland into mineral rights through property eligibility, vesting, proceeds control, tract diligence, income differences, and timing.",
      "sections": [
+      {
+       "title": "",
+       "html": "<p>Moving from farmland into minerals changes the property, income pattern, control, and diligence burden even when a properly structured exchange may defer recognition of gain.</p>"
+      },
+      {
+       "title": "Match the Exchange Structure Before Comparing Returns",
+       "html": "<p>The farmland must be qualifying real property held for investment or productive use rather than primarily for sale, and the proposed mineral interest must be reviewed as qualifying replacement real property. Taxpayer identity and vesting should remain consistent through the relinquished contract, qualified-intermediary agreement, identification notice, replacement contract, deed, and settlement documents. The qualified intermediary and independent tax counsel should be involved before the farmland closes.</p><p>Sale proceeds should remain under the permitted exchange arrangement rather than reaching the taxpayer. Expected debt payoff, net equity, selling costs, replacement value, additional cash, and any non-like-kind property should be scheduled early. A farmland sale can have basis, depreciation, allocation, installment, and state-tax issues that require the owner’s CPA or tax counsel.</p>"
+      },
+      {
+       "title": "Compare Farmland Economics With Mineral Economics Honestly",
+       "html": "<p>Farmland can produce rent, operating income, or appreciation while retaining visible surface control. A royalty interest produces cash only when covered products are sold and the owner is in pay status. Existing wells decline, prices move, deductions and taxes affect net revenue, and future wells depend on operator decisions. The replacement review should not present mineral checks as a fixed substitute for farm rent.</p><p>The mineral file should reconcile each tract, recorded fraction, lease burden, unit allocation, division order, statement, production series, operator, title exception, and undeveloped-inventory assumption. Access, water, improvements, crops, equipment, and other farmland components may not all receive the same exchange treatment, so the relinquished-property allocation also belongs with qualified advisers.</p>"
+      },
       {
        "title": "Put the Colorado Property on the Exchange Schedule",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before the mineral sale closes or proceeds are received. The working schedule should identify the relinquished property, exact selling entity, vesting, debt, expected proceeds, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professionals responsible for each step. The mineral buyer can supply property and transaction facts, but cannot determine whether an exchange qualifies or give legal or tax advice.</p>"
@@ -9366,14 +10100,37 @@
        "html": "<p>The exchange schedule should compare the purchase agreement, mineral deed, legal description, tract list, settlement statement, vesting, debt, proceeds, intermediary instructions, identification notice, and replacement acquisition for consistency. A difference in seller identity, property scope, effective date, retained interest, receivable treatment, or disbursement path can require independent legal or tax review before closing. The working file should record who resolved the issue and when, instead of relying on a verbal assumption that becomes difficult to reconstruct after the sale and exchange deadlines have passed.</p>"
       }
      ],
-     "faqs": [],
-     "related": []
+     "faqs": [
+      {
+       "q": "Can operating farmland be exchanged for mineral rights?",
+       "a": "<p>Potentially, but both sides must satisfy Section 1031 requirements and the exact rights and holding purposes need professional review.</p>"
+      },
+      {
+       "q": "Will mineral royalties replace farm rent evenly?",
+       "a": "<p>No. Royalty income varies with production, prices, deductions, downtime, decline, and future development.</p>"
+      },
+      {
+       "q": "What should be separated from the farmland sale price?",
+       "a": "<p>Land, improvements, crops, equipment, water, contracts, and other components may require distinct allocation and tax analysis.</p>"
+      }
+     ],
+     "related": [
+      {
+       "label": "Minerals as replacement property",
+       "href": "/exchange-1031/minerals-as-replacement-property"
+      },
+      {
+       "label": "Reinvesting mineral sale proceeds",
+       "href": "/exchange-1031/reinvest-mineral-sale-proceeds"
+      },
+      {
+       "label": "How royalty income works",
+       "href": "/investing/how-royalty-income-works"
+      }
+     ]
     }
    ]
   }
  },
- "warnings": [
-  "investing: 10 thin items (<300 words): ['mineral-rights-as-an-investment', 'how-to-evaluate-a-mineral-package', 'producing-vs-nonproducing-for-investors', 'how-royalty-income-works', 'cash-flow-vs-long-term-value']",
-  "exchange-1031: 10 thin items (<300 words): ['is-a-1031-right-for-you', 'qualified-intermediary-basics', '45-and-180-day-deadlines', 'defer-taxes-on-your-mineral-sale', '1031-exchange-into-mineral-rights']"
- ]
+ "warnings": []
 }

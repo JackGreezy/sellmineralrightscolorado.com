@@ -2,9 +2,37 @@
  "slug": "partial-exchange-and-boot",
  "title": "Partial Exchanges and Boot",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Understand partial 1031 exchanges and possible boot by scheduling money, debt relief, non-like-kind property, replacement value, basis, and closing allocations.",
+ "heroLead": "A partial exchange can combine qualifying replacement property with retained money or other value, but the recognized-gain analysis must follow the actual numbers and documents.",
+ "sections": [
+  {
+   "heading": "Put Every Dollar and Liability on the Closing Schedule",
+   "body": [
+    "Money or other non-like-kind property received in an exchange can trigger recognized gain to the extent provided by the tax rules. Debt relief, new debt, cash contributed, exchange expenses, credits, prorations, receivables, retained interests, and personal-property allocations can also affect the result. Reinvesting a certain percentage of cash does not by itself determine the recognized amount.",
+    "The owner’s CPA or tax counsel should model the relinquished sale price, adjusted basis, selling costs, liabilities, net equity, replacement value, acquisition liabilities, additional cash, and any non-like-kind value. The qualified intermediary should control the permitted funds and closing sequence. A mineral buyer can provide transaction figures and documents but should not label a payment as tax-free or taxable."
+   ]
+  },
+  {
+   "heading": "Keep Mineral Scope From Becoming Accidental Boot",
+   "body": [
+    "A mineral transaction may separate the recorded real-property interest from accrued receivables, equipment, contract rights, or other components. The purchase agreement, deed, tract schedule, settlement statement, and intermediary instructions should state what is conveyed and how consideration is allocated. Retained royalties, excluded depths, pre-effective-date production, and suspense funds should also be described consistently.",
+    "A partial strategy can be intentional when the owner needs liquidity and accepts the tax result. It becomes harder to evaluate when the retained amount is discovered only after a replacement shortfall or document mismatch. Backup properties, financing, and closing calculations should be updated while there is still time to act."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "What is boot in a 1031 exchange?", "a": "Boot is a common term for money or other non-like-kind value received in the exchange that can cause gain recognition under the applicable rules."},
+  {"q": "Does adding cash to the replacement remove all boot?", "a": "Not automatically. Debt, value, basis, liabilities, expenses, and other property must be analyzed together by the owner’s tax advisers."},
+  {"q": "Can a partial exchange still be useful?", "a": "Yes. An owner may intentionally defer part of the eligible gain while retaining liquidity, provided the structure and tax consequences are understood before closing."}
+ ],
+ "internalLinks": [
+  {"anchor": "Defer taxes on a mineral sale", "slug": "exchange-1031/defer-taxes-on-your-mineral-sale"},
+  {"anchor": "Reinvest mineral sale proceeds", "slug": "exchange-1031/reinvest-mineral-sale-proceeds"},
+  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-partial-exchange-and-boot-sellmineralrightscolorado-com.jpg",
   "alt": "Partial Exchanges and Boot mineral rights",

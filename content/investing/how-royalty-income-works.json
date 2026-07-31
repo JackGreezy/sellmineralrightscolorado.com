@@ -2,9 +2,37 @@
  "slug": "how-royalty-income-works",
  "title": "How Royalty Income Works",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "See how Colorado oil and gas royalty income moves from production and sales through the lease fraction, unit allocation, decimal, deductions, and payor statement.",
+ "heroLead": "Royalty income is the owner’s share of reported product sales after the lease, unit, decimal, price, tax, deduction, and adjustment lines are applied.",
+ "sections": [
+  {
+   "heading": "Trace the Paid Decimal Back to the Recorded Interest",
+   "body": [
+    "A royalty statement is the end of a chain that begins with a recorded mineral or royalty interest. The lease royalty, net mineral acres, spacing or pooling allocation, unit participation, depth and product limitations, and any later assignments or reservations affect the decimal used by the payor. A decimal should be reconciled to those records rather than accepted only because it appears repeatedly on a check stub.",
+    "The same owner can receive different decimals from different wells or products when unit boundaries, tract participation, lease burdens, or title conclusions change. Suspense and prior-period adjustments can also move a payment without changing current production. Keeping the division order, lease, deed chain, unit record, and payor statement together makes those differences easier to explain."
+   ]
+  },
+  {
+   "heading": "Separate Production, Price, and Deductions",
+   "body": [
+    "The revenue line generally reflects reported oil, gas, or natural-gas-liquid volumes multiplied by a realized sales price and then by the owner decimal. Taxes, gathering, compression, processing, transportation, marketing charges, and other adjustments may appear before the net amount is paid, depending on the lease language and payor accounting. Statement labels are not always consistent across operators.",
+    "For underwriting, the production ledger should show volumes and revenue by month and product. That prevents a commodity-price rally from being mistaken for stronger well performance and prevents a temporary outage from being treated as permanent decline. The review can then compare the statement to public production records and flag differences that require payor or title follow-up."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Why did a royalty check change when the ownership decimal did not?", "a": "Production volume, realized price, product mix, deductions, taxes, downtime, and prior-period adjustments can change the payment even when the decimal stays constant."},
+  {"q": "Is a division-order decimal the same as net mineral acres?", "a": "No. Net mineral acres help describe ownership, while the paid decimal also reflects lease royalty and unit or tract participation."},
+  {"q": "Can a statement include money from an earlier month?", "a": "Yes. Payors may post suspense releases, corrections, and prior-period adjustments, so the sales month and payment month should be read separately."}
+ ],
+ "internalLinks": [
+  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"},
+  {"anchor": "Passive royalty income", "slug": "investing/passive-royalty-income"},
+  {"anchor": "Royalty statements guide", "slug": "resources/royalty-statements-guide"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightscolorado-com.jpg",
   "alt": "How Royalty Income Works mineral rights",

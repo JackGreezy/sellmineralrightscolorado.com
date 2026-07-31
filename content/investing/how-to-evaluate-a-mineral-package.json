@@ -2,9 +2,37 @@
  "slug": "how-to-evaluate-a-mineral-package",
  "title": "How to Evaluate a Mineral Package",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Evaluate a Colorado mineral package by reconciling title, paid decimals, leases, production, decline, operator concentration, undeveloped inventory, and offer scope.",
+ "heroLead": "A mineral package is not one asset merely because it arrives in one spreadsheet; each tract, interest, well, lease burden, and title exception needs its own line.",
+ "sections": [
+  {
+   "heading": "Build the Tract and Ownership Schedule First",
+   "body": [
+    "The opening schedule should identify every county, legal description, tract, formation or depth limitation, net mineral acre estimate, ownership fraction, lease, royalty burden, producing unit, division order, and payor. If the package contains multiple heirs, entities, or trusts, signing authority and vesting should be documented beside the property rather than left for closing. Duplicate descriptions and inconsistent acre totals should remain visible until reconciled.",
+    "A package summary is useful only after its underlying lines agree. Recorded deeds, probate or trust documents, assignments, reservations, lease exhibits, unit records, and statements may describe the same property differently. The review should note the source and date of each conclusion so later title work can update the relevant tract without silently changing the entire valuation."
+   ]
+  },
+  {
+   "heading": "Underwrite Production and Inventory Independently",
+   "body": [
+    "Producing wells should be evaluated through monthly volumes, product mix, realized prices, deductions, downtime, decline, operator history, and the paid decimal. Non-producing or undeveloped acreage requires a different evidence set: lease status, permits, offsets, spacing, formation position, infrastructure, regulatory limits, and operator activity. A nearby well is context, not a guarantee that the package will be drilled on the same schedule.",
+    "Concentration also matters. One operator, county, formation, payor, or mature well can drive most of a package even when the tract count appears diversified. Base, downside, and upside scenarios should identify the assumptions that change, and the written offer should match the same tracts, fractions, depths, products, receivables, and effective date used in the review."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "What is the minimum file needed to start evaluating a package?", "a": "Begin with the tract list, available deeds or probate records, leases, division orders, recent statements, and any existing ownership spreadsheet. Missing records can be scheduled."},
+  {"q": "Should producing and non-producing tracts use one valuation multiple?", "a": "No. Current production and possible future inventory rely on different evidence, probability, and timing assumptions."},
+  {"q": "How should title uncertainty appear in an offer?", "a": "The written terms should identify the affected tract, the assumed interest, the curative item, and how price or scope changes if title differs."}
+ ],
+ "internalLinks": [
+  {"anchor": "Producing versus non-producing interests", "slug": "investing/producing-vs-nonproducing-for-investors"},
+  {"anchor": "Mineral appraisal methods", "slug": "resources/mineral-appraisal-methods"},
+  {"anchor": "Division orders explained", "slug": "resources/division-orders-explained"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightscolorado-com.jpg",
   "alt": "How to Evaluate a Mineral Package mineral rights",

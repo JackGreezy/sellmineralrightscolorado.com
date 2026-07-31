@@ -2,9 +2,37 @@
  "slug": "minerals-vs-royalty-funds",
  "title": "Direct Minerals vs. Royalty Funds",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Compare direct Colorado mineral ownership with royalty-fund exposure across title control, diversification, fees, liquidity, reporting, tax treatment, and underwriting visibility.",
+ "heroLead": "Direct minerals and royalty funds can both provide commodity-linked exposure, but the investor owns, controls, reviews, and exits fundamentally different assets.",
+ "sections": [
+  {
+   "heading": "Compare the Ownership Layer, Not Only the Yield",
+   "body": [
+    "A direct mineral acquisition gives the buyer a recorded interest defined by deeds, reservations, leases, assignments, unit records, and title. The investor can inspect the exact tracts, operators, wells, paid decimals, deductions, and undeveloped inventory, but also carries the burden of diligence, recordkeeping, payor communication, and an individually negotiated sale when liquidity is needed.",
+    "A royalty fund generally pools many interests under a manager or entity structure. The investor evaluates the fund documents, strategy, portfolio reporting, fees, leverage, distribution policy, valuation practice, governance, and redemption or transfer limits rather than receiving title to each underlying tract. Diversification may be broader, but tract-level control and visibility can be different."
+   ]
+  },
+  {
+   "heading": "Put Fees, Liquidity, and Concentration on the Same Schedule",
+   "body": [
+    "Direct ownership can appear fee-light after acquisition, yet title work, administration, tax reporting, legal review, and sale costs still exist. Fund exposure can make reporting and diversification more convenient while adding management fees, carried interests, entity expenses, valuation policies, or lockups. Neither structure removes commodity prices, decline, operator behavior, or development timing from the return.",
+    "A fair comparison should use net cash flow after all costs and should show concentration by basin, operator, formation, well vintage, and producing status. Tax treatment and securities considerations can differ by structure and investor circumstances, so qualified tax, legal, and investment professionals should review the actual documents before an investor treats the alternatives as interchangeable."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Does a royalty fund give the investor title to specific mineral tracts?", "a": "Usually the investor owns an interest in the fund or entity, not direct recorded title to each underlying tract. The governing documents control."},
+  {"q": "Which option is more liquid?", "a": "It depends on the fund’s redemption or transfer rules and the marketability of the direct interest. Neither should be assumed liquid without reviewing actual terms."},
+  {"q": "Does pooling eliminate mineral risk?", "a": "No. Pooling can spread tract or operator concentration, but commodity prices, decline, title, fees, leverage, and management decisions still affect outcomes."}
+ ],
+ "internalLinks": [
+  {"anchor": "Mineral rights as an investment", "slug": "investing/mineral-rights-as-an-investment"},
+  {"anchor": "Portfolio diversification with minerals", "slug": "investing/portfolio-diversification-with-minerals"},
+  {"anchor": "Real risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+ ],
  "primaryKeyword": "royalty fund",
  "seo": {
   "vol": 40,

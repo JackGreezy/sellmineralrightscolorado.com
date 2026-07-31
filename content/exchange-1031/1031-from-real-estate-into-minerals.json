@@ -2,9 +2,37 @@
  "slug": "1031-from-real-estate-into-minerals",
  "title": "1031 From Real Estate Into Minerals",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Plan a potential 1031 exchange from investment real estate into mineral rights with coordinated eligibility, intermediary, deadline, title, income, and replacement-value review.",
+ "heroLead": "Exchanging a rental or business property into minerals can change management intensity, liquidity, and income behavior while preserving strict requirements around property, proceeds, and timing.",
+ "sections": [
+  {
+   "heading": "Keep the Taxpayer, Property, and Funds Aligned",
+   "body": [
+    "The relinquished property and replacement property must be qualifying real property held for investment or productive business use, subject to the actual facts and applicable law. The selling taxpayer, vesting, entity, qualified-intermediary agreement, identification notice, replacement contract, deed, and settlement statement should be reviewed for consistency. A qualified intermediary and independent tax counsel belong in the file before the relinquished closing and before the taxpayer can receive the proceeds.",
+    "The schedule should show the expected sale price, debt payoff, net equity, exchange expenses, replacement value, acquisition costs, and any additional cash or financing. If money, debt relief, or other non-like-kind property remains outside the replacement, possible recognized gain and basis consequences should be modeled by the owner’s tax advisers rather than inferred from a simple reinvestment percentage."
+   ]
+  },
+  {
+   "heading": "Replace Building Diligence With Tract Diligence",
+   "body": [
+    "Mineral ownership removes tenants and building maintenance from the operating picture, but introduces title, lease, division-order, payor, operator, production, decline, commodity-price, deduction, and development risk. The replacement package should identify every tract, recorded fraction, depth limitation, lease burden, unit, producing well, paid decimal, title exception, and inventory assumption before identification becomes difficult to change.",
+    "Income should be compared net of taxes, deductions, administration, and expected decline. A recent royalty check is not equivalent to contractual rent, and an offset permit is not a lease renewal schedule. The decision should reflect liquidity and exit planning as well as the convenience of owning a non-operating property interest."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Can rental real estate be exchanged into mineral rights?", "a": "Potentially, when both sides are qualifying real property held for investment or business use and the exact rights and structure are approved by qualified advisers."},
+  {"q": "Does reinvesting all cash guarantee full deferral?", "a": "Not necessarily. Value, equity, debt, expenses, non-like-kind property, taxpayer identity, and other facts can affect the tax result."},
+  {"q": "Are royalty checks comparable to rent payments?", "a": "They are both income, but royalty checks vary with production, prices, deductions, decline, title, and operator decisions rather than a tenant lease schedule."}
+ ],
+ "internalLinks": [
+  {"anchor": "Is a 1031 right for you", "slug": "exchange-1031/is-a-1031-right-for-you"},
+  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
+  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-real-estate-into-minerals-sellmineralrightscolorado-com.jpg",
   "alt": "1031 From Real Estate Into Minerals mineral rights",

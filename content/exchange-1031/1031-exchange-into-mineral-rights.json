@@ -2,9 +2,37 @@
  "slug": "1031-exchange-into-mineral-rights",
  "title": "1031 Exchange Into Mineral Rights",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Plan a potential 1031 exchange into mineral rights by confirming real-property eligibility, investment intent, qualified-intermediary control, title, deadlines, and replacement scope.",
+ "heroLead": "An exchange into minerals begins with two separate reviews: whether the exact interest can qualify as real property and whether the tract is an acceptable investment on its own evidence.",
+ "sections": [
+  {
+   "heading": "Confirm Eligibility Before Identifying the Property",
+   "body": [
+    "Section 1031 applies to qualifying exchanges of real property held for investment or productive use in a trade or business, not to property held primarily for sale. Mineral transactions can involve different recorded rights, leases, royalties, working interests, contracts, and personal-property components, so the exact instrument and applicable law matter. A qualified intermediary and independent tax counsel should review the proposed relinquished and replacement interests before the relinquished closing.",
+    "The property file should identify the taxpayer and vesting, entity, legal description, rights conveyed, depths and formations, lease position, producing status, effective date, and intended holding purpose. An attractive royalty forecast does not solve a qualification problem. Exchange structure and mineral underwriting should proceed together without treating either professional review as automatic."
+   ]
+  },
+  {
+   "heading": "Underwrite the Mineral Interest Inside the Exchange Calendar",
+   "body": [
+    "A replacement candidate should still pass ordinary tract diligence: recorded ownership, net mineral acres, royalty burden, unit participation, division orders, statements, production, decline, deductions, operator concentration, title exceptions, and undeveloped inventory. The exchange deadline can compress that work, which makes a prepared document room and clearly stated contingencies important before the property is placed on an identification notice.",
+    "The purchase agreement, identification notice, deed, tract schedule, settlement statement, qualified-intermediary instructions, and final vesting should describe the same replacement property. The file should also show how much value and equity are being replaced, whether debt or cash is involved, and whether any non-like-kind property or retained funds require tax analysis."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Do all mineral or royalty interests qualify for Section 1031?", "a": "No automatic rule should be assumed. Eligibility depends on the exact property rights, holding purpose, transaction structure, applicable law, and professional tax analysis."},
+  {"q": "When should a qualified intermediary be engaged?", "a": "Before the relinquished sale closes or the taxpayer receives proceeds. Late involvement may not repair actual or constructive receipt."},
+  {"q": "Can mineral diligence wait until after identification?", "a": "That is risky. Title, production, lease, and scope questions can make a named property unsuitable while the exchange deadlines continue running."}
+ ],
+ "internalLinks": [
+  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
+  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"},
+  {"anchor": "45- and 180-day deadlines", "slug": "exchange-1031/45-and-180-day-deadlines"}
+ ],
  "primaryKeyword": "1031 exchange mineral rights",
  "seo": {
   "vol": 10,

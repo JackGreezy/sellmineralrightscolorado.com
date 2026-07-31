@@ -2,9 +2,37 @@
  "slug": "producing-vs-nonproducing-for-investors",
  "title": "Producing vs. Non-Producing for Investors",
  "type": "investing",
- "status": "stub",
+ "status": "complete",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaDescription": "Compare producing and non-producing Colorado mineral interests through current cash flow, well decline, lease status, permits, offsets, title, timing, and downside risk.",
+ "heroLead": "Producing minerals offer evidence that can be measured today; non-producing minerals offer property rights whose future development remains conditional.",
+ "sections": [
+  {
+   "heading": "Producing Interests Start With Observable Cash Flow",
+   "body": [
+    "A producing interest can be tested against royalty statements and public well records. The underwriting file should reconcile the paid decimal, monthly volumes, product mix, realized prices, taxes, deductions, downtime, adjustments, well status, operator history, and decline. Current production reduces one category of uncertainty, but it does not remove commodity exposure, title risk, shut-ins, mechanical failure, or physical depletion.",
+    "Well age and concentration matter. A package supported by one high-rate recent completion has a different risk profile from a package receiving similar revenue across several mature units. A normalized cash-flow line should separate recurring revenue from suspense releases or corrections and should show the effective date used in an acquisition."
+   ]
+  },
+  {
+   "heading": "Non-Producing Interests Require an Inventory Case",
+   "body": [
+    "A non-producing tract may be leased, unleased, held by production elsewhere in a pooled unit, permitted, offset by active drilling, or entirely outside a current operator plan. Those are different positions. Value depends on the exact acreage and depths, lease terms, expiration, spacing, permits, offset performance, infrastructure, formation quality, regulation, operator behavior, and clean title.",
+    "The absence of current checks increases the importance of timing and probability. A buyer should state which evidence supports the inventory value and what happens if drilling is delayed or never occurs. Comparing producing and non-producing interests through one multiple hides the different assumptions that create their prices."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Are producing minerals always worth more than non-producing minerals?", "a": "Not automatically. Producing interests have measurable cash flow, while a high-quality undeveloped tract may carry significant inventory value. The evidence and scope control."},
+  {"q": "Does an active lease mean drilling is likely soon?", "a": "No. A lease establishes contractual rights and timing, but operator capital, permits, spacing, economics, and surface constraints still affect development."},
+  {"q": "What is the main risk in a one-well royalty?", "a": "Revenue concentration. Downtime, decline, mechanical issues, price changes, or unit adjustments affecting one well can move nearly the entire cash-flow line."}
+ ],
+ "internalLinks": [
+  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"},
+  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
+  {"anchor": "Mineral rights as an investment", "slug": "investing/mineral-rights-as-an-investment"}
+ ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-producing-vs-nonproducing-for-investors-sellmineralrightscolorado-com.jpg",
   "alt": "Producing vs. Non-Producing for Investors mineral rights",

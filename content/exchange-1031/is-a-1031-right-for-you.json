@@ -2,9 +2,37 @@
  "slug": "is-a-1031-right-for-you",
  "title": "Is a 1031 Exchange Right for You?",
  "type": "exchange-1031",
- "status": "stub",
+ "status": "complete",
  "bucket": "1031",
  "audience": "seller-then-exchanger",
+ "metaDescription": "Decide whether a 1031 exchange belongs in a mineral sale plan by reviewing eligibility, deadlines, replacement goals, liquidity, basis, debt, cost, and execution risk.",
+ "heroLead": "A 1031 exchange can be useful when the property, investment purpose, replacement plan, advisers, funds, and deadlines already fit; it should not be added after closing as a tax rescue.",
+ "sections": [
+  {
+   "heading": "Test the Property and Timing Before the Strategy",
+   "body": [
+    "The first question is whether the exact relinquished interest is qualifying real property held for investment or productive business use. The second is whether suitable replacement real property can be identified and acquired within the applicable periods without sacrificing title quality or investment discipline. A qualified intermediary and independent tax counsel should review those questions before the relinquished closing and before proceeds can reach the taxpayer.",
+    "The proposed taxpayer and vesting should remain consistent, and the schedule should include expected sale value, debt payoff, net equity, transaction costs, replacement value, financing, identification candidates, backups, and the responsible advisers. An owner who needs unrestricted sale proceeds immediately may have a different objective from an owner prepared to keep capital invested in replacement real property."
+   ]
+  },
+  {
+   "heading": "Compare Deferral With Complexity and Investment Fit",
+   "body": [
+    "A qualifying exchange generally defers eligible gain; it does not make basis, tax, or transaction costs disappear. Qualified-intermediary fees, legal and tax advice, title work, financing, compressed diligence, and replacement closing costs belong in the comparison. The owner’s expected holding period, cash needs, estate plan, risk tolerance, and ability to manage the replacement property also matter.",
+    "For mineral replacement property, the file should independently reconcile title, acreage, lease burdens, division orders, production, decline, deductions, operator concentration, and undeveloped inventory. Tax structure should improve a sound transaction, not become the reason to acquire a property that would fail ordinary diligence."
+   ]
+  }
+ ],
+ "faqs": [
+  {"q": "Who should decide whether the exchange is appropriate?", "a": "The taxpayer should decide with a qualified intermediary and independent tax, legal, and investment advisers using the actual property and financial facts."},
+  {"q": "What if the owner needs part of the sale proceeds?", "a": "A partial exchange may be possible, but retained money or other non-like-kind value can create recognized gain and needs specific tax modeling."},
+  {"q": "Is tax deferral enough reason to buy a mineral interest?", "a": "No. The replacement should still meet title, production, risk, liquidity, and return requirements without relying on the tax outcome alone."}
+ ],
+ "internalLinks": [
+  {"anchor": "45- and 180-day deadlines", "slug": "exchange-1031/45-and-180-day-deadlines"},
+  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"},
+  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"}
+ ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellmineralrightscolorado-com.jpg",
   "alt": "Is a 1031 Exchange Right for You? mineral rights",
