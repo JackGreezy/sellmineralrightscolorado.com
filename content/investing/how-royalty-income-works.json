@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Why did a royalty check change when the ownership decimal did not?", "a": "Production volume, realized price, product mix, deductions, taxes, downtime, and prior-period adjustments can change the payment even when the decimal stays constant."},
-  {"q": "Is a division-order decimal the same as net mineral acres?", "a": "No. Net mineral acres help describe ownership, while the paid decimal also reflects lease royalty and unit or tract participation."},
-  {"q": "Can a statement include money from an earlier month?", "a": "Yes. Payors may post suspense releases, corrections, and prior-period adjustments, so the sales month and payment month should be read separately."}
+  {
+   "q": "Why did a royalty check change when the ownership decimal did not?",
+   "a": "Production volume, realized price, product mix, deductions, taxes, downtime, and prior-period adjustments can change the payment even when the decimal stays constant."
+  },
+  {
+   "q": "Is a division-order decimal the same as net mineral acres?",
+   "a": "No. Net mineral acres help describe ownership, while the paid decimal also reflects lease royalty and unit or tract participation."
+  },
+  {
+   "q": "Can a statement include money from an earlier month?",
+   "a": "Yes. Payors may post suspense releases, corrections, and prior-period adjustments, so the sales month and payment month should be read separately."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"},
-  {"anchor": "Passive royalty income", "slug": "investing/passive-royalty-income"},
-  {"anchor": "Royalty statements guide", "slug": "resources/royalty-statements-guide"}
+  {
+   "anchor": "Cash flow versus long-term value",
+   "slug": "investing/cash-flow-vs-long-term-value"
+  },
+  {
+   "anchor": "Passive royalty income",
+   "slug": "investing/passive-royalty-income"
+  },
+  {
+   "anchor": "Royalty statements guide",
+   "slug": "resources/royalty-statements-guide"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightscolorado-com.jpg",

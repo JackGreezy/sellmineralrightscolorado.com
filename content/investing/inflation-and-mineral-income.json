@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Do royalty checks automatically rise with inflation?", "a": "No. Realized commodity prices are only one input; production decline, downtime, deductions, taxes, product mix, and decimal changes also affect the payment."},
-  {"q": "Why can headline oil prices differ from the price on a statement?", "a": "Local differentials, sales timing, quality, transportation, contract terms, and payor accounting can separate the realized price from a published benchmark."},
-  {"q": "Should an inflation case assume flat production?", "a": "Not without evidence. Existing-well decline and uncertain future development should remain visible in every price scenario."}
+  {
+   "q": "Do royalty checks automatically rise with inflation?",
+   "a": "No. Realized commodity prices are only one input; production decline, downtime, deductions, taxes, product mix, and decimal changes also affect the payment."
+  },
+  {
+   "q": "Why can headline oil prices differ from the price on a statement?",
+   "a": "Local differentials, sales timing, quality, transportation, contract terms, and payor accounting can separate the realized price from a published benchmark."
+  },
+  {
+   "q": "Should an inflation case assume flat production?",
+   "a": "Not without evidence. Existing-well decline and uncertain future development should remain visible in every price scenario."
+  }
  ],
  "internalLinks": [
-  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"},
-  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"},
-  {"anchor": "Risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+  {
+   "anchor": "How royalty income works",
+   "slug": "investing/how-royalty-income-works"
+  },
+  {
+   "anchor": "Cash flow versus long-term value",
+   "slug": "investing/cash-flow-vs-long-term-value"
+  },
+  {
+   "anchor": "Risks of mineral investing",
+   "slug": "investing/risks-of-mineral-investing"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-inflation-and-mineral-income-sellmineralrightscolorado-com.jpg",

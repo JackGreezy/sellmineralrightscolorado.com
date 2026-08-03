@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Are producing minerals always worth more than non-producing minerals?", "a": "Not automatically. Producing interests have measurable cash flow, while a high-quality undeveloped tract may carry significant inventory value. The evidence and scope control."},
-  {"q": "Does an active lease mean drilling is likely soon?", "a": "No. A lease establishes contractual rights and timing, but operator capital, permits, spacing, economics, and surface constraints still affect development."},
-  {"q": "What is the main risk in a one-well royalty?", "a": "Revenue concentration. Downtime, decline, mechanical issues, price changes, or unit adjustments affecting one well can move nearly the entire cash-flow line."}
+  {
+   "q": "Are producing minerals always worth more than non-producing minerals?",
+   "a": "Not automatically. Producing interests have measurable cash flow, while a high-quality undeveloped tract may carry significant inventory value. The evidence and scope control."
+  },
+  {
+   "q": "Does an active lease mean drilling is likely soon?",
+   "a": "No. A lease establishes contractual rights and timing, but operator capital, permits, spacing, economics, and surface constraints still affect development."
+  },
+  {
+   "q": "What is the main risk in a one-well royalty?",
+   "a": "Revenue concentration. Downtime, decline, mechanical issues, price changes, or unit adjustments affecting one well can move nearly the entire cash-flow line."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"},
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
-  {"anchor": "Mineral rights as an investment", "slug": "investing/mineral-rights-as-an-investment"}
+  {
+   "anchor": "Cash flow versus long-term value",
+   "slug": "investing/cash-flow-vs-long-term-value"
+  },
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  },
+  {
+   "anchor": "Mineral rights as an investment",
+   "slug": "investing/mineral-rights-as-an-investment"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-producing-vs-nonproducing-for-investors-sellmineralrightscolorado-com.jpg",

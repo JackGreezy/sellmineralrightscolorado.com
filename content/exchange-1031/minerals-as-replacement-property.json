@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Are mineral rights always real property for a 1031 exchange?", "a": "No blanket assumption is appropriate. The exact interest, creating documents, state law, holding purpose, and transaction components need qualified tax and legal review."},
-  {"q": "Can producing and non-producing interests be identified together?", "a": "They may be part of one acquisition, but the identification and closing documents must describe the property accurately and the economic lines should be underwritten separately."},
-  {"q": "What makes a mineral candidate closing-ready?", "a": "Clear seller authority, usable title evidence, consistent legal descriptions, resolved scope, documented production, agreed terms, and coordinated intermediary instructions."}
+  {
+   "q": "Are mineral rights always real property for a 1031 exchange?",
+   "a": "No blanket assumption is appropriate. The exact interest, creating documents, state law, holding purpose, and transaction components need qualified tax and legal review."
+  },
+  {
+   "q": "Can producing and non-producing interests be identified together?",
+   "a": "They may be part of one acquisition, but the identification and closing documents must describe the property accurately and the economic lines should be underwritten separately."
+  },
+  {
+   "q": "What makes a mineral candidate closing-ready?",
+   "a": "Clear seller authority, usable title evidence, consistent legal descriptions, resolved scope, documented production, agreed terms, and coordinated intermediary instructions."
+  }
  ],
  "internalLinks": [
-  {"anchor": "1031 exchange into mineral rights", "slug": "exchange-1031/1031-exchange-into-mineral-rights"},
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
-  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"}
+  {
+   "anchor": "1031 exchange into mineral rights",
+   "slug": "exchange-1031/1031-exchange-into-mineral-rights"
+  },
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  },
+  {
+   "anchor": "Qualified intermediary basics",
+   "slug": "exchange-1031/qualified-intermediary-basics"
+  }
  ],
  "primaryKeyword": "1031 replacement property",
  "seo": {

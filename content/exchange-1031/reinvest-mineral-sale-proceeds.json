@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Can mineral sale proceeds be invested after closing and still become a 1031 exchange?", "a": "Ordinary post-closing reinvestment generally does not repair an exchange that lacked the required intermediary and proceeds-control structure before the sale."},
-  {"q": "Must replacement property produce the same type of income?", "a": "Like-kind rules concern qualifying real property rather than identical cash-flow patterns, but the exact properties and investment purpose require professional review."},
-  {"q": "What if no acceptable replacement can be found?", "a": "The owner should discuss backup identification, partial exchange, or taxable-sale alternatives before the deadlines force an unsupported acquisition."}
+  {
+   "q": "Can mineral sale proceeds be invested after closing and still become a 1031 exchange?",
+   "a": "Ordinary post-closing reinvestment generally does not repair an exchange that lacked the required intermediary and proceeds-control structure before the sale."
+  },
+  {
+   "q": "Must replacement property produce the same type of income?",
+   "a": "Like-kind rules concern qualifying real property rather than identical cash-flow patterns, but the exact properties and investment purpose require professional review."
+  },
+  {
+   "q": "What if no acceptable replacement can be found?",
+   "a": "The owner should discuss backup identification, partial exchange, or taxable-sale alternatives before the deadlines force an unsupported acquisition."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Is a 1031 right for you", "slug": "exchange-1031/is-a-1031-right-for-you"},
-  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"},
-  {"anchor": "Mineral rights as an investment", "slug": "investing/mineral-rights-as-an-investment"}
+  {
+   "anchor": "Is a 1031 right for you",
+   "slug": "exchange-1031/is-a-1031-right-for-you"
+  },
+  {
+   "anchor": "Partial exchanges and boot",
+   "slug": "exchange-1031/partial-exchange-and-boot"
+  },
+  {
+   "anchor": "Mineral rights as an investment",
+   "slug": "investing/mineral-rights-as-an-investment"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-reinvest-mineral-sale-proceeds-sellmineralrightscolorado-com.jpg",

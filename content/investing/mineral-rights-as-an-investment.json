@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Are mineral rights a passive investment?", "a": "Royalty interests can pay without operating wells, but ownership still requires title, statement, tax, payor, and transaction oversight. Some interest types can carry additional obligations."},
-  {"q": "What creates most of the uncertainty in a mineral valuation?", "a": "Title scope, well decline, commodity prices, deductions, operator decisions, future development timing, and concentration can materially change an expected return."},
-  {"q": "Can a nearby permit be counted as future income?", "a": "A permit is evidence of activity, not a guarantee of drilling, completion, unit participation, timing, or commercial production."}
+  {
+   "q": "Are mineral rights a passive investment?",
+   "a": "Royalty interests can pay without operating wells, but ownership still requires title, statement, tax, payor, and transaction oversight. Some interest types can carry additional obligations."
+  },
+  {
+   "q": "What creates most of the uncertainty in a mineral valuation?",
+   "a": "Title scope, well decline, commodity prices, deductions, operator decisions, future development timing, and concentration can materially change an expected return."
+  },
+  {
+   "q": "Can a nearby permit be counted as future income?",
+   "a": "A permit is evidence of activity, not a guarantee of drilling, completion, unit participation, timing, or commercial production."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
-  {"anchor": "Producing versus non-producing", "slug": "investing/producing-vs-nonproducing-for-investors"},
-  {"anchor": "Direct minerals versus royalty funds", "slug": "investing/minerals-vs-royalty-funds"}
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  },
+  {
+   "anchor": "Producing versus non-producing",
+   "slug": "investing/producing-vs-nonproducing-for-investors"
+  },
+  {
+   "anchor": "Direct minerals versus royalty funds",
+   "slug": "investing/minerals-vs-royalty-funds"
+  }
  ],
  "primaryKeyword": "mineral rights investment",
  "seo": {

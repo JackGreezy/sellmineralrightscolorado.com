@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "How many tracts make a mineral portfolio diversified?", "a": "There is no fixed number. Measure revenue and inventory concentration by operator, well, basin, formation, product, payor, title chain, and development timing."},
-  {"q": "Does acreage in multiple counties remove commodity risk?", "a": "No. Geographic spread may reduce local concentration, but oil and gas prices, decline, deductions, and macro demand can affect the entire portfolio."},
-  {"q": "Should undeveloped acreage count as diversification?", "a": "It can add distinct inventory exposure, but its probability and timing should remain separate from producing cash flow."}
+  {
+   "q": "How many tracts make a mineral portfolio diversified?",
+   "a": "There is no fixed number. Measure revenue and inventory concentration by operator, well, basin, formation, product, payor, title chain, and development timing."
+  },
+  {
+   "q": "Does acreage in multiple counties remove commodity risk?",
+   "a": "No. Geographic spread may reduce local concentration, but oil and gas prices, decline, deductions, and macro demand can affect the entire portfolio."
+  },
+  {
+   "q": "Should undeveloped acreage count as diversification?",
+   "a": "It can add distinct inventory exposure, but its probability and timing should remain separate from producing cash flow."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Direct minerals versus royalty funds", "slug": "investing/minerals-vs-royalty-funds"},
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
-  {"anchor": "Risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+  {
+   "anchor": "Direct minerals versus royalty funds",
+   "slug": "investing/minerals-vs-royalty-funds"
+  },
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  },
+  {
+   "anchor": "Risks of mineral investing",
+   "slug": "investing/risks-of-mineral-investing"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-portfolio-diversification-with-minerals-sellmineralrightscolorado-com.jpg",

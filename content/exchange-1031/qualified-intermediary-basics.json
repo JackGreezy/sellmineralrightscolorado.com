@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Can the seller choose a qualified intermediary after closing?", "a": "That is generally too late for a standard deferred exchange because the exchange agreement and proceeds-control structure should exist before the relinquished transfer."},
-  {"q": "Does the intermediary decide whether mineral rights qualify?", "a": "The intermediary administers the exchange process. Qualification and tax conclusions should be reviewed with independent tax and legal professionals."},
-  {"q": "Does the intermediary perform mineral title diligence?", "a": "No. The tract, ownership, lease, production, and title review remains a separate acquisition function."}
+  {
+   "q": "Can the seller choose a qualified intermediary after closing?",
+   "a": "That is generally too late for a standard deferred exchange because the exchange agreement and proceeds-control structure should exist before the relinquished transfer."
+  },
+  {
+   "q": "Does the intermediary decide whether mineral rights qualify?",
+   "a": "The intermediary administers the exchange process. Qualification and tax conclusions should be reviewed with independent tax and legal professionals."
+  },
+  {
+   "q": "Does the intermediary perform mineral title diligence?",
+   "a": "No. The tract, ownership, lease, production, and title review remains a separate acquisition function."
+  }
  ],
  "internalLinks": [
-  {"anchor": "45- and 180-day deadlines", "slug": "exchange-1031/45-and-180-day-deadlines"},
-  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
-  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"}
+  {
+   "anchor": "45- and 180-day deadlines",
+   "slug": "exchange-1031/45-and-180-day-deadlines"
+  },
+  {
+   "anchor": "Minerals as replacement property",
+   "slug": "exchange-1031/minerals-as-replacement-property"
+  },
+  {
+   "anchor": "Partial exchanges and boot",
+   "slug": "exchange-1031/partial-exchange-and-boot"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-qualified-intermediary-basics-sellmineralrightscolorado-com.jpg",

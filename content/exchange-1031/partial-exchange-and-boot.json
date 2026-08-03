@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "What is boot in a 1031 exchange?", "a": "Boot is a common term for money or other non-like-kind value received in the exchange that can cause gain recognition under the applicable rules."},
-  {"q": "Does adding cash to the replacement remove all boot?", "a": "Not automatically. Debt, value, basis, liabilities, expenses, and other property must be analyzed together by the owner’s tax advisers."},
-  {"q": "Can a partial exchange still be useful?", "a": "Yes. An owner may intentionally defer part of the eligible gain while retaining liquidity, provided the structure and tax consequences are understood before closing."}
+  {
+   "q": "What is boot in a 1031 exchange?",
+   "a": "Boot is a common term for money or other non-like-kind value received in the exchange that can cause gain recognition under the applicable rules."
+  },
+  {
+   "q": "Does adding cash to the replacement remove all boot?",
+   "a": "Not automatically. Debt, value, basis, liabilities, expenses, and other property must be analyzed together by the owner’s tax advisers."
+  },
+  {
+   "q": "Can a partial exchange still be useful?",
+   "a": "Yes. An owner may intentionally defer part of the eligible gain while retaining liquidity, provided the structure and tax consequences are understood before closing."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Defer taxes on a mineral sale", "slug": "exchange-1031/defer-taxes-on-your-mineral-sale"},
-  {"anchor": "Reinvest mineral sale proceeds", "slug": "exchange-1031/reinvest-mineral-sale-proceeds"},
-  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"}
+  {
+   "anchor": "Defer taxes on a mineral sale",
+   "slug": "exchange-1031/defer-taxes-on-your-mineral-sale"
+  },
+  {
+   "anchor": "Reinvest mineral sale proceeds",
+   "slug": "exchange-1031/reinvest-mineral-sale-proceeds"
+  },
+  {
+   "anchor": "Qualified intermediary basics",
+   "slug": "exchange-1031/qualified-intermediary-basics"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-partial-exchange-and-boot-sellmineralrightscolorado-com.jpg",

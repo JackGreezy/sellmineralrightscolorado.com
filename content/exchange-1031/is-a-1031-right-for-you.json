@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Who should decide whether the exchange is appropriate?", "a": "The taxpayer should decide with a qualified intermediary and independent tax, legal, and investment advisers using the actual property and financial facts."},
-  {"q": "What if the owner needs part of the sale proceeds?", "a": "A partial exchange may be possible, but retained money or other non-like-kind value can create recognized gain and needs specific tax modeling."},
-  {"q": "Is tax deferral enough reason to buy a mineral interest?", "a": "No. The replacement should still meet title, production, risk, liquidity, and return requirements without relying on the tax outcome alone."}
+  {
+   "q": "Who should decide whether the exchange is appropriate?",
+   "a": "The taxpayer should decide with a qualified intermediary and independent tax, legal, and investment advisers using the actual property and financial facts."
+  },
+  {
+   "q": "What if the owner needs part of the sale proceeds?",
+   "a": "A partial exchange may be possible, but retained money or other non-like-kind value can create recognized gain and needs specific tax modeling."
+  },
+  {
+   "q": "Is tax deferral enough reason to buy a mineral interest?",
+   "a": "No. The replacement should still meet title, production, risk, liquidity, and return requirements without relying on the tax outcome alone."
+  }
  ],
  "internalLinks": [
-  {"anchor": "45- and 180-day deadlines", "slug": "exchange-1031/45-and-180-day-deadlines"},
-  {"anchor": "Partial exchanges and boot", "slug": "exchange-1031/partial-exchange-and-boot"},
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"}
+  {
+   "anchor": "45- and 180-day deadlines",
+   "slug": "exchange-1031/45-and-180-day-deadlines"
+  },
+  {
+   "anchor": "Partial exchanges and boot",
+   "slug": "exchange-1031/partial-exchange-and-boot"
+  },
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellmineralrightscolorado-com.jpg",

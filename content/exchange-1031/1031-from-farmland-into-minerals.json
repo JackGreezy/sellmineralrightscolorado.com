@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Can operating farmland be exchanged for mineral rights?", "a": "Potentially, but both sides must satisfy Section 1031 requirements and the exact rights and holding purposes need professional review."},
-  {"q": "Will mineral royalties replace farm rent evenly?", "a": "No. Royalty income varies with production, prices, deductions, downtime, decline, and future development."},
-  {"q": "What should be separated from the farmland sale price?", "a": "Land, improvements, crops, equipment, water, contracts, and other components may require distinct allocation and tax analysis."}
+  {
+   "q": "Can operating farmland be exchanged for mineral rights?",
+   "a": "Potentially, but both sides must satisfy Section 1031 requirements and the exact rights and holding purposes need professional review."
+  },
+  {
+   "q": "Will mineral royalties replace farm rent evenly?",
+   "a": "No. Royalty income varies with production, prices, deductions, downtime, decline, and future development."
+  },
+  {
+   "q": "What should be separated from the farmland sale price?",
+   "a": "Land, improvements, crops, equipment, water, contracts, and other components may require distinct allocation and tax analysis."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
-  {"anchor": "Reinvesting mineral sale proceeds", "slug": "exchange-1031/reinvest-mineral-sale-proceeds"},
-  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"}
+  {
+   "anchor": "Minerals as replacement property",
+   "slug": "exchange-1031/minerals-as-replacement-property"
+  },
+  {
+   "anchor": "Reinvesting mineral sale proceeds",
+   "slug": "exchange-1031/reinvest-mineral-sale-proceeds"
+  },
+  {
+   "anchor": "How royalty income works",
+   "slug": "investing/how-royalty-income-works"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-farmland-into-minerals-sellmineralrightscolorado-com.jpg",

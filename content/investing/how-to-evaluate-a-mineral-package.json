@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "What is the minimum file needed to start evaluating a package?", "a": "Begin with the tract list, available deeds or probate records, leases, division orders, recent statements, and any existing ownership spreadsheet. Missing records can be scheduled."},
-  {"q": "Should producing and non-producing tracts use one valuation multiple?", "a": "No. Current production and possible future inventory rely on different evidence, probability, and timing assumptions."},
-  {"q": "How should title uncertainty appear in an offer?", "a": "The written terms should identify the affected tract, the assumed interest, the curative item, and how price or scope changes if title differs."}
+  {
+   "q": "What is the minimum file needed to start evaluating a package?",
+   "a": "Begin with the tract list, available deeds or probate records, leases, division orders, recent statements, and any existing ownership spreadsheet. Missing records can be scheduled."
+  },
+  {
+   "q": "Should producing and non-producing tracts use one valuation multiple?",
+   "a": "No. Current production and possible future inventory rely on different evidence, probability, and timing assumptions."
+  },
+  {
+   "q": "How should title uncertainty appear in an offer?",
+   "a": "The written terms should identify the affected tract, the assumed interest, the curative item, and how price or scope changes if title differs."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Producing versus non-producing interests", "slug": "investing/producing-vs-nonproducing-for-investors"},
-  {"anchor": "Mineral appraisal methods", "slug": "resources/mineral-appraisal-methods"},
-  {"anchor": "Division orders explained", "slug": "resources/division-orders-explained"}
+  {
+   "anchor": "Producing versus non-producing interests",
+   "slug": "investing/producing-vs-nonproducing-for-investors"
+  },
+  {
+   "anchor": "Mineral appraisal methods",
+   "slug": "resources/mineral-appraisal-methods"
+  },
+  {
+   "anchor": "Division orders explained",
+   "slug": "resources/division-orders-explained"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightscolorado-com.jpg",

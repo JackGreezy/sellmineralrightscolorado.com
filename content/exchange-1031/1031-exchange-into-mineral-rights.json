@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Do all mineral or royalty interests qualify for Section 1031?", "a": "No automatic rule should be assumed. Eligibility depends on the exact property rights, holding purpose, transaction structure, applicable law, and professional tax analysis."},
-  {"q": "When should a qualified intermediary be engaged?", "a": "Before the relinquished sale closes or the taxpayer receives proceeds. Late involvement may not repair actual or constructive receipt."},
-  {"q": "Can mineral diligence wait until after identification?", "a": "That is risky. Title, production, lease, and scope questions can make a named property unsuitable while the exchange deadlines continue running."}
+  {
+   "q": "Do all mineral or royalty interests qualify for Section 1031?",
+   "a": "No automatic rule should be assumed. Eligibility depends on the exact property rights, holding purpose, transaction structure, applicable law, and professional tax analysis."
+  },
+  {
+   "q": "When should a qualified intermediary be engaged?",
+   "a": "Before the relinquished sale closes or the taxpayer receives proceeds. Late involvement may not repair actual or constructive receipt."
+  },
+  {
+   "q": "Can mineral diligence wait until after identification?",
+   "a": "That is risky. Title, production, lease, and scope questions can make a named property unsuitable while the exchange deadlines continue running."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
-  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"},
-  {"anchor": "45- and 180-day deadlines", "slug": "exchange-1031/45-and-180-day-deadlines"}
+  {
+   "anchor": "Minerals as replacement property",
+   "slug": "exchange-1031/minerals-as-replacement-property"
+  },
+  {
+   "anchor": "Qualified intermediary basics",
+   "slug": "exchange-1031/qualified-intermediary-basics"
+  },
+  {
+   "anchor": "45- and 180-day deadlines",
+   "slug": "exchange-1031/45-and-180-day-deadlines"
+  }
  ],
  "primaryKeyword": "1031 exchange mineral rights",
  "seo": {

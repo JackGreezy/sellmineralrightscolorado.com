@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Should the latest royalty check be multiplied by twelve?", "a": "Not by itself. Review several statements with production volumes, prices, deductions, downtime, and adjustments before establishing normalized annual cash flow."},
-  {"q": "Does undeveloped acreage belong in the same value as producing wells?", "a": "It can contribute to total value, but it should remain a separately supported inventory line with its own probability and timing assumptions."},
-  {"q": "Why can two offers value long-term potential differently?", "a": "Buyers may use different decline, commodity-price, development-timing, title-risk, and inventory assumptions. Written scope makes those differences visible."}
+  {
+   "q": "Should the latest royalty check be multiplied by twelve?",
+   "a": "Not by itself. Review several statements with production volumes, prices, deductions, downtime, and adjustments before establishing normalized annual cash flow."
+  },
+  {
+   "q": "Does undeveloped acreage belong in the same value as producing wells?",
+   "a": "It can contribute to total value, but it should remain a separately supported inventory line with its own probability and timing assumptions."
+  },
+  {
+   "q": "Why can two offers value long-term potential differently?",
+   "a": "Buyers may use different decline, commodity-price, development-timing, title-risk, and inventory assumptions. Written scope makes those differences visible."
+  }
  ],
  "internalLinks": [
-  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"},
-  {"anchor": "Producing and non-producing interests", "slug": "investing/producing-vs-nonproducing-for-investors"},
-  {"anchor": "Risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+  {
+   "anchor": "How royalty income works",
+   "slug": "investing/how-royalty-income-works"
+  },
+  {
+   "anchor": "Producing and non-producing interests",
+   "slug": "investing/producing-vs-nonproducing-for-investors"
+  },
+  {
+   "anchor": "Risks of mineral investing",
+   "slug": "investing/risks-of-mineral-investing"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-cash-flow-vs-long-term-value-sellmineralrightscolorado-com.jpg",

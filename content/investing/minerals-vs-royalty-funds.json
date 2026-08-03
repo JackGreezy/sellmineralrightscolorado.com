@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Does a royalty fund give the investor title to specific mineral tracts?", "a": "Usually the investor owns an interest in the fund or entity, not direct recorded title to each underlying tract. The governing documents control."},
-  {"q": "Which option is more liquid?", "a": "It depends on the fund’s redemption or transfer rules and the marketability of the direct interest. Neither should be assumed liquid without reviewing actual terms."},
-  {"q": "Does pooling eliminate mineral risk?", "a": "No. Pooling can spread tract or operator concentration, but commodity prices, decline, title, fees, leverage, and management decisions still affect outcomes."}
+  {
+   "q": "Does a royalty fund give the investor title to specific mineral tracts?",
+   "a": "Usually the investor owns an interest in the fund or entity, not direct recorded title to each underlying tract. The governing documents control."
+  },
+  {
+   "q": "Which option is more liquid?",
+   "a": "It depends on the fund’s redemption or transfer rules and the marketability of the direct interest. Neither should be assumed liquid without reviewing actual terms."
+  },
+  {
+   "q": "Does pooling eliminate mineral risk?",
+   "a": "No. Pooling can spread tract or operator concentration, but commodity prices, decline, title, fees, leverage, and management decisions still affect outcomes."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Mineral rights as an investment", "slug": "investing/mineral-rights-as-an-investment"},
-  {"anchor": "Portfolio diversification with minerals", "slug": "investing/portfolio-diversification-with-minerals"},
-  {"anchor": "Real risks of mineral investing", "slug": "investing/risks-of-mineral-investing"}
+  {
+   "anchor": "Mineral rights as an investment",
+   "slug": "investing/mineral-rights-as-an-investment"
+  },
+  {
+   "anchor": "Portfolio diversification with minerals",
+   "slug": "investing/portfolio-diversification-with-minerals"
+  },
+  {
+   "anchor": "Real risks of mineral investing",
+   "slug": "investing/risks-of-mineral-investing"
+  }
  ],
  "primaryKeyword": "royalty fund",
  "seo": {

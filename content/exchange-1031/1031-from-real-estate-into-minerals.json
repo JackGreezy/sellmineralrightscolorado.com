@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Can rental real estate be exchanged into mineral rights?", "a": "Potentially, when both sides are qualifying real property held for investment or business use and the exact rights and structure are approved by qualified advisers."},
-  {"q": "Does reinvesting all cash guarantee full deferral?", "a": "Not necessarily. Value, equity, debt, expenses, non-like-kind property, taxpayer identity, and other facts can affect the tax result."},
-  {"q": "Are royalty checks comparable to rent payments?", "a": "They are both income, but royalty checks vary with production, prices, deductions, decline, title, and operator decisions rather than a tenant lease schedule."}
+  {
+   "q": "Can rental real estate be exchanged into mineral rights?",
+   "a": "Potentially, when both sides are qualifying real property held for investment or business use and the exact rights and structure are approved by qualified advisers."
+  },
+  {
+   "q": "Does reinvesting all cash guarantee full deferral?",
+   "a": "Not necessarily. Value, equity, debt, expenses, non-like-kind property, taxpayer identity, and other facts can affect the tax result."
+  },
+  {
+   "q": "Are royalty checks comparable to rent payments?",
+   "a": "They are both income, but royalty checks vary with production, prices, deductions, decline, title, and operator decisions rather than a tenant lease schedule."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Is a 1031 right for you", "slug": "exchange-1031/is-a-1031-right-for-you"},
-  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"}
+  {
+   "anchor": "Is a 1031 right for you",
+   "slug": "exchange-1031/is-a-1031-right-for-you"
+  },
+  {
+   "anchor": "Minerals as replacement property",
+   "slug": "exchange-1031/minerals-as-replacement-property"
+  },
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-real-estate-into-minerals-sellmineralrightscolorado-com.jpg",

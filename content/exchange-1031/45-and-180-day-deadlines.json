@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Does the 180-day period start after the 45-day identification period?", "a": "No. Both generally run from the transfer of the relinquished property, so the identification period falls inside the exchange period."},
-  {"q": "Can the taxpayer change identified property after day 45?", "a": "The identification rules are strict. Any revocation or substitution must comply within the identification period and should be handled by the qualified intermediary and tax counsel."},
-  {"q": "Can the tax-return due date shorten the 180-day period?", "a": "Yes. The exchange period ends on the earlier applicable date, which is why return-extension planning should be discussed with a tax professional."}
+  {
+   "q": "Does the 180-day period start after the 45-day identification period?",
+   "a": "No. Both generally run from the transfer of the relinquished property, so the identification period falls inside the exchange period."
+  },
+  {
+   "q": "Can the taxpayer change identified property after day 45?",
+   "a": "The identification rules are strict. Any revocation or substitution must comply within the identification period and should be handled by the qualified intermediary and tax counsel."
+  },
+  {
+   "q": "Can the tax-return due date shorten the 180-day period?",
+   "a": "Yes. The exchange period ends on the earlier applicable date, which is why return-extension planning should be discussed with a tax professional."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Qualified intermediary basics", "slug": "exchange-1031/qualified-intermediary-basics"},
-  {"anchor": "Minerals as replacement property", "slug": "exchange-1031/minerals-as-replacement-property"},
-  {"anchor": "1031 exchange into mineral rights", "slug": "exchange-1031/1031-exchange-into-mineral-rights"}
+  {
+   "anchor": "Qualified intermediary basics",
+   "slug": "exchange-1031/qualified-intermediary-basics"
+  },
+  {
+   "anchor": "Minerals as replacement property",
+   "slug": "exchange-1031/minerals-as-replacement-property"
+  },
+  {
+   "anchor": "1031 exchange into mineral rights",
+   "slug": "exchange-1031/1031-exchange-into-mineral-rights"
+  }
  ],
  "image": {
   "src": "/images/exchange-1031/mineral-rights-exchange-1031-45-and-180-day-deadlines-sellmineralrightscolorado-com.jpg",

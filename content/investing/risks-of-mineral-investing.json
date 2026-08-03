@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "What risk should be checked before production modeling?", "a": "Confirm the recorded interest and title scope first. A forecast cannot compensate for valuing the wrong acreage, fraction, depth, or royalty burden."},
-  {"q": "Can diversification remove operator risk?", "a": "It can reduce concentration if the interests truly span independent operators and assets, but operational and commodity risks remain."},
-  {"q": "Why is resale liquidity uncertain?", "a": "Mineral interests require property-specific title, underwriting, negotiation, and closing. Market appetite and documentation readiness can change the time and price of an exit."}
+  {
+   "q": "What risk should be checked before production modeling?",
+   "a": "Confirm the recorded interest and title scope first. A forecast cannot compensate for valuing the wrong acreage, fraction, depth, or royalty burden."
+  },
+  {
+   "q": "Can diversification remove operator risk?",
+   "a": "It can reduce concentration if the interests truly span independent operators and assets, but operational and commodity risks remain."
+  },
+  {
+   "q": "Why is resale liquidity uncertain?",
+   "a": "Mineral interests require property-specific title, underwriting, negotiation, and closing. Market appetite and documentation readiness can change the time and price of an exit."
+  }
  ],
  "internalLinks": [
-  {"anchor": "Evaluate a mineral package", "slug": "investing/how-to-evaluate-a-mineral-package"},
-  {"anchor": "Portfolio diversification", "slug": "investing/portfolio-diversification-with-minerals"},
-  {"anchor": "Mineral appraisal methods", "slug": "resources/mineral-appraisal-methods"}
+  {
+   "anchor": "Evaluate a mineral package",
+   "slug": "investing/how-to-evaluate-a-mineral-package"
+  },
+  {
+   "anchor": "Portfolio diversification",
+   "slug": "investing/portfolio-diversification-with-minerals"
+  },
+  {
+   "anchor": "Mineral appraisal methods",
+   "slug": "resources/mineral-appraisal-methods"
+  }
  ],
  "image": {
   "src": "/images/investing/mineral-rights-investing-risks-of-mineral-investing-sellmineralrightscolorado-com.jpg",

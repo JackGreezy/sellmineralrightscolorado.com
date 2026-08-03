@@ -24,14 +24,32 @@
   }
  ],
  "faqs": [
-  {"q": "Does a royalty owner pay drilling costs?", "a": "A standard royalty interest is generally free of routine drilling and operating costs, but deductions, taxes, and the exact creating documents still matter."},
-  {"q": "Why would a producing royalty be placed in suspense?", "a": "Title questions, missing transfer documents, ownership disputes, returned mail, or incomplete tax information can cause a payor to suspend funds."},
-  {"q": "How often should statements be reviewed?", "a": "Review every statement when practical and reconcile several months together so volume, price, deductions, adjustments, and decline can be seen in context."}
+  {
+   "q": "Does a royalty owner pay drilling costs?",
+   "a": "A standard royalty interest is generally free of routine drilling and operating costs, but deductions, taxes, and the exact creating documents still matter."
+  },
+  {
+   "q": "Why would a producing royalty be placed in suspense?",
+   "a": "Title questions, missing transfer documents, ownership disputes, returned mail, or incomplete tax information can cause a payor to suspend funds."
+  },
+  {
+   "q": "How often should statements be reviewed?",
+   "a": "Review every statement when practical and reconcile several months together so volume, price, deductions, adjustments, and decline can be seen in context."
+  }
  ],
  "internalLinks": [
-  {"anchor": "How royalty income works", "slug": "investing/how-royalty-income-works"},
-  {"anchor": "Royalty statements guide", "slug": "resources/royalty-statements-guide"},
-  {"anchor": "Cash flow versus long-term value", "slug": "investing/cash-flow-vs-long-term-value"}
+  {
+   "anchor": "How royalty income works",
+   "slug": "investing/how-royalty-income-works"
+  },
+  {
+   "anchor": "Royalty statements guide",
+   "slug": "resources/royalty-statements-guide"
+  },
+  {
+   "anchor": "Cash flow versus long-term value",
+   "slug": "investing/cash-flow-vs-long-term-value"
+  }
  ],
  "primaryKeyword": "passive royalty income",
  "seo": {
