@@ -92,7 +92,7 @@
     "home_interests_body": "Mineral rights, royalty interests, overriding royalties, working interests, and split estates carry different rights, burdens, revenue positions, and conveyance documents.",
     "hero_cta": "Request a Colorado Review",
     "index_tagline": "Use the {title} tract brief to identify the controlling record, paid interest, production evidence, basin context, open risk, and written decision terms.",
-    "detail_cta_title": "Put This Property on the Colorado Review Schedule",
+    "detail_cta_title": "Consult with a Colorado mineral reviewer",
     "detail_cta_body": "Share the county, interest type, producing status, available statements, and the decision that needs a clearer answer. Bank credentials, government identification numbers, and original documents should not be submitted through the website.",
     "detail_followup": "Connect this topic to the exact tract, recorded interest, lease position, paid decimal, production ledger, basin evidence, and offer scope in the Colorado file.",
     "faq_heading": "Questions on the Colorado Inventory Line",
@@ -145,9 +145,8 @@
     "faq_heading": "Check the Assumption Before It Enters the Schedule",
     "faq_intro": "Each answer points back to a tract fact, paid line, production record, basin signal, or written term that can be checked.",
     "related_kicker": "NEXT REVIEW STATION",
-    "related_heading": "Move the Property File to the Next Evidence Line",
-    "related_intro": "Carry the same tract schedule, paid interest, production ledger, and open assumptions from {item} into these {taxonomy} briefs.",
-    "related_action": "Open the Complete Colorado Index"
+    "related_heading": "More Colorado tract briefs",
+    "related_intro": "Carry the same tract schedule, paid interest, production ledger, and open assumptions from {item} into these {taxonomy} briefs."
   },
   "form_fields": [
     ["name", "text", "Name", true],

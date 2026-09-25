@@ -1,0 +1,21 @@
+{
+  "classes": {
+    "#contact-form .rr-contact-field": "form-field",
+    "#contact-form input": "a-input__field",
+    "#contact-form textarea": "a-textarea__field",
+    "#contact-form button[type=submit]": "a-btn a-btn--primary a-btn--color-primary",
+    "header a.rr-header-cta": "a-btn a-btn--primary a-btn--color-primary a-btn--sm"
+  },
+  "remove": {
+    "all": [],
+    "slug": []
+  },
+  "slug_order": ["faq", "related", "cta"],
+  "templates": {
+    "faq": "<div class=\"mod mod-linklist skin-linklist-faqlist\"><div class=\"a-mod-headline mod-linklist__headline\"><h2>{heading}</h2></div><div class=\"o-accordion\">{items}</div></div>",
+    "faq_item": "<details class=\"o-accordion__item\"><summary class=\"o-accordion__item__headline\">{q}</summary><div class=\"copy o-accordion__item__content\"><div class=\"p2 content__text\">{a}</div></div></details>",
+    "related": "<article class=\"mod mod-teaser--three mod-teaser\"><div class=\"mod-teaser__intro\"><div class=\"a-mod-headline\"><h2>{heading}</h2></div></div><div class=\"row mod-teaser__row\">{items}</div><div class=\"mod-teaser__intro\"><a class=\"a-btn a-btn--primary a-btn--color-primary\" href=\"{all_href}\">{all_label}</a></div></article>",
+    "related_item": "<div class=\"col-md-4\"><a class=\"mod-teaser__box\" href=\"{href}\"><div class=\"mod-teaser__box__content\"><div class=\"a-teaser-headline\"><h4 class=\"content__headline\">{name}</h4></div><div class=\"p2 content__text\">{teaser}</div></div></a></div>",
+    "cta": "<div class=\"mod mod-contact\"><div class=\"mod-contact__info\"><div class=\"mod-contact__info__inner\"><div class=\"h2 inner__name\">{title}</div><div class=\"p3 inner__title\">{intro}</div><hr class=\"a-line a-line--petrol\"><ul class=\"copy inner__links\"><li><a class=\"a-btn a-btn--primary a-btn--color-primary a-btn--sm\" href=\"{contact_href}\"><span class=\"icon-mail-32\"></span><span class=\"inner__links__text\">{label}</span></a></li><li><a class=\"a-link--highlight\" href=\"{tel_href}\"><span class=\"inner__links__text\">Call {phone}</span></a></li></ul></div></div></div>"
+  }
+}
