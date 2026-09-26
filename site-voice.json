@@ -29,33 +29,114 @@
     ]
   },
   "scrub": [
-    ["\\bHow do I\\b", "How do you"],
-    ["\\bDo I\\b", "Do you"],
-    ["\\bCan I\\b", "Can you"],
-    ["\\bWhat if I\\b", "What if you"],
-    ["\\bAm I\\b", "Are you"],
-    ["\\bWill I\\b", "Will you"],
-    ["\\bShould I\\b", "Should you"],
-    ["(^|<p>|[.!?]\\s+)My family\\b", "\\1A Colorado mineral-owning family"],
-    ["(^|<p>|[.!?]\\s+)My interest\\b", "\\1Your mineral interest"],
-    ["(^|<p>|[.!?]\\s+)My minerals\\b", "\\1Your mineral rights"],
-    ["(^|<p>|[.!?]\\s+)My statement\\b", "\\1Your royalty statement"],
-    ["\\bmy family\\b", "a Colorado mineral-owning family"],
-    ["\\bmy interest\\b", "your mineral interest"],
-    ["\\bmy minerals\\b", "your mineral rights"],
-    ["\\bmy statement\\b", "your royalty statement"],
-    ["\\bI['’]m\\b", "you are"],
-    ["\\bI['’]ve\\b", "you have"],
-    ["\\bI['’]ll\\b", "you will"],
-    ["\\bI['’]d\\b", "you would"],
-    ["\\bI don['’]t\\b", "you do not"],
-    ["\\bI didn['’]t\\b", "you did not"],
-    ["\\bI can['’]t\\b", "you cannot"],
-    ["\\bmyself\\b", "yourself"],
-    ["\\bmine\\b", "your mineral interest"],
-    ["\\bmy\\b", "your"],
-    ["\\bme\\b", "you"],
-    ["\\bI\\b", "you"]
+    [
+      "\\bHow do I\\b",
+      "How do you"
+    ],
+    [
+      "\\bDo I\\b",
+      "Do you"
+    ],
+    [
+      "\\bCan I\\b",
+      "Can you"
+    ],
+    [
+      "\\bWhat if I\\b",
+      "What if you"
+    ],
+    [
+      "\\bAm I\\b",
+      "Are you"
+    ],
+    [
+      "\\bWill I\\b",
+      "Will you"
+    ],
+    [
+      "\\bShould I\\b",
+      "Should you"
+    ],
+    [
+      "(^|<p>|[.!?]\\s+)My family\\b",
+      "\\1A Colorado mineral-owning family"
+    ],
+    [
+      "(^|<p>|[.!?]\\s+)My interest\\b",
+      "\\1Your mineral interest"
+    ],
+    [
+      "(^|<p>|[.!?]\\s+)My minerals\\b",
+      "\\1Your mineral rights"
+    ],
+    [
+      "(^|<p>|[.!?]\\s+)My statement\\b",
+      "\\1Your royalty statement"
+    ],
+    [
+      "\\bmy family\\b",
+      "a Colorado mineral-owning family"
+    ],
+    [
+      "\\bmy interest\\b",
+      "your mineral interest"
+    ],
+    [
+      "\\bmy minerals\\b",
+      "your mineral rights"
+    ],
+    [
+      "\\bmy statement\\b",
+      "your royalty statement"
+    ],
+    [
+      "\\bI['’]m\\b",
+      "you are"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "you have"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "you will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "you would"
+    ],
+    [
+      "\\bI don['’]t\\b",
+      "you do not"
+    ],
+    [
+      "\\bI didn['’]t\\b",
+      "you did not"
+    ],
+    [
+      "\\bI can['’]t\\b",
+      "you cannot"
+    ],
+    [
+      "\\bmyself\\b",
+      "yourself"
+    ],
+    [
+      "\\bmine\\b",
+      "your mineral interest"
+    ],
+    [
+      "\\bmy\\b",
+      "your"
+    ],
+    [
+      "\\bme\\b",
+      "you"
+    ],
+    [
+      "\\bI\\b",
+      "you"
+    ]
   ],
   "heroes": [
     [
@@ -91,7 +172,7 @@
     "home_interests_title": "Name the Interest Before Comparing Price",
     "home_interests_body": "Mineral rights, royalty interests, overriding royalties, working interests, and split estates carry different rights, burdens, revenue positions, and conveyance documents.",
     "hero_cta": "Request a Colorado Review",
-    "index_tagline": "Use the {title} tract brief to identify the controlling record, paid interest, production evidence, basin context, open risk, and written decision terms.",
+    "index_tagline": "Identify the controlling record, paid interest, production evidence, basin context, open risk, and written decision terms before comparing a Colorado offer.",
     "detail_cta_title": "Consult with a Colorado mineral reviewer",
     "detail_cta_body": "Share the county, interest type, producing status, available statements, and the decision that needs a clearer answer. Bank credentials, government identification numbers, and original documents should not be submitted through the website.",
     "detail_followup": "Connect this topic to the exact tract, recorded interest, lease position, paid decimal, production ledger, basin evidence, and offer scope in the Colorado file.",
@@ -146,52 +227,72 @@
     "faq_intro": "Each answer points back to a tract fact, paid line, production record, basin signal, or written term that can be checked.",
     "related_kicker": "NEXT REVIEW STATION",
     "related_heading": "More Colorado tract briefs",
-    "related_intro": "Carry the same tract schedule, paid interest, production ledger, and open assumptions from {item} into these {taxonomy} briefs."
+    "related_intro": "Carry the same tract schedule, paid interest, production ledger, and open assumptions into these related Colorado briefs."
   },
   "form_fields": [
-    ["name", "text", "Name", true],
-    ["email", "email", "Email", true],
-    ["phone", "tel", "Phone", true],
-    ["message", "textarea", "Message", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ],
   "taxonomy_enrichment": {
     "situations": [
       [
-        "Set the Decision Boundary for {name}",
-        "The Colorado tract brief should state the actual decision, the deadline attached to it, the people authorized to act, and the records already available. For {name}, the working file separates verified ownership from assumptions, current cash flow from possible inventory, and the written offer from verbal descriptions. That separation shows which unknown could materially change the decision and which item is simply administrative. The opening review does not require every title document, but it should identify the county, approximate acreage, producing status, recent payor, known lease, and the owner question that needs a clearer answer."
+        "Set the Decision Boundary First",
+        "The Colorado tract brief should state the actual decision, the deadline attached to it, the people authorized to act, and the records already available. The working file separates verified ownership from assumptions, current cash flow from possible inventory, and the written offer from verbal descriptions. That separation shows which unknown could materially change the decision and which item is simply administrative. The opening review does not require every title document, but it should identify the county, approximate acreage, producing status, recent payor, known lease, and the owner question that needs a clearer answer."
       ],
       [
-        "Build the Evidence Sequence for {name}",
+        "Build the Evidence Sequence Before the Price",
         "A useful sequence starts with the recorded interest and signing authority, then reconciles division orders and statements, then reads production and basin evidence, and only then compares price and terms. The schedule should name missing deeds, probate or trust authority, lease exhibits, unit records, statement months, title exceptions, and offer conditions without treating any of them as solved. That record gives the owner, buyer, title team, tax adviser, and counsel one visible list of facts, responsibilities, and contingencies before a deed is signed or proceeds move."
       ]
     ],
     "interest-types": [
       [
-        "Define the Economic Right in {name}",
-        "The label on a statement does not always describe the full recorded interest. The Colorado review should trace {name} through the deed chain, reservation language, assignments, lease position, royalty burden, unit participation, depth limitations, products, and payment decimal. Net mineral acres, royalty acres, overriding royalty percentages, working-interest obligations, and surface rights are different measurements and should not be substituted for one another. A comparison becomes useful only after the file shows which right can be conveyed and which burdens or retained interests travel with it."
+        "Define the Economic Right Being Conveyed",
+        "The label on a statement does not always describe the full recorded interest. The Colorado review traces the right through the deed chain, reservation language, assignments, lease position, royalty burden, unit participation, depth limitations, products, and payment decimal. Net mineral acres, royalty acres, overriding royalty percentages, working-interest obligations, and surface rights are different measurements and should not be substituted for one another. A comparison becomes useful only after the file shows which right can be conveyed and which burdens or retained interests travel with it."
       ],
       [
-        "Match the Conveyance to {name}",
+        "Match the Deed to the Interest Reviewed",
         "The offer and deed should use a legal description and granting language that match the interest actually reviewed. The tract schedule should show included counties, sections, lots, depths, formations, fractions, products, receivables, effective date, title conditions, and any reserved interest. If the ownership evidence remains incomplete, the written terms should identify the contingency instead of quietly changing the economic scope at closing. That discipline keeps the price comparison tied to the same property from opening review through recording."
       ]
     ],
     "basins": [
       [
-        "Read {name} at Tract Scale",
-        "A basin name is context, not a valuation. The Colorado tract brief should connect {name} to the exact county, legal description, formation, unit, producing wells, operator history, lease position, and nearby activity. Production volumes, decline, downtime, product mix, realized prices, deductions, and statement adjustments belong on the current-cash-flow line. Permits, offsets, spacing, nearby completions, infrastructure, and undeveloped acreage belong on the inventory line. The two lines can inform the same decision without being treated as the same evidence."
+        "Read the Basin at Tract Scale",
+        "A basin name is context, not a valuation. The Colorado tract brief connects basin position to the exact county, legal description, formation, unit, producing wells, operator history, lease position, and nearby activity. Production volumes, decline, downtime, product mix, realized prices, deductions, and statement adjustments belong on the current-cash-flow line. Permits, offsets, spacing, nearby completions, infrastructure, and undeveloped acreage belong on the inventory line. The two lines can inform the same decision without being treated as the same evidence."
       ],
       [
-        "Test the Development Assumptions in {name}",
+        "Test Every Development Assumption",
         "Possible inventory should be described through observable records and dated activity. The review can note permit status, offset timing, completion design, operator behavior, unit configuration, regulatory constraints, lease expiration, depth restrictions, and access to infrastructure, but it should not turn proximity into a promise. The offer comparison should state which assumptions are reflected in price, which risks remain with the buyer, which interests are excluded, and which changes could require the tract schedule to be revised before closing."
       ]
     ],
     "resources": [
       [
-        "Use {name} as a Working Brief",
-        "This guide becomes useful when its questions are attached to the actual Colorado property file. The owner should connect {name} to the county, legal description, interest type, producing status, recent statements, lease position, operator, division order, offer documents, and the decision date. Each document should answer a specific line on the schedule rather than simply making the file thicker. Conflicting decimals, missing months, unclear reservations, unexplained deductions, and conditional price language should remain visible until reconciled."
+        "Attach the Guide to the Property File",
+        "A guide becomes useful when its questions are attached to the actual Colorado property file. The owner should line up the county, legal description, interest type, producing status, recent statements, lease position, operator, division order, offer documents, and the decision date. Each document should answer a specific line on the schedule rather than simply making the file thicker. Conflicting decimals, missing months, unclear reservations, unexplained deductions, and conditional price language should remain visible until reconciled."
       ],
       [
-        "Carry {name} Into Written Terms",
+        "Carry the Findings Into Written Terms",
         "The practical result of the review is a clearer comparison of scope, price, risk allocation, timing, and closing obligations. The offer schedule should identify the included tracts, ownership fraction, depths, products, receivables, retained interests, effective date, title reserve, funding method, and recording sequence. Legal, tax, title, engineering, reserve, appraisal, exchange, and investment questions belong with qualified independent professionals. Their conclusions should be reflected in the final documents before the owner treats the transaction as complete."
       ]
     ],
@@ -201,7 +302,7 @@
         "A Colorado mineral package should be evaluated through a production ledger and an inventory line rather than one headline yield. The production ledger tracks monthly volumes, product mix, realized prices, deductions, taxes, adjustments, downtime, decline, operator performance, and the paid decimal. The inventory line tracks undeveloped acreage, permits, offsets, spacing, lease terms, title risk, and basin activity. Historical checks support the current-income analysis, but they do not guarantee future volumes, commodity prices, development, or distributions."
       ],
       [
-        "Document the Risks Around {name}",
+        "Document the Risks Around the Package",
         "The investment brief should state concentration by county, operator, formation, well, and payor; distinguish producing, shut-in, permitted, and undeveloped interests; and show which title or lease assumptions remain open. Liquidity, tax treatment, commodity exposure, decline, operating decisions, regulatory changes, deductions, curative work, and future capital obligations can affect outcomes. Independent legal, tax, title, engineering, reserve, appraisal, and investment review may be appropriate before a buyer relies on a forecast or acquisition structure."
       ],
       [
@@ -225,13 +326,32 @@
     ],
     "locations": [
       [
-        "Anchor {name} to the Colorado Record",
-        "A location page should identify the local property context without substituting a city or county label for tract evidence. The file should connect {name} to the legal description, ownership fraction, formation, producing unit, operator, lease position, paid decimal, statement history, and nearby activity. County records, state well information, payor documents, and the owner file may each answer a different part of the schedule. The review should preserve those source differences rather than smoothing them into a generic statewide summary."
+        "Anchor the Area to the Colorado Record",
+        "An area brief should identify the local property context without substituting a city or county label for tract evidence. The file connects the local tract to the legal description, ownership fraction, formation, producing unit, operator, lease position, paid decimal, statement history, and nearby activity. County records, state well information, payor documents, and the owner file may each answer a different part of the schedule. The review should preserve those source differences rather than smoothing them into a generic statewide summary."
       ],
       [
-        "Compare {name} Through the Same Evidence Lines",
-        "A tract in {name} can be compared with other Colorado interests only after the same evidence lines are populated: recorded right, paid interest, production, decline, lease burdens, inventory signals, title risk, and written offer scope. Basin proximity, operator activity, or a nearby completion can add context but does not guarantee development. A useful written comparison states the date of the evidence, the assumptions included, the property excluded, and the title or timing condition that could still change the result."
+        "Compare Local Tracts Through the Same Evidence Lines",
+        "A local tract can be compared with other Colorado interests only after the same evidence lines are populated: recorded right, paid interest, production, decline, lease burdens, inventory signals, title risk, and written offer scope. Basin proximity, operator activity, or a nearby completion can add context but does not guarantee development. A useful written comparison states the date of the evidence, the assumptions included, the property excluded, and the title or timing condition that could still change the result."
       ]
     ]
+  },
+  "hero_city_suffix": false,
+  "taxonomy_titles": {
+    "locations": "Colorado Areas",
+    "situations": "Selling Situations",
+    "interest-types": "Mineral Interest Types",
+    "basins": "Colorado Basins",
+    "resources": "Owner Resources",
+    "investing": "Mineral Investing",
+    "exchange-1031": "1031 Exchange Guides"
+  },
+  "taxonomy_intros": {
+    "situations": "Inherited acreage, shared title, an unsolicited letter, or a stalled estate each call for a different evidence path before a Colorado tract is priced.",
+    "interest-types": "Mineral, royalty, overriding, and working interests carry different rights and burdens, so the deed language is read before any price is compared.",
+    "basins": "DJ, Niobrara, Piceance, and San Juan acreage is read through the exact county, formation, and producing unit, never through the basin name alone.",
+    "resources": "Working briefs that tie each seller question to the deed, lease, division order, royalty statement, or offer term that can answer it.",
+    "investing": "Production income, decline, undeveloped inventory, and title risk stay on separate lines before a Colorado mineral package is underwritten.",
+    "exchange-1031": "How a Colorado mineral sale or purchase fits an exchange schedule, with the intermediary, tax counsel, and title work each kept in its own lane.",
+    "locations": "From Weld County to the Western Slope, each area brief starts with the local tract record, the operator, and the paid decimal before value is discussed."
   }
 }

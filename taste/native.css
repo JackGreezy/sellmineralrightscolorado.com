@@ -18,7 +18,9 @@ html body header .rr-dropdown-menu .rr-dropdown-link--all{color:#d10007!importan
 
 /* Wordmark: donor logotype weight, two lines, never split mid-word */
 html body .rr-wordmark{font-family:"Nexa for Swisslog",Calibri,Arial,sans-serif!important;line-height:1!important;text-decoration:none!important;white-space:nowrap!important}
-html body header .rr-wordmark{color:#24262a!important}
+html body header .rr-wordmark{color:#e30613!important}
+html body header.o-header .mod-logo .rr-wordmark,html body header.o-header a.rr-wordmark{color:#e30613!important}
+@media(min-width:901px){html body:has(.mod-videostage) header.o-header .mod-logo .rr-wordmark,html body:has(.mod-videostage) header.o-header a.rr-wordmark{color:#fff!important}}
 html body .rr-wordmark .rr-wm-1{font-size:15px!important;font-weight:700!important;letter-spacing:.02em!important;white-space:nowrap!important;overflow-wrap:normal!important}
 html body .rr-wordmark .rr-wm-2{margin-top:3px!important;font-size:10px!important;font-weight:400!important;letter-spacing:.3em!important;white-space:nowrap!important;overflow-wrap:normal!important}
 html body footer .rr-wordmark{color:#fff!important}
@@ -134,3 +136,19 @@ html body .mod-focusaccordion__content__accordion .o-accordion__item:not(:first-
   html body footer .rr-footer-ia{justify-content:flex-start!important;padding-left:20px!important;padding-right:20px!important}
   html body footer .rr-footer-map{height:200px!important;min-height:200px!important}
 }
+
+/* ---------- Index grids: never leave a single orphan card on the last row ---------- */
+@media(min-width:768px){html body article.mod-teaser>.row:has(>.col-md-4:nth-child(3n+1):last-child)>.col-md-4:nth-last-child(-n+4){flex:0 0 50%!important;max-width:50%!important;width:50%!important}html body article.mod-teaser>.row:has(>.col-md-4:nth-child(3n+2):last-child){justify-content:center!important}}
+/* ---------- Index/about intro lede sits under the H1 in the donor intro column ---------- */
+html body .mod-page-intro .mod-page-intro__text .intro{margin-top:24px!important;color:#24262a!important;font-family:"Nexa for Swisslog",Calibri,Arial,sans-serif!important}
+/* ---------- Tablet/laptop header: donor second-row nav keeps every section and a tight row ---------- */
+@media(min-width:901px) and (max-width:1439px){html body header.o-header .o-header__wrapper .mod-navdesktop{margin-top:0!important}html body header.o-header .o-header__wrapper .mod-navdesktop>div:nth-child(n){display:flex!important}html body header.o-header .o-header__wrapper .mod-navdesktop>div>a{min-height:52px!important}}
+
+/* ---------- Carousel arrows: donor petrol ring button, red on hover/active (fallback for any [data-rr-carousel]) ---------- */
+html body [data-rr-carousel] .rr-carousel-control,html body .rr-agency-control{display:grid!important;place-items:center!important;box-sizing:border-box!important;width:44px!important;height:44px!important;border:2px solid #003744!important;border-radius:50%!important;background:#fff!important;color:#003744!important;opacity:1!important;visibility:visible!important}
+html body [data-rr-carousel] .rr-carousel-control:hover,html body .rr-agency-control:hover{border-color:#d10007!important;background:#d10007!important;color:#fff!important}
+html body [data-rr-carousel] .rr-carousel-control.disabled,html body [data-rr-carousel] .rr-carousel-control:disabled,html body .rr-agency-control.disabled,html body .rr-agency-control:disabled{border-color:rgba(0,55,68,.3)!important;background:#fff!important;color:rgba(0,55,68,.3)!important;opacity:1!important;cursor:default!important}
+/* Coverslider instance keeps the donor thin white chevron on its dark image band */
+html body .mod-coverslider__slider .rr-carousel-control{border:1px solid #fff!important;background:transparent!important;color:#fff!important}
+html body .mod-coverslider__slider .rr-carousel-control:hover{background:rgba(255,255,255,.18)!important;border-color:#fff!important;color:#fff!important}
+html body .mod-coverslider__slider .rr-carousel-control.disabled,html body .mod-coverslider__slider .rr-carousel-control:disabled{border-color:rgba(255,255,255,.35)!important;background:transparent!important;color:rgba(255,255,255,.35)!important}
