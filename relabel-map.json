@@ -538,7 +538,7 @@
    "hero_images": {
     "locations": "/ours/pages/mineral-rights-pages-get-an-offer-sellmineralrightscolorado-com.jpg",
     "situations": "/ours/pages/mineral-rights-pages-how-it-works-sellmineralrightscolorado-com.jpg",
-    "resources": "/ours/pages/mineral-rights-pages-contact-sellmineralrightscolorado-com.jpg",
+    "resources": "/ours/situations/mineral-title-review.png",
     "interest-types": "/ours/pages/mineral-rights-pages-privacy-sellmineralrightscolorado-com.jpg",
     "basins": "/ours/locations/sell-mineral-rights-meeker-co.jpg",
     "investing": "/ours/exchange-1031/mineral-rights-exchange-1031-minerals-as-replacement-property-sellmineralrightscolorado-com.jpg",
@@ -659,7 +659,7 @@
       },
       {
        "sel": ".mod-page-intro__media img",
-       "img": "/ours/pages/mineral-rights-pages-contact-sellmineralrightscolorado-com.jpg",
+       "img": "/ours/situations/mineral-title-review.png",
        "alt": "Colorado mineral review contact",
        "optional": true
       }
