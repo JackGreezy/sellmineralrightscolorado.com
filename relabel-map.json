@@ -38,7 +38,7 @@
    "logo_slot": ".o-header__wrapper .mod-logo",
    "nav_link_selector": ".o-header__wrapper .mod-navdesktop > div > a",
    "html_map": {
-    ".o-header__wrapper .mod-nav-meta": "<div class=\"rr-header-actions\"><a class=\"rr-header-phone\" href=\"tel:+13035551035\">303-555-1035</a><a class=\"rr-header-cta\" href=\"/contact#contact-form\">Request a Colorado Review</a><button class=\"rr-burger\" type=\"button\" aria-label=\"Menu\"><span></span><span></span><span></span></button></div>",
+    ".o-header__wrapper .mod-nav-meta": "<div class=\"rr-header-actions\"><a class=\"rr-header-phone\" href=\"tel:+13035296462\">303-529-6462</a><a class=\"rr-header-cta\" href=\"/contact#contact-form\">Request a Colorado Review</a><button class=\"rr-burger\" type=\"button\" aria-label=\"Menu\"><span></span><span></span><span></span></button></div>",
     ".o-header__wrapper .mod-navdesktop": "<div class=\"rr-dropdown-host\"><a href=\"/situations\">Selling Situations</a></div><div class=\"rr-dropdown-host\"><a href=\"/interest-types\">Interest Types</a></div><div class=\"rr-dropdown-host\"><a href=\"/basins\">Colorado Basins</a></div><div class=\"rr-dropdown-host\"><a href=\"/resources\">Owner Resources</a></div><div class=\"rr-dropdown-host\"><a href=\"/locations\">Colorado Areas</a></div>"
    },
    "mobile_menu_slot": ".a-site-overlay.js-site-overlay",
@@ -487,7 +487,7 @@
       {
        "sel": ".mod-linktiles__item__link",
        "nth": 2,
-       "href": "tel:+13035551035",
+       "href": "tel:+13035296462",
        "attr": {
         "target": null
        }
