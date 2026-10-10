@@ -62,5 +62,775 @@
     "/ours/pages/mineral-rights-pages-contact-sellmineralrightscolorado-com.jpg": "/ours/situations/mineral-title-review.png",
     "/images/pages/mineral-rights-pages-contact-sellmineralrightscolorado-com.jpg": "/ours/situations/mineral-title-review.png"
   },
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/weld-county": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/garfield-county": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/las-animas-county": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/fort-lupton-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/aetna-estates-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/aguilar-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/brick-center-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/briggsdale-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/broomfield-county": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/byers-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/carbonate-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/catherine-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/centennial-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/cherry-creek-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/clifton-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/collbran-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/comanche-creek-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/de-beque-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/deer-trail-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/eaton-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/englewood-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/erie-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/estes-park-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/foxfield-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/fruitvale-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/gilcrest-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/glendale-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/inverness-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/jansen-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/keenesburg-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/laird-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/laporte-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/nunn-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/peoria-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/pierce-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/raymer-new-raymer-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/segundo-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/shaw-heights-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/sheridan-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/sherrelwood-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/southern-ute-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/todd-creek-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/twin-lakes-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/valdez-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/vernon-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/welby-co": {
+      "src": "/ours/locations/regional-arapahoe-co.jpg",
+      "alt": "Regional view: Arapahoe, Colorado",
+      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Colorado",
+      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+    },
+    "/locations/greeley-co": {
+      "src": "/ours/locations/sell-mineral-rights-greeley-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Greeley, CO"
+    },
+    "/locations/mesa-county": {
+      "src": "/ours/locations/sell-mineral-rights-mesa-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mesa County, CO"
+    },
+    "/locations/grand-junction-co": {
+      "src": "/ours/locations/sell-mineral-rights-grand-junction-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Grand Junction, CO"
+    },
+    "/locations/rio-blanco-county": {
+      "src": "/ours/locations/sell-mineral-rights-rio-blanco-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rio Blanco County, CO"
+    },
+    "/locations/rangely-co": {
+      "src": "/ours/locations/sell-mineral-rights-rangely-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rangely, CO"
+    },
+    "/locations/rifle-co": {
+      "src": "/ours/locations/sell-mineral-rights-rifle-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rifle, CO"
+    },
+    "/locations/la-plata-county": {
+      "src": "/ours/locations/sell-mineral-rights-la-plata-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in La Plata County, CO"
+    },
+    "/locations/durango-co": {
+      "src": "/ours/locations/sell-mineral-rights-durango-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Durango, CO"
+    },
+    "/locations/trinidad-co": {
+      "src": "/ours/locations/sell-mineral-rights-trinidad-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Trinidad, CO"
+    },
+    "/locations/adams-county": {
+      "src": "/ours/locations/sell-mineral-rights-adams-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Adams County, CO"
+    },
+    "/locations/arapahoe-county": {
+      "src": "/ours/locations/sell-mineral-rights-arapahoe-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arapahoe County, CO"
+    },
+    "/locations/fort-collins-co": {
+      "src": "/ours/locations/sell-mineral-rights-fort-collins-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fort Collins, CO"
+    },
+    "/locations/loveland-co": {
+      "src": "/ours/locations/sell-mineral-rights-loveland-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Loveland, CO"
+    },
+    "/locations/brighton-co": {
+      "src": "/ours/locations/sell-mineral-rights-brighton-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Brighton, CO"
+    },
+    "/locations/windsor-co": {
+      "src": "/ours/locations/sell-mineral-rights-windsor-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Windsor, CO"
+    },
+    "/locations/arapahoe-co": {
+      "src": "/ours/locations/sell-mineral-rights-arapahoe-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arapahoe, CO"
+    },
+    "/locations/aristocrat-ranchettes-co": {
+      "src": "/ours/locations/sell-mineral-rights-aristocrat-ranchettes-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Aristocrat Ranchettes, CO"
+    },
+    "/locations/arvada-co": {
+      "src": "/ours/locations/sell-mineral-rights-arvada-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Arvada, CO"
+    },
+    "/locations/ault-co": {
+      "src": "/ours/locations/sell-mineral-rights-ault-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ault, CO"
+    },
+    "/locations/aurora-co": {
+      "src": "/ours/locations/sell-mineral-rights-aurora-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Aurora, CO"
+    },
+    "/locations/battlement-mesa-co": {
+      "src": "/ours/locations/sell-mineral-rights-battlement-mesa-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Battlement Mesa, CO"
+    },
+    "/locations/bayfield-co": {
+      "src": "/ours/locations/sell-mineral-rights-bayfield-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bayfield, CO"
+    },
+    "/locations/bennett-co": {
+      "src": "/ours/locations/sell-mineral-rights-bennett-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bennett, CO"
+    },
+    "/locations/berkley-co": {
+      "src": "/ours/locations/sell-mineral-rights-berkley-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Berkley, CO"
+    },
+    "/locations/berthoud-co": {
+      "src": "/ours/locations/sell-mineral-rights-berthoud-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Berthoud, CO"
+    },
+    "/locations/bow-mar-co": {
+      "src": "/ours/locations/sell-mineral-rights-bow-mar-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bow Mar, CO"
+    },
+    "/locations/branson-co": {
+      "src": "/ours/locations/sell-mineral-rights-branson-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Branson, CO"
+    },
+    "/locations/broomfield-co": {
+      "src": "/ours/locations/sell-mineral-rights-broomfield-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Broomfield, CO"
+    },
+    "/locations/carbondale-co": {
+      "src": "/ours/locations/sell-mineral-rights-carbondale-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Carbondale, CO"
+    },
+    "/locations/cattle-creek-co": {
+      "src": "/ours/locations/sell-mineral-rights-cattle-creek-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cattle Creek, CO"
+    },
+    "/locations/chacra-co": {
+      "src": "/ours/locations/sell-mineral-rights-chacra-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Chacra, CO"
+    },
+    "/locations/cherry-hills-village-co": {
+      "src": "/ours/locations/sell-mineral-rights-cherry-hills-village-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cherry Hills Village, CO"
+    },
+    "/locations/cheyenne-county": {
+      "src": "/ours/locations/sell-mineral-rights-cheyenne-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cheyenne County, CO"
+    },
+    "/locations/cheyenne-wells-co": {
+      "src": "/ours/locations/sell-mineral-rights-cheyenne-wells-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cheyenne Wells, CO"
+    },
+    "/locations/cokedale-co": {
+      "src": "/ours/locations/sell-mineral-rights-cokedale-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cokedale, CO"
+    },
+    "/locations/columbine-co": {
+      "src": "/ours/locations/sell-mineral-rights-columbine-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Columbine, CO"
+    },
+    "/locations/columbine-valley-co": {
+      "src": "/ours/locations/sell-mineral-rights-columbine-valley-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Columbine Valley, CO"
+    },
+    "/locations/commerce-city-co": {
+      "src": "/ours/locations/sell-mineral-rights-commerce-city-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Commerce City, CO"
+    },
+    "/locations/dacono-co": {
+      "src": "/ours/locations/sell-mineral-rights-dacono-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dacono, CO"
+    },
+    "/locations/derby-co": {
+      "src": "/ours/locations/sell-mineral-rights-derby-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Derby, CO"
+    },
+    "/locations/dove-valley-co": {
+      "src": "/ours/locations/sell-mineral-rights-dove-valley-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dove Valley, CO"
+    },
+    "/locations/eckley-co": {
+      "src": "/ours/locations/sell-mineral-rights-eckley-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Eckley, CO"
+    },
+    "/locations/el-moro-co": {
+      "src": "/ours/locations/sell-mineral-rights-el-moro-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in El Moro, CO"
+    },
+    "/locations/evans-co": {
+      "src": "/ours/locations/sell-mineral-rights-evans-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Evans, CO"
+    },
+    "/locations/federal-heights-co": {
+      "src": "/ours/locations/sell-mineral-rights-federal-heights-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Federal Heights, CO"
+    },
+    "/locations/firestone-co": {
+      "src": "/ours/locations/sell-mineral-rights-firestone-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Firestone, CO"
+    },
+    "/locations/four-square-mile-co": {
+      "src": "/ours/locations/sell-mineral-rights-four-square-mile-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Four Square Mile, CO"
+    },
+    "/locations/frederick-co": {
+      "src": "/ours/locations/sell-mineral-rights-frederick-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Frederick, CO"
+    },
+    "/locations/fruita-co": {
+      "src": "/ours/locations/sell-mineral-rights-fruita-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fruita, CO"
+    },
+    "/locations/garden-city-co": {
+      "src": "/ours/locations/sell-mineral-rights-garden-city-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Garden City, CO"
+    },
+    "/locations/glenwood-springs-co": {
+      "src": "/ours/locations/sell-mineral-rights-glenwood-springs-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Glenwood Springs, CO"
+    },
+    "/locations/greenwood-village-co": {
+      "src": "/ours/locations/sell-mineral-rights-greenwood-village-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Greenwood Village, CO"
+    },
+    "/locations/grover-co": {
+      "src": "/ours/locations/sell-mineral-rights-grover-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Grover, CO"
+    },
+    "/locations/hoehne-co": {
+      "src": "/ours/locations/sell-mineral-rights-hoehne-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hoehne, CO"
+    },
+    "/locations/holly-hills-co": {
+      "src": "/ours/locations/sell-mineral-rights-holly-hills-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Holly Hills, CO"
+    },
+    "/locations/hudson-co": {
+      "src": "/ours/locations/sell-mineral-rights-hudson-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hudson, CO"
+    },
+    "/locations/idalia-co": {
+      "src": "/ours/locations/sell-mineral-rights-idalia-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Idalia, CO"
+    },
+    "/locations/ignacio-co": {
+      "src": "/ours/locations/sell-mineral-rights-ignacio-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ignacio, CO"
+    },
+    "/locations/joes-co": {
+      "src": "/ours/locations/sell-mineral-rights-joes-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Joes, CO"
+    },
+    "/locations/johnstown-co": {
+      "src": "/ours/locations/sell-mineral-rights-johnstown-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Johnstown, CO"
+    },
+    "/locations/kersey-co": {
+      "src": "/ours/locations/sell-mineral-rights-kersey-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kersey, CO"
+    },
+    "/locations/kim-co": {
+      "src": "/ours/locations/sell-mineral-rights-kim-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kim, CO"
+    },
+    "/locations/kirk-co": {
+      "src": "/ours/locations/sell-mineral-rights-kirk-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kirk, CO"
+    },
+    "/locations/kit-carson-co": {
+      "src": "/ours/locations/sell-mineral-rights-kit-carson-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kit Carson, CO"
+    },
+    "/locations/la-salle-co": {
+      "src": "/ours/locations/sell-mineral-rights-la-salle-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in La Salle, CO"
+    },
+    "/locations/larimer-county": {
+      "src": "/ours/locations/sell-mineral-rights-larimer-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Larimer County, CO"
+    },
+    "/locations/littleton-co": {
+      "src": "/ours/locations/sell-mineral-rights-littleton-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Littleton, CO"
+    },
+    "/locations/lochbuie-co": {
+      "src": "/ours/locations/sell-mineral-rights-lochbuie-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lochbuie, CO"
+    },
+    "/locations/loma-co": {
+      "src": "/ours/locations/sell-mineral-rights-loma-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Loma, CO"
+    },
+    "/locations/longmont-co": {
+      "src": "/ours/locations/sell-mineral-rights-longmont-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Longmont, CO"
+    },
+    "/locations/lynn-co": {
+      "src": "/ours/locations/sell-mineral-rights-lynn-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lynn, CO"
+    },
+    "/locations/marvel-co": {
+      "src": "/ours/locations/sell-mineral-rights-marvel-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Marvel, CO"
+    },
+    "/locations/mead-co": {
+      "src": "/ours/locations/sell-mineral-rights-mead-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mead, CO"
+    },
+    "/locations/meeker-co": {
+      "src": "/ours/locations/sell-mineral-rights-meeker-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Meeker, CO"
+    },
+    "/locations/milliken-co": {
+      "src": "/ours/locations/sell-mineral-rights-milliken-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Milliken, CO"
+    },
+    "/locations/mulford-co": {
+      "src": "/ours/locations/sell-mineral-rights-mulford-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mulford, CO"
+    },
+    "/locations/new-castle-co": {
+      "src": "/ours/locations/sell-mineral-rights-new-castle-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Castle, CO"
+    },
+    "/locations/no-name-co": {
+      "src": "/ours/locations/sell-mineral-rights-no-name-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in No Name, CO"
+    },
+    "/locations/north-washington-co": {
+      "src": "/ours/locations/sell-mineral-rights-north-washington-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in North Washington, CO"
+    },
+    "/locations/northglenn-co": {
+      "src": "/ours/locations/sell-mineral-rights-northglenn-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Northglenn, CO"
+    },
+    "/locations/orchard-mesa-co": {
+      "src": "/ours/locations/sell-mineral-rights-orchard-mesa-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Orchard Mesa, CO"
+    },
+    "/locations/palisade-co": {
+      "src": "/ours/locations/sell-mineral-rights-palisade-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Palisade, CO"
+    },
+    "/locations/parachute-co": {
+      "src": "/ours/locations/sell-mineral-rights-parachute-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Parachute, CO"
+    },
+    "/locations/platteville-co": {
+      "src": "/ours/locations/sell-mineral-rights-platteville-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Platteville, CO"
+    },
+    "/locations/red-feather-lakes-co": {
+      "src": "/ours/locations/sell-mineral-rights-red-feather-lakes-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Red Feather Lakes, CO"
+    },
+    "/locations/redlands-co": {
+      "src": "/ours/locations/sell-mineral-rights-redlands-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Redlands, CO"
+    },
+    "/locations/severance-co": {
+      "src": "/ours/locations/sell-mineral-rights-severance-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Severance, CO"
+    },
+    "/locations/silt-co": {
+      "src": "/ours/locations/sell-mineral-rights-silt-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Silt, CO"
+    },
+    "/locations/starkville-co": {
+      "src": "/ours/locations/sell-mineral-rights-starkville-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Starkville, CO"
+    },
+    "/locations/stonewall-gap-co": {
+      "src": "/ours/locations/sell-mineral-rights-stonewall-gap-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stonewall Gap, CO"
+    },
+    "/locations/strasburg-co": {
+      "src": "/ours/locations/sell-mineral-rights-strasburg-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Strasburg, CO"
+    },
+    "/locations/thornton-co": {
+      "src": "/ours/locations/sell-mineral-rights-thornton-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Thornton, CO"
+    },
+    "/locations/timnath-co": {
+      "src": "/ours/locations/sell-mineral-rights-timnath-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Timnath, CO"
+    },
+    "/locations/watkins-co": {
+      "src": "/ours/locations/sell-mineral-rights-watkins-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Watkins, CO"
+    },
+    "/locations/wellington-co": {
+      "src": "/ours/locations/sell-mineral-rights-wellington-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wellington, CO"
+    },
+    "/locations/westminster-co": {
+      "src": "/ours/locations/sell-mineral-rights-westminster-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Westminster, CO"
+    },
+    "/locations/weston-co": {
+      "src": "/ours/locations/sell-mineral-rights-weston-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Weston, CO"
+    },
+    "/locations/wray-co": {
+      "src": "/ours/locations/sell-mineral-rights-wray-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wray, CO"
+    },
+    "/locations/yuma-co": {
+      "src": "/ours/locations/sell-mineral-rights-yuma-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Yuma, CO"
+    },
+    "/locations/yuma-county": {
+      "src": "/ours/locations/sell-mineral-rights-yuma-county-co.jpg",
+      "alt": "Local view for Sell Mineral Rights in Yuma County, CO"
+    }
+  }
 }
