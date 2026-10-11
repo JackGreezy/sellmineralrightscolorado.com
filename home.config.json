@@ -66,371 +66,463 @@
   "location_hero_images": {
     "/locations/weld-county": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/garfield-county": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/las-animas-county": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/fort-lupton-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/aetna-estates-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/aguilar-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/brick-center-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/briggsdale-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/broomfield-county": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/byers-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/carbonate-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/catherine-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/centennial-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/cherry-creek-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/clifton-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/collbran-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/comanche-creek-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/de-beque-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/deer-trail-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/eaton-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/englewood-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/erie-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/estes-park-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/foxfield-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/fruitvale-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/gilcrest-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/glendale-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/inverness-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/jansen-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/keenesburg-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/laird-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/laporte-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/nunn-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/peoria-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/pierce-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/raymer-new-raymer-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/segundo-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/shaw-heights-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/sheridan-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/sherrelwood-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/southern-ute-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/todd-creek-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/twin-lakes-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/valdez-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/vernon-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/welby-co": {
       "src": "/ours/locations/regional-arapahoe-co.jpg",
-      "alt": "Regional view: Arapahoe, Colorado",
-      "credit": "Arapahoe, Colorado. Regional Colorado photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Nyttend / Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg\" rel=\"noopener\">Public domain</a>. Resized/cropped for display.",
+      "alt": "View of Arapahoe, Colorado",
       "regional": true,
       "region": "Colorado",
-      "source": "https://commons.wikimedia.org/wiki/File%3AArapahoe_from_40.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Arapahoe_from_40.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Colorado view: Arapahoe, Colorado."
     },
     "/locations/greeley-co": {
       "src": "/ours/locations/sell-mineral-rights-greeley-co.jpg",
